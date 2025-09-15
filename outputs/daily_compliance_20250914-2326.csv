@@ -1,0 +1,1570 @@
+LV,date_only,prestart_done,prestart_by_first,prestart_time_first,roster_any,roster_first,rows,flag_no_prestart,flag_roster_mismatch,notes
+NCH 31,2025-07-15,False,,2025-07-15 16:25:00,True,Stephen Beggs,6,True,False,No prestart recorded.
+NCH 35,2025-07-15,True,Gary Everson,2025-07-15 16:57:00,True,gARY eVERSON,6,False,False,
+NCH 36,2025-07-15,True,Jamie Parkinson,2025-07-15 10:08:00,False,,12,False,False,
+NCH 37,2025-07-15,True,Thomas Ship,2025-07-15 09:54:00,False,,15,False,False,
+NCH 38,2025-07-15,False,,2025-07-15 14:38:00,False,,2,True,False,No prestart recorded.
+NCH 39,2025-07-15,True,Keith Byerley,2025-07-15 12:42:00,True,Keith B,6,False,True,Rostered 'Keith B' but prestart by 'Keith Byerley'.
+NCH 40,2025-07-15,True,Dean Peucker,2025-07-15 08:40:00,False,,9,False,False,
+NCH 42,2025-07-15,True,Troy Deards,2025-07-15 11:04:00,False,,11,False,False,
+NCH 43,2025-07-15,True,Roy Bevins,2025-07-15 15:47:00,True,Roy Bevins,14,False,False,
+NCH 44,2025-07-15,False,,2025-07-15 17:12:00,False,,8,True,False,No prestart recorded.
+NCH 45,2025-07-15,False,,2025-07-15 12:32:00,False,,6,True,False,No prestart recorded.
+NCH 46,2025-07-15,False,,2025-07-15 08:32:00,False,,17,True,False,No prestart recorded.
+NCH 52,2025-07-15,False,,2025-07-15 17:15:00,True,Fank Roberts,2,True,False,No prestart recorded.
+NCH 53,2025-07-15,False,,2025-07-15 15:45:00,False,,4,True,False,No prestart recorded.
+NCH 54,2025-07-15,False,,2025-07-15 19:18:00,False,,8,True,False,No prestart recorded.
+NCH 55,2025-07-15,True,Mark Robson,2025-07-15 11:00:00,False,,6,False,False,
+NCH 56,2025-07-15,True,Laura Tyrrell,2025-07-15 16:37:00,True,Laura Tyrrel,2,False,True,Rostered 'Laura Tyrrel' but prestart by 'Laura Tyrrell'.
+NCH 61,2025-07-15,True,Craig Ashford,2025-07-15 08:52:00,False,,13,False,False,
+NCH 64,2025-07-15,True,Wayne Daniels,2025-07-15 11:22:00,False,,14,False,False,
+NCH 65,2025-07-15,True,Paul Smeaton,2025-07-15 14:03:00,False,,4,False,False,
+NCH 66,2025-07-15,True,Douglas Cane,2025-07-15 09:56:00,False,,22,False,False,
+NCH 67,2025-07-15,True,Samuel Eden,2025-07-15 09:17:00,False,,9,False,False,
+NCH 69,2025-07-15,True,William Frost,2025-07-15 11:33:00,False,,10,False,False,
+NCH 70,2025-07-15,True,Shane Good,2025-07-15 12:19:00,True,Pauly,9,False,True,Rostered 'Pauly' but prestart by 'Shane Good'.
+NCH 71,2025-07-15,True,Sean Cridland,2025-07-15 16:59:00,True,Sean Cridland,20,False,False,
+NGL 001,2025-07-15,False,,2025-07-15 09:35:00,False,,12,True,False,No prestart recorded.
+NCH 31,2025-07-16,False,,2025-07-16 01:21:00,True,Stephen Beggs,13,True,False,No prestart recorded.
+NCH 35,2025-07-16,False,,2025-07-16 05:14:00,True,gARY eVERSON,6,True,False,No prestart recorded.
+NCH 36,2025-07-16,False,,2025-07-16 07:36:00,True,Jamie Parkinson,9,True,False,No prestart recorded.
+NCH 37,2025-07-16,False,,2025-07-16 05:16:00,True,homas Ship,13,True,False,No prestart recorded.
+NCH 38,2025-07-16,False,,2025-07-16 11:49:00,False,,4,True,False,No prestart recorded.
+NCH 39,2025-07-16,False,,2025-07-16 05:10:00,True,Keith B,7,True,False,No prestart recorded.
+NCH 40,2025-07-16,False,,2025-07-16 05:26:00,True,Daniel Peucker,9,True,False,No prestart recorded.
+NCH 41,2025-07-16,False,,2025-07-16 06:43:00,False,,9,True,False,No prestart recorded.
+NCH 42,2025-07-16,False,,2025-07-16 08:53:00,True,Troy Deards,7,True,False,No prestart recorded.
+NCH 43,2025-07-16,False,,2025-07-16 01:55:00,True,Roy Bevins,16,True,False,No prestart recorded.
+NCH 44,2025-07-16,False,,2025-07-16 06:19:00,True,Rodney Lowe,14,True,False,No prestart recorded.
+NCH 45,2025-07-16,False,,2025-07-16 06:35:00,False,,8,True,False,No prestart recorded.
+NCH 46,2025-07-16,False,,2025-07-16 06:11:00,False,,12,True,False,No prestart recorded.
+NCH 52,2025-07-16,False,,2025-07-16 05:05:00,True,Fank Roberts,6,True,False,No prestart recorded.
+NCH 53,2025-07-16,False,,2025-07-16 07:57:00,False,,3,True,False,No prestart recorded.
+NCH 54,2025-07-16,False,,2025-07-16 05:40:00,False,,20,True,False,No prestart recorded.
+NCH 55,2025-07-16,False,,2025-07-16 04:28:00,True,Robo,4,True,False,No prestart recorded.
+NCH 56,2025-07-16,False,,2025-07-16 05:41:00,True,Laura Tyrrel,13,True,False,No prestart recorded.
+NCH 61,2025-07-16,False,,2025-07-16 05:38:00,True,Craig Ashford,4,True,False,No prestart recorded.
+NCH 64,2025-07-16,False,,2025-07-16 05:53:00,True,Douglas Cane,15,True,False,No prestart recorded.
+NCH 65,2025-07-16,False,,2025-07-16 05:17:00,False,,4,True,False,No prestart recorded.
+NCH 66,2025-07-16,False,,2025-07-16 03:04:00,False,,13,True,False,No prestart recorded.
+NCH 67,2025-07-16,False,,2025-07-16 05:35:00,True,Samuel Eden,19,True,False,No prestart recorded.
+NCH 69,2025-07-16,False,,2025-07-16 05:54:00,True,William Frost,20,True,False,No prestart recorded.
+NCH 70,2025-07-16,False,,2025-07-16 01:02:00,True,Pauly/Shane Good,12,True,False,No prestart recorded.
+NCH 71,2025-07-16,False,,2025-07-16 01:24:00,True,Sean Cridland,14,True,False,No prestart recorded.
+NGL 001,2025-07-16,False,,2025-07-16 05:20:00,False,,10,True,False,No prestart recorded.
+NCH 28,2025-07-17,False,,2025-07-17 08:48:00,False,,5,True,False,No prestart recorded.
+NCH 31,2025-07-17,False,,2025-07-17 00:35:00,False,,2,True,False,No prestart recorded.
+NCH 35,2025-07-17,False,,2025-07-17 01:34:00,True,gARY eVERSON,6,True,False,No prestart recorded.
+NCH 36,2025-07-17,True,Jamie Parkinson,2025-07-17 05:14:00,False,,11,False,False,
+NCH 37,2025-07-17,False,,2025-07-17 05:21:00,True,homas Ship,11,True,False,No prestart recorded.
+NCH 39,2025-07-17,True,Keith Byerley,2025-07-17 17:05:00,True,Keith B,6,False,True,Rostered 'Keith B' but prestart by 'Keith Byerley'.
+NCH 40,2025-07-17,False,,2025-07-17 07:00:00,False,,12,True,False,No prestart recorded.
+NCH 41,2025-07-17,True,Philip Dolan,2025-07-17 05:16:00,False,,9,False,False,
+NCH 42,2025-07-17,False,,2025-07-17 16:40:00,False,,2,True,False,No prestart recorded.
+NCH 43,2025-07-17,False,,2025-07-17 00:33:00,True,Roy Bevins,5,True,False,No prestart recorded.
+NCH 44,2025-07-17,False,,2025-07-17 17:07:00,True,Rodney Lowe,9,True,False,No prestart recorded.
+NCH 45,2025-07-17,False,,2025-07-17 06:31:00,False,,5,True,False,No prestart recorded.
+NCH 46,2025-07-17,False,,2025-07-17 06:04:00,False,,7,True,False,No prestart recorded.
+NCH 52,2025-07-17,True,Frank Roberts,2025-07-17 04:53:00,True,Fank Roberts,2,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-17,False,,2025-07-17 14:01:00,False,,3,True,False,No prestart recorded.
+NCH 54,2025-07-17,True,Jeremy Naughton,2025-07-17 05:15:00,False,,10,False,False,
+NCH 55,2025-07-17,False,,2025-07-17 04:29:00,True,Robo,12,True,False,No prestart recorded.
+NCH 56,2025-07-17,True,Laura Tyrrell,2025-07-17 05:46:00,False,,13,False,False,
+NCH 58,2025-07-17,True,Lucas Sheen,2025-07-17 07:33:00,True,Luke Shen,6,False,True,Rostered 'Luke Shen' but prestart by 'Lucas Sheen'.
+NCH 61,2025-07-17,False,,2025-07-17 05:44:00,True,Craig Ashford,14,True,False,No prestart recorded.
+NCH 64,2025-07-17,True,Douglas Cane,2025-07-17 05:11:00,True,Douglas Cane,13,False,False,
+NCH 65,2025-07-17,False,,2025-07-17 05:21:00,False,,2,True,False,No prestart recorded.
+NCH 66,2025-07-17,False,,2025-07-17 00:27:00,False,,11,True,False,No prestart recorded.
+NCH 67,2025-07-17,True,Samuel Eden,2025-07-17 05:30:00,True,Samuel Eden,17,False,False,
+NCH 69,2025-07-17,False,,2025-07-17 02:55:00,False,,18,True,False,No prestart recorded.
+NCH 70,2025-07-17,True,Paul Leahy,2025-07-17 02:18:00,True,Pauly/Shane Good,12,False,True,Rostered 'Pauly/Shane Good' but prestart by 'Paul Leahy'.
+NCH 71,2025-07-17,True,Sean Cridland,2025-07-17 02:08:00,True,Sean Cridland,13,False,False,
+NGL 001,2025-07-17,False,,2025-07-17 06:09:00,False,,8,True,False,No prestart recorded.
+NCH 28,2025-07-18,False,,2025-07-18 09:21:00,False,,14,True,False,No prestart recorded.
+NCH 31,2025-07-18,True,Stephen Begg,2025-07-18 07:03:00,True,Beggsy,4,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 35,2025-07-18,False,,2025-07-18 00:53:00,True,Gary Everson,7,True,False,No prestart recorded.
+NCH 36,2025-07-18,False,,2025-07-18 07:02:00,False,,10,True,False,No prestart recorded.
+NCH 37,2025-07-18,True,Thomas Ship,2025-07-18 05:23:00,True,homas Ship,11,False,True,Rostered 'homas Ship' but prestart by 'Thomas Ship'.
+NCH 38,2025-07-18,False,,2025-07-18 06:43:00,False,,6,True,False,No prestart recorded.
+NCH 39,2025-07-18,True,Keith Byerley,2025-07-18 01:36:00,True,Keith B,9,False,True,Rostered 'Keith B' but prestart by 'Keith Byerley'.
+NCH 40,2025-07-18,True,Dean Peucker,2025-07-18 05:51:00,True,Dean Peucker,9,False,False,
+NCH 41,2025-07-18,True,Philip Dolan,2025-07-18 05:13:00,True,Phil Dolan,9,False,True,Rostered 'Phil Dolan' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-18,False,,2025-07-18 06:10:00,False,,3,True,False,No prestart recorded.
+NCH 43,2025-07-18,True,Roy Bevins,2025-07-18 07:22:00,True,Roy Bevins,11,False,False,
+NCH 44,2025-07-18,False,,2025-07-18 01:16:00,True,Rodney Lowe,15,True,False,No prestart recorded.
+NCH 45,2025-07-18,False,,2025-07-18 06:33:00,False,,7,True,False,No prestart recorded.
+NCH 46,2025-07-18,False,,2025-07-18 06:05:00,False,,5,True,False,No prestart recorded.
+NCH 52,2025-07-18,True,Frank Roberts,2025-07-18 05:07:00,True,Fank Roberts,2,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-18,False,,2025-07-18 14:10:00,False,,3,True,False,No prestart recorded.
+NCH 54,2025-07-18,False,,2025-07-18 06:37:00,False,,11,True,False,No prestart recorded.
+NCH 55,2025-07-18,False,,2025-07-18 04:18:00,True,Robo,11,True,False,No prestart recorded.
+NCH 56,2025-07-18,True,Laura Tyrrell,2025-07-18 07:01:00,True,Laura Tyrreel,11,False,True,Rostered 'Laura Tyrreel' but prestart by 'Laura Tyrrell'.
+NCH 58,2025-07-18,True,Lucas Sheen,2025-07-18 05:34:00,True,Luke Shen,2,False,True,Rostered 'Luke Shen' but prestart by 'Lucas Sheen'.
+NCH 61,2025-07-18,False,,2025-07-18 05:05:00,True,Craig Ashford,16,True,False,No prestart recorded.
+NCH 64,2025-07-18,True,Douglas Cane,2025-07-18 00:30:00,True,Douglas Cane,21,False,False,
+NCH 65,2025-07-18,False,,2025-07-18 09:14:00,False,,2,True,False,No prestart recorded.
+NCH 66,2025-07-18,False,,2025-07-18 01:58:00,False,,3,True,False,No prestart recorded.
+NCH 67,2025-07-18,True,Samuel Eden,2025-07-18 05:56:00,True,Samuel Eden,9,False,False,
+NCH 69,2025-07-18,False,,2025-07-18 04:10:00,False,,13,True,False,No prestart recorded.
+NCH 70,2025-07-18,True,Paul Leahy,2025-07-18 02:04:00,False,,10,False,False,
+NCH 71,2025-07-18,True,Sean Cridland,2025-07-18 14:50:00,True,Sean Cridland,14,False,False,
+NGL 001,2025-07-18,False,,2025-07-18 06:46:00,False,,7,True,False,No prestart recorded.
+NCH 31,2025-07-19,True,Tutavake Thompson,2025-07-19 09:55:00,False,,10,False,False,
+NCH 35,2025-07-19,True,Gary Everson,2025-07-19 05:07:00,True,Gary  Everson,5,False,True,Rostered 'Gary  Everson' but prestart by 'Gary Everson'.
+NCH 36,2025-07-19,True,Jamie Parkinson,2025-07-19 06:47:00,False,,8,False,False,
+NCH 37,2025-07-19,False,,2025-07-19 05:19:00,True,Thomas  Ship,13,True,False,No prestart recorded.
+NCH 39,2025-07-19,False,,2025-07-19 00:15:00,True,Keith B,2,True,False,No prestart recorded.
+NCH 40,2025-07-19,False,,2025-07-19 07:53:00,True,Dean Peucker,3,True,False,No prestart recorded.
+NCH 41,2025-07-19,True,Philip Dolan,2025-07-19 05:21:00,True,Phil Dolan,7,False,True,Rostered 'Phil Dolan' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-19,True,Melville Gray,2025-07-19 09:47:00,False,,11,False,False,
+NCH 43,2025-07-19,True,Jerzy (George) Szulgowski,2025-07-19 06:58:00,False,,9,False,False,
+NCH 44,2025-07-19,False,,2025-07-19 03:50:00,True,Rodney Lowe,10,True,False,No prestart recorded.
+NCH 45,2025-07-19,False,,2025-07-19 06:29:00,False,,2,True,False,No prestart recorded.
+NCH 46,2025-07-19,True,Daniel Halton,2025-07-19 06:10:00,False,,11,False,False,
+NCH 52,2025-07-19,True,Frank Roberts,2025-07-19 05:04:00,True,Fank Roberts,2,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-19,True,Jordan Lowe,2025-07-19 07:05:00,False,,4,False,False,
+NCH 54,2025-07-19,False,,2025-07-19 06:56:00,True,Laura,8,True,False,No prestart recorded.
+NCH 55,2025-07-19,False,,2025-07-19 04:24:00,False,,7,True,False,No prestart recorded.
+NCH 56,2025-07-19,True,Laura Tyrrell,2025-07-19 06:43:00,True,Timmy Jogn,12,False,True,Rostered 'Timmy Jogn' but prestart by 'Laura Tyrrell'.
+NCH 61,2025-07-19,False,,2025-07-19 05:57:00,True,Sara Bhuva,18,True,False,No prestart recorded.
+NCH 64,2025-07-19,False,,2025-07-19 02:01:00,False,,20,True,False,No prestart recorded.
+NCH 65,2025-07-19,False,,2025-07-19 08:59:00,False,,1,True,False,No prestart recorded.
+NCH 66,2025-07-19,False,,2025-07-19 06:40:00,True,Chris Evans,12,True,False,No prestart recorded.
+NCH 67,2025-07-19,True,Samuel Eden,2025-07-19 05:27:00,False,,6,False,False,
+NCH 69,2025-07-19,False,,2025-07-19 01:15:00,False,,13,True,False,No prestart recorded.
+NCH 70,2025-07-19,True,Paul Leahy,2025-07-19 01:02:00,False,,13,False,False,
+NCH 71,2025-07-19,True,Sean Cridland,2025-07-19 05:38:00,True,Tasveer Mann,23,False,True,Rostered 'Tasveer Mann' but prestart by 'Sean Cridland'.
+NGL 001,2025-07-19,False,,2025-07-19 08:26:00,False,,1,True,False,No prestart recorded.
+NCH 31,2025-07-20,True,Tutavake Thompson,2025-07-20 06:35:00,True,Mark Dawson,11,False,True,Rostered 'Mark Dawson' but prestart by 'Tutavake Thompson'.
+NCH 35,2025-07-20,False,,2025-07-20 01:45:00,True,Gary Everson & Bethany,2,True,False,No prestart recorded.
+NCH 36,2025-07-20,True,Jamie Parkinson,2025-07-20 06:47:00,True,Jame Parkison,10,False,True,Rostered 'Jame Parkison' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-07-20,True,Thomas Ship,2025-07-20 05:05:00,True,Thomas Ship,16,False,False,
+NCH 39,2025-07-20,True,Keith Byerley,2025-07-20 05:08:00,True,Keith Byerely,7,False,True,Rostered 'Keith Byerely' but prestart by 'Keith Byerley'.
+NCH 41,2025-07-20,True,Philip Dolan,2025-07-20 05:50:00,True,Philip Dolan,10,False,False,
+NCH 42,2025-07-20,True,Daniel Darwell,2025-07-20 06:26:00,True,Daniel Darwell,3,False,False,
+NCH 43,2025-07-20,True,Roy Bevins,2025-07-20 17:14:00,True,Roy Bevins,2,False,False,
+NCH 44,2025-07-20,False,,2025-07-20 01:33:00,True,Rodney Lowe,13,True,False,No prestart recorded.
+NCH 45,2025-07-20,False,,2025-07-20 06:29:00,True,Maintenance,7,True,False,No prestart recorded.
+NCH 46,2025-07-20,True,Daniel Halton,2025-07-20 06:05:00,False,,17,False,False,
+NCH 52,2025-07-20,True,Frank Roberts,2025-07-20 05:03:00,True,Fank Roberts,9,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-20,False,,2025-07-20 16:00:00,True,WHS,2,True,False,No prestart recorded.
+NCH 54,2025-07-20,True,Melville Gray,2025-07-20 06:49:00,True,Melville Gray,12,False,False,
+NCH 55,2025-07-20,False,,2025-07-20 04:24:00,True,Mark Robo,7,True,False,No prestart recorded.
+NCH 61,2025-07-20,False,,2025-07-20 06:27:00,True,Craig Ashford,19,True,False,No prestart recorded.
+NCH 64,2025-07-20,True,Douglas Cane,2025-07-20 02:12:00,False,,22,False,False,
+NCH 66,2025-07-20,False,,2025-07-20 06:01:00,True,Chris Evans,12,True,False,No prestart recorded.
+NCH 67,2025-07-20,False,,2025-07-20 05:34:00,True,Wayne Daniels,2,True,False,No prestart recorded.
+NCH 69,2025-07-20,False,,2025-07-20 01:49:00,False,,12,True,False,No prestart recorded.
+NCH 70,2025-07-20,True,Paul Leahy,2025-07-20 03:13:00,True,Pauly,15,False,True,Rostered 'Pauly' but prestart by 'Paul Leahy'.
+NCH 71,2025-07-20,True,Sean Cridland,2025-07-20 05:31:00,False,,29,False,False,
+NCH 31,2025-07-21,True,Mark Dawson,2025-07-21 05:34:00,True,Mark Dawson,27,False,False,
+NCH 35,2025-07-21,True,Gary Everson,2025-07-21 06:00:00,True,Gary Everson,15,False,False,
+NCH 36,2025-07-21,True,Jamie Parkinson,2025-07-21 06:40:00,True,Jame Parkison,21,False,True,Rostered 'Jame Parkison' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-07-21,True,Thomas Ship,2025-07-21 05:23:00,True,Thomas Ship,25,False,False,
+NCH 38,2025-07-21,False,,2025-07-21 06:59:00,True,R&M,19,True,False,No prestart recorded.
+NCH 39,2025-07-21,True,Keith Byerley,2025-07-21 05:27:00,True,Keith Byerely & Roy Bevins,27,False,True,Rostered 'Keith Byerely & Roy Bevins' but prestart by 'Keith Byerley'.
+NCH 40,2025-07-21,False,,2025-07-21 15:06:00,False,,8,True,False,No prestart recorded.
+NCH 41,2025-07-21,True,Philip Dolan,2025-07-21 06:42:00,True,Philip Dolan,26,False,False,
+NCH 42,2025-07-21,True,Daniel Darwell,2025-07-21 05:41:00,True,Daniel Darwell,18,False,False,
+NCH 43,2025-07-21,True,Jerzy (George) Szulgowski,2025-07-21 02:16:00,False,,7,False,False,
+NCH 44,2025-07-21,False,,2025-07-21 00:57:00,True,Rodney Lowe,4,True,False,No prestart recorded.
+NCH 45,2025-07-21,False,,2025-07-21 06:21:00,True,Maintenance,10,True,False,No prestart recorded.
+NCH 46,2025-07-21,True,Daniel Halton,2025-07-21 06:05:00,False,,21,False,False,
+NCH 52,2025-07-21,True,Frank Roberts,2025-07-21 05:00:00,True,Fank Roberts,9,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-21,False,,2025-07-21 04:59:00,True,WHS,19,True,False,No prestart recorded.
+NCH 54,2025-07-21,True,Melville Gray,2025-07-21 06:49:00,True,Melville Gray,23,False,False,
+NCH 55,2025-07-21,False,,2025-07-21 04:09:00,True,Mark Robo,35,True,False,No prestart recorded.
+NCH 56,2025-07-21,False,,2025-07-21 06:49:00,True,Roshan Mann,19,True,False,No prestart recorded.
+NCH 61,2025-07-21,False,,2025-07-21 05:40:00,True,Craig Ashford,44,True,False,No prestart recorded.
+NCH 64,2025-07-21,True,Douglas Cane,2025-07-21 01:56:00,False,,34,False,False,
+NCH 65,2025-07-21,False,,2025-07-21 14:39:00,False,,6,True,False,No prestart recorded.
+NCH 66,2025-07-21,True,Christopher Evans,2025-07-21 06:41:00,True,Chris Evans,28,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-21,True,Wayne Daniels,2025-07-21 05:31:00,True,Wayne Daniels,8,False,False,
+NCH 69,2025-07-21,False,,2025-07-21 00:49:00,False,,26,True,False,No prestart recorded.
+NCH 70,2025-07-21,True,Paul Leahy,2025-07-21 05:33:00,True,Pauly,17,False,True,Rostered 'Pauly' but prestart by 'Paul Leahy'.
+NCH 71,2025-07-21,False,,2025-07-21 05:06:00,True,Sean Cridland,46,True,False,No prestart recorded.
+NCH 28,2025-07-22,True,Robert Bentley,2025-07-22 12:51:00,False,,29,False,False,
+NCH 31,2025-07-22,True,Tutavake Thompson,2025-07-22 05:36:00,True,Stu Kingi/ Tutavake,8,False,True,Rostered 'Stu Kingi/ Tutavake' but prestart by 'Tutavake Thompson'.
+NCH 35,2025-07-22,False,,2025-07-22 15:36:00,False,,5,True,False,No prestart recorded.
+NCH 36,2025-07-22,True,Jamie Parkinson,2025-07-22 06:49:00,False,,12,False,False,
+NCH 37,2025-07-22,True,Thomas Ship,2025-07-22 05:00:00,True,Thomas SHIP,11,False,False,
+NCH 38,2025-07-22,False,,2025-07-22 06:27:00,True,R&M,10,True,False,No prestart recorded.
+NCH 39,2025-07-22,False,,2025-07-22 05:48:00,False,,21,True,False,No prestart recorded.
+NCH 40,2025-07-22,True,Paul Smeaton,2025-07-22 04:40:00,True,Paul Smeaton,12,False,False,
+NCH 41,2025-07-22,True,Philip Dolan,2025-07-22 05:48:00,False,,4,False,False,
+NCH 42,2025-07-22,True,Tramaine Rangi,2025-07-22 06:25:00,True,Daniel Darwell,25,False,True,Rostered 'Daniel Darwell' but prestart by 'Tramaine Rangi'.
+NCH 43,2025-07-22,True,Jerzy (George) Szulgowski,2025-07-22 03:50:00,True,Roy Bevins,3,False,True,Rostered 'Roy Bevins' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 44,2025-07-22,False,,2025-07-22 05:46:00,True,Rodney Lowe,14,True,False,No prestart recorded.
+NCH 45,2025-07-22,False,,2025-07-22 06:54:00,True,Maintenance,1,True,False,No prestart recorded.
+NCH 46,2025-07-22,True,Daniel Halton,2025-07-22 06:00:00,False,,9,False,False,
+NCH 52,2025-07-22,True,Frank Roberts,2025-07-22 05:08:00,True,Fank Roberts,7,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-22,False,,2025-07-22 07:04:00,True,WHS,13,True,False,No prestart recorded.
+NCH 54,2025-07-22,True,Melville Gray,2025-07-22 06:50:00,True,Melville Gray,8,False,False,
+NCH 55,2025-07-22,True,Ian Kelly,2025-07-22 06:20:00,True,Ian Kelly,25,False,False,
+NCH 56,2025-07-22,True,Keith Byerley,2025-07-22 06:31:00,True,Roshan Mann,8,False,True,Rostered 'Roshan Mann' but prestart by 'Keith Byerley'.
+NCH 61,2025-07-22,False,,2025-07-22 04:26:00,True,Craig Ashford,16,True,False,No prestart recorded.
+NCH 64,2025-07-22,False,,2025-07-22 02:03:00,False,,21,True,False,No prestart recorded.
+NCH 65,2025-07-22,True,Brent Mason,2025-07-22 05:01:00,True,Brent,13,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-22,True,Christopher Evans,2025-07-22 05:55:00,True,Chris Evans,7,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-22,True,Wayne Daniels,2025-07-22 05:30:00,True,Wayne Daniels,12,False,False,
+NCH 69,2025-07-22,False,,2025-07-22 01:59:00,False,,15,True,False,No prestart recorded.
+NCH 70,2025-07-22,True,Shane Good,2025-07-22 02:06:00,True,Shane Good,9,False,False,
+NCH 71,2025-07-22,True,Sean Cridland,2025-07-22 06:10:00,True,Sean Cridland,19,False,False,
+NCH 31,2025-07-23,False,,2025-07-23 04:34:00,True,Stu Kingi,12,True,False,No prestart recorded.
+NCH 35,2025-07-23,False,,2025-07-23 01:03:00,False,,22,True,False,No prestart recorded.
+NCH 36,2025-07-23,False,,2025-07-23 06:43:00,False,,10,True,False,No prestart recorded.
+NCH 37,2025-07-23,True,Thomas Ship,2025-07-23 05:05:00,False,,14,False,False,
+NCH 38,2025-07-23,False,,2025-07-23 06:18:00,True,R&M,3,True,False,No prestart recorded.
+NCH 39,2025-07-23,True,Ian Kelly,2025-07-23 01:43:00,False,,39,False,False,
+NCH 40,2025-07-23,True,Paul Smeaton,2025-07-23 04:31:00,True,Paul Smeaton,17,False,False,
+NCH 41,2025-07-23,False,,2025-07-23 05:19:00,False,,2,True,False,No prestart recorded.
+NCH 42,2025-07-23,True,Curtis Weeks,2025-07-23 02:33:00,True,Daniel Darwell,25,False,True,Rostered 'Daniel Darwell' but prestart by 'Curtis Weeks'.
+NCH 43,2025-07-23,True,Jerzy (George) Szulgowski,2025-07-23 03:24:00,False,,4,False,False,
+NCH 44,2025-07-23,False,,2025-07-23 05:12:00,True,Rodney Lowe/Ross Sutton,18,True,False,No prestart recorded.
+NCH 46,2025-07-23,True,Daniel Halton,2025-07-23 06:00:00,False,,12,False,False,
+NCH 52,2025-07-23,True,Frank Roberts,2025-07-23 06:46:00,True,Fank Roberts,4,False,True,Rostered 'Fank Roberts' but prestart by 'Frank Roberts'.
+NCH 53,2025-07-23,False,,2025-07-23 00:24:00,True,WHS,16,True,False,No prestart recorded.
+NCH 54,2025-07-23,True,Melville Gray,2025-07-23 06:48:00,False,,16,False,False,
+NCH 55,2025-07-23,True,Andrew Toomey,2025-07-23 01:03:00,False,,14,False,False,
+NCH 56,2025-07-23,True,Paul Leahy,2025-07-23 07:46:00,False,,8,False,False,
+NCH 61,2025-07-23,False,,2025-07-23 04:22:00,True,Craig Ashford,22,True,False,No prestart recorded.
+NCH 64,2025-07-23,False,,2025-07-23 02:17:00,False,,19,True,False,No prestart recorded.
+NCH 65,2025-07-23,True,Brent Mason,2025-07-23 04:58:00,True,Brent,12,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-23,True,Christopher Evans,2025-07-23 05:34:00,True,Chris Evans,9,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-23,True,Wayne Daniels,2025-07-23 06:27:00,False,,10,False,False,
+NCH 69,2025-07-23,False,,2025-07-23 04:13:00,True,Lyle,16,True,False,No prestart recorded.
+NCH 70,2025-07-23,True,Tutavake Thompson,2025-07-23 06:52:00,False,,16,False,False,
+NCH 71,2025-07-23,True,Sean Cridland,2025-07-23 05:29:00,True,Sean Cridland,22,False,False,
+NCH 28,2025-07-24,False,,2025-07-24 05:31:00,True,William Nortan,13,True,False,No prestart recorded.
+NCH 31,2025-07-24,True,Stu Kingi,2025-07-24 04:36:00,True,Stu Kingi,12,False,False,
+NCH 35,2025-07-24,True,Daniel Kitchen,2025-07-24 04:16:00,False,,18,False,False,
+NCH 36,2025-07-24,False,,2025-07-24 06:45:00,False,,15,True,False,No prestart recorded.
+NCH 37,2025-07-24,True,Mackenzie Naughton,2025-07-24 06:15:00,False,,9,False,False,
+NCH 38,2025-07-24,False,,2025-07-24 06:25:00,True,R&M,7,True,False,No prestart recorded.
+NCH 39,2025-07-24,True,Ian Kelly,2025-07-24 00:11:00,False,,44,False,False,
+NCH 40,2025-07-24,False,,2025-07-24 05:19:00,True,Paul Smeaton,15,True,False,No prestart recorded.
+NCH 41,2025-07-24,True,Philip Dolan,2025-07-24 05:09:00,True,Phil Dolan,5,False,True,Rostered 'Phil Dolan' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-24,True,Curtis Weeks,2025-07-24 01:36:00,False,,28,False,False,
+NCH 43,2025-07-24,True,Jerzy (George) Szulgowski,2025-07-24 01:29:00,False,,5,False,False,
+NCH 44,2025-07-24,False,,2025-07-24 07:01:00,False,,24,True,False,No prestart recorded.
+NCH 46,2025-07-24,False,,2025-07-24 05:56:00,False,,13,True,False,No prestart recorded.
+NCH 52,2025-07-24,True,Frank Roberts,2025-07-24 05:58:00,False,,14,False,False,
+NCH 53,2025-07-24,False,,2025-07-24 07:59:00,False,,9,True,False,No prestart recorded.
+NCH 54,2025-07-24,True,Melville Gray,2025-07-24 05:43:00,False,,8,False,False,
+NCH 55,2025-07-24,False,,2025-07-24 00:35:00,False,,18,True,False,No prestart recorded.
+NCH 56,2025-07-24,False,,2025-07-24 05:28:00,False,,2,True,False,No prestart recorded.
+NCH 58,2025-07-24,False,,2025-07-24 09:49:00,False,,1,True,False,No prestart recorded.
+NCH 61,2025-07-24,False,,2025-07-24 04:28:00,True,Craig Ashford,20,True,False,No prestart recorded.
+NCH 64,2025-07-24,False,,2025-07-24 06:31:00,False,,12,True,False,No prestart recorded.
+NCH 65,2025-07-24,True,Brent Mason,2025-07-24 07:37:00,True,Brent,11,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-24,False,,2025-07-24 05:30:00,True,Chris Evans,8,True,False,No prestart recorded.
+NCH 69,2025-07-24,False,,2025-07-24 04:56:00,False,,7,True,False,No prestart recorded.
+NCH 70,2025-07-24,True,Tutavake Thompson,2025-07-24 15:56:00,False,,4,False,False,
+NCH 71,2025-07-24,False,,2025-07-24 00:28:00,True,David E,46,True,False,No prestart recorded.
+NCH 28,2025-07-25,True,Jonathan Malcolm-Smith,2025-07-25 05:26:00,True,Jono Malcolm Smith,24,False,True,Rostered 'Jono Malcolm Smith' but prestart by 'Jonathan Malcolm-Smith'.
+NCH 31,2025-07-25,True,Eric Craft,2025-07-25 04:36:00,True,Stu Kingi,16,False,True,Rostered 'Stu Kingi' but prestart by 'Eric Craft'.
+NCH 35,2025-07-25,False,,2025-07-25 01:16:00,False,,28,True,False,No prestart recorded.
+NCH 36,2025-07-25,False,,2025-07-25 06:43:00,True,Jamie Parkinson,11,True,False,No prestart recorded.
+NCH 37,2025-07-25,False,,2025-07-25 07:58:00,True,David E & Macca,9,True,False,No prestart recorded.
+NCH 38,2025-07-25,False,,2025-07-25 06:06:00,True,R&M,2,True,False,No prestart recorded.
+NCH 39,2025-07-25,False,,2025-07-25 00:26:00,False,,31,True,False,No prestart recorded.
+NCH 40,2025-07-25,True,Paul Smeaton,2025-07-25 15:04:00,True,Paul Smeaton,7,False,False,
+NCH 41,2025-07-25,True,Philip Dolan,2025-07-25 05:10:00,True,Phil Dolna,2,False,True,Rostered 'Phil Dolna' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-25,True,Curtis Weeks,2025-07-25 00:00:00,False,,25,False,False,
+NCH 43,2025-07-25,True,Jerzy (George) Szulgowski,2025-07-25 16:57:00,False,,3,False,False,
+NCH 44,2025-07-25,True,Joseph Maddren,2025-07-25 01:38:00,False,,33,False,False,
+NCH 46,2025-07-25,True,Daniel Halton,2025-07-25 06:10:00,False,,3,False,False,
+NCH 52,2025-07-25,True,Frank Roberts,2025-07-25 04:59:00,True,Frank Roberts,12,False,False,
+NCH 53,2025-07-25,True,Ian Kelly,2025-07-25 08:15:00,False,,21,False,False,
+NCH 54,2025-07-25,True,Melville Gray,2025-07-25 06:51:00,True,Melville Gray,8,False,False,
+NCH 55,2025-07-25,False,,2025-07-25 00:36:00,False,,9,True,False,No prestart recorded.
+NCH 56,2025-07-25,True,Paul Leahy,2025-07-25 05:56:00,False,,6,False,False,
+NCH 58,2025-07-25,False,,2025-07-25 08:44:00,False,,14,True,False,No prestart recorded.
+NCH 61,2025-07-25,False,,2025-07-25 04:09:00,True,Craig Ashford,26,True,False,No prestart recorded.
+NCH 64,2025-07-25,False,,2025-07-25 06:32:00,False,,14,True,False,No prestart recorded.
+NCH 65,2025-07-25,False,,2025-07-25 04:13:00,True,Brent,23,True,False,No prestart recorded.
+NCH 66,2025-07-25,True,Christopher Evans,2025-07-25 05:39:00,True,Chris Evans,10,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-25,True,Wayne Daniels,2025-07-25 06:23:00,True,Wayne Daniels,11,False,False,
+NCH 69,2025-07-25,False,,2025-07-25 02:21:00,False,,4,True,False,No prestart recorded.
+NCH 70,2025-07-25,True,Tutavake Thompson,2025-07-25 01:21:00,True,Tutavake,14,False,True,Rostered 'Tutavake' but prestart by 'Tutavake Thompson'.
+NCH 71,2025-07-25,False,,2025-07-25 00:18:00,True,Sean Cridland,32,True,False,No prestart recorded.
+NCH 28,2025-07-26,True,Jonathan Malcolm-Smith,2025-07-26 06:25:00,True,Jono Malcolm Smith,2,False,True,Rostered 'Jono Malcolm Smith' but prestart by 'Jonathan Malcolm-Smith'.
+NCH 31,2025-07-26,True,Stu Kingi,2025-07-26 04:30:00,True,Stu Kingi/ Eric,12,False,True,Rostered 'Stu Kingi/ Eric' but prestart by 'Stu Kingi'.
+NCH 35,2025-07-26,True,Daniel Kitchen,2025-07-26 01:52:00,False,,26,False,False,
+NCH 36,2025-07-26,True,Jamie Parkinson,2025-07-26 07:29:00,False,,9,False,False,
+NCH 37,2025-07-26,False,,2025-07-26 01:04:00,False,,19,True,False,No prestart recorded.
+NCH 39,2025-07-26,True,Rangi Abbot,2025-07-26 00:17:00,False,,20,False,False,
+NCH 40,2025-07-26,True,Paul Smeaton,2025-07-26 00:56:00,True,Paul Smeaton,9,False,False,
+NCH 41,2025-07-26,True,Philip Dolan,2025-07-26 05:15:00,True,Phil Dolna,2,False,True,Rostered 'Phil Dolna' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-26,True,Curtis Weeks,2025-07-26 00:01:00,True,Curtis Week,13,False,True,Rostered 'Curtis Week' but prestart by 'Curtis Weeks'.
+NCH 43,2025-07-26,True,Jerzy (George) Szulgowski,2025-07-26 02:44:00,True,jEZY,5,False,True,Rostered 'jEZY' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 44,2025-07-26,True,Joseph Maddren,2025-07-26 01:11:00,True,Josheph Maddreen,24,False,True,Rostered 'Josheph Maddreen' but prestart by 'Joseph Maddren'.
+NCH 46,2025-07-26,False,,2025-07-26 06:18:00,False,,3,True,False,No prestart recorded.
+NCH 52,2025-07-26,True,Wayne Daniels,2025-07-26 05:59:00,True,Frank Robers,6,False,True,Rostered 'Frank Robers' but prestart by 'Wayne Daniels'.
+NCH 53,2025-07-26,True,Dan Kermode,2025-07-26 00:54:00,False,,16,False,False,
+NCH 54,2025-07-26,True,Melville Gray,2025-07-26 05:53:00,True,Melville Gray,6,False,False,
+NCH 55,2025-07-26,False,,2025-07-26 00:33:00,False,,20,True,False,No prestart recorded.
+NCH 56,2025-07-26,True,Stephen Begg,2025-07-26 04:51:00,True,Paul Leahy,19,False,True,Rostered 'Paul Leahy' but prestart by 'Stephen Begg'.
+NCH 58,2025-07-26,False,,2025-07-26 04:01:00,False,,9,True,False,No prestart recorded.
+NCH 61,2025-07-26,False,,2025-07-26 04:06:00,True,Craig Ashford,24,True,False,No prestart recorded.
+NCH 64,2025-07-26,True,Edward Broughton,2025-07-26 06:52:00,False,,2,False,False,
+NCH 65,2025-07-26,True,Brent Mason,2025-07-26 04:23:00,True,Brent,23,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-26,True,Christopher Evans,2025-07-26 05:33:00,True,Chris Evans,8,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-26,True,Mackenzie Naughton,2025-07-26 05:19:00,True,Macca Wayne Daniels,9,False,True,Rostered 'Macca Wayne Daniels' but prestart by 'Mackenzie Naughton'.
+NCH 69,2025-07-26,True,Lyle Cottenden,2025-07-26 07:06:00,True,Lyle,3,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-07-26,False,,2025-07-26 00:42:00,False,,12,True,False,No prestart recorded.
+NCH 71,2025-07-26,False,,2025-07-26 00:31:00,False,,25,True,False,No prestart recorded.
+NCH 28,2025-07-27,False,,2025-07-27 07:53:00,False,,6,True,False,No prestart recorded.
+NCH 31,2025-07-27,True,Stu Kingi,2025-07-27 04:34:00,True,Stu Kingi,13,False,False,
+NCH 35,2025-07-27,False,,2025-07-27 01:18:00,False,,14,True,False,No prestart recorded.
+NCH 36,2025-07-27,True,Jamie Parkinson,2025-07-27 06:29:00,False,,5,False,False,
+NCH 37,2025-07-27,False,,2025-07-27 01:36:00,False,,14,True,False,No prestart recorded.
+NCH 39,2025-07-27,True,Rangi Abbot,2025-07-27 04:25:00,False,,19,False,False,
+NCH 40,2025-07-27,True,Paul Smeaton,2025-07-27 00:29:00,True,Paul Smeaton,8,False,False,
+NCH 41,2025-07-27,False,,2025-07-27 05:15:00,False,,3,True,False,No prestart recorded.
+NCH 42,2025-07-27,True,Curtis Weeks,2025-07-27 03:12:00,False,,25,False,False,
+NCH 43,2025-07-27,False,,2025-07-27 01:48:00,False,,3,True,False,No prestart recorded.
+NCH 44,2025-07-27,True,Joseph Maddren,2025-07-27 01:22:00,False,,38,False,False,
+NCH 46,2025-07-27,False,,2025-07-27 07:02:00,False,,6,True,False,No prestart recorded.
+NCH 52,2025-07-27,True,Wayne Daniels,2025-07-27 06:16:00,False,,2,False,False,
+NCH 53,2025-07-27,False,,2025-07-27 07:02:00,False,,4,True,False,No prestart recorded.
+NCH 54,2025-07-27,True,Melville Gray,2025-07-27 06:50:00,False,,9,False,False,
+NCH 55,2025-07-27,False,,2025-07-27 00:37:00,False,,18,True,False,No prestart recorded.
+NCH 56,2025-07-27,False,,2025-07-27 01:24:00,False,,16,True,False,No prestart recorded.
+NCH 58,2025-07-27,False,,2025-07-27 03:54:00,False,,10,True,False,No prestart recorded.
+NCH 61,2025-07-27,False,,2025-07-27 08:27:00,True,Craig Ashford,2,True,False,No prestart recorded.
+NCH 65,2025-07-27,True,Brent Mason,2025-07-27 04:24:00,True,Brent,15,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-27,True,Christopher Evans,2025-07-27 05:31:00,True,Chris Evans,10,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-27,True,Mackenzie Naughton,2025-07-27 05:12:00,False,,10,False,False,
+NCH 69,2025-07-27,True,Lyle Cottenden,2025-07-27 06:08:00,False,,8,False,False,
+NCH 70,2025-07-27,False,,2025-07-27 02:30:00,False,,5,True,False,No prestart recorded.
+NCH 71,2025-07-27,False,,2025-07-27 00:24:00,False,,20,True,False,No prestart recorded.
+NCH 28,2025-07-28,True,Wayne Daniels,2025-07-28 05:59:00,True,Wayne Daniels,6,False,False,
+NCH 31,2025-07-28,True,Stu Kingi,2025-07-28 06:21:00,True,Stu Kingi,11,False,False,
+NCH 35,2025-07-28,True,Antony Sardelic,2025-07-28 04:44:00,False,,12,False,False,
+NCH 36,2025-07-28,False,,2025-07-28 11:34:00,True,Jamie P,1,True,False,No prestart recorded.
+NCH 37,2025-07-28,False,,2025-07-28 00:00:00,False,,17,True,False,No prestart recorded.
+NCH 38,2025-07-28,False,,2025-07-28 06:08:00,True,R&M,2,True,False,No prestart recorded.
+NCH 39,2025-07-28,False,,2025-07-28 02:29:00,True,Rangi,20,True,False,No prestart recorded.
+NCH 40,2025-07-28,True,Paul Smeaton,2025-07-28 00:25:00,True,Paul Smeaton,10,False,False,
+NCH 41,2025-07-28,True,Philip Dolan,2025-07-28 05:40:00,True,Phil Dolan,10,False,True,Rostered 'Phil Dolan' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-28,True,Curtis Weeks,2025-07-28 00:47:00,True,Curtis Week,20,False,True,Rostered 'Curtis Week' but prestart by 'Curtis Weeks'.
+NCH 43,2025-07-28,True,Jerzy (George) Szulgowski,2025-07-28 06:06:00,True,Jerzy,8,False,True,Rostered 'Jerzy' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 44,2025-07-28,True,Joseph Maddren,2025-07-28 02:33:00,True,Joseph Maddrewn,25,False,True,Rostered 'Joseph Maddrewn' but prestart by 'Joseph Maddren'.
+NCH 46,2025-07-28,False,,2025-07-28 06:09:00,False,,5,True,False,No prestart recorded.
+NCH 52,2025-07-28,False,,2025-07-28 09:03:00,True,Timothy Houareau,7,True,False,No prestart recorded.
+NCH 53,2025-07-28,False,,2025-07-28 08:50:00,False,,8,True,False,No prestart recorded.
+NCH 54,2025-07-28,False,,2025-07-28 06:55:00,True,Melville Gray,3,True,False,No prestart recorded.
+NCH 55,2025-07-28,True,Jason Kainuku,2025-07-28 01:04:00,True,JK,12,False,True,Rostered 'JK' but prestart by 'Jason Kainuku'.
+NCH 56,2025-07-28,False,,2025-07-28 03:22:00,False,,19,True,False,No prestart recorded.
+NCH 58,2025-07-28,False,,2025-07-28 04:00:00,False,,10,True,False,No prestart recorded.
+NCH 61,2025-07-28,True,Craig Ashford,2025-07-28 04:09:00,True,Craig Ashford,12,False,False,
+NCH 65,2025-07-28,True,Brent Mason,2025-07-28 04:50:00,True,Brent,11,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-28,True,Christopher Evans,2025-07-28 05:44:00,True,Chris Evans & Gary Everson,8,False,True,Rostered 'Chris Evans & Gary Everson' but prestart by 'Christopher Evans'.
+NCH 67,2025-07-28,True,Mackenzie Naughton,2025-07-28 06:51:00,True,Maca,2,False,True,Rostered 'Maca' but prestart by 'Mackenzie Naughton'.
+NCH 69,2025-07-28,True,Lyle Cottenden,2025-07-28 05:57:00,True,Lyle,3,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-07-28,True,Sean Cridland,2025-07-28 00:31:00,False,,12,False,False,
+NCH 71,2025-07-28,False,,2025-07-28 00:45:00,False,,21,True,False,No prestart recorded.
+NCH 28,2025-07-29,True,Wayne Daniels,2025-07-29 05:34:00,False,,5,False,False,
+NCH 31,2025-07-29,True,Stu Kingi,2025-07-29 06:22:00,True,Stu Kingi,12,False,False,
+NCH 35,2025-07-29,False,,2025-07-29 00:17:00,False,,16,True,False,No prestart recorded.
+NCH 36,2025-07-29,True,Jamie Parkinson,2025-07-29 10:35:00,True,Jamie P,7,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-07-29,False,,2025-07-29 00:02:00,False,,23,True,False,No prestart recorded.
+NCH 38,2025-07-29,False,,2025-07-29 06:09:00,True,R&M,2,True,False,No prestart recorded.
+NCH 39,2025-07-29,True,Rangi Abbot,2025-07-29 02:01:00,True,Rangi,13,False,True,Rostered 'Rangi' but prestart by 'Rangi Abbot'.
+NCH 40,2025-07-29,True,Paul Smeaton,2025-07-29 00:12:00,True,Paul Smeaton,12,False,False,
+NCH 41,2025-07-29,True,Philip Dolan,2025-07-29 07:41:00,True,Phil Dolan,8,False,True,Rostered 'Phil Dolan' but prestart by 'Philip Dolan'.
+NCH 42,2025-07-29,True,Curtis Weeks,2025-07-29 00:08:00,True,Curtis Week,12,False,True,Rostered 'Curtis Week' but prestart by 'Curtis Weeks'.
+NCH 43,2025-07-29,False,,2025-07-29 10:37:00,True,Jerzy,14,True,False,No prestart recorded.
+NCH 44,2025-07-29,False,,2025-07-29 01:08:00,True,Joseph Maddrewn,29,True,False,No prestart recorded.
+NCH 45,2025-07-29,False,,2025-07-29 09:03:00,True,Maintenance,8,True,False,No prestart recorded.
+NCH 46,2025-07-29,True,Daniel Halton,2025-07-29 06:25:00,False,,9,False,False,
+NCH 52,2025-07-29,False,,2025-07-29 06:07:00,True,Timothy Houareau,2,True,False,No prestart recorded.
+NCH 53,2025-07-29,False,,2025-07-29 06:50:00,False,,20,True,False,No prestart recorded.
+NCH 54,2025-07-29,True,Melville Gray,2025-07-29 06:49:00,True,Melville Gray,7,False,False,
+NCH 55,2025-07-29,False,,2025-07-29 00:50:00,True,JK,13,True,False,No prestart recorded.
+NCH 56,2025-07-29,True,Bradley Matyas,2025-07-29 02:32:00,False,,29,False,False,
+NCH 58,2025-07-29,False,,2025-07-29 04:09:00,False,,12,True,False,No prestart recorded.
+NCH 61,2025-07-29,False,,2025-07-29 04:01:00,True,Craig Ashford,14,True,False,No prestart recorded.
+NCH 64,2025-07-29,True,Dean Peucker,2025-07-29 09:49:00,True,Dean / Chirs,11,False,True,Rostered 'Dean / Chirs' but prestart by 'Dean Peucker'.
+NCH 65,2025-07-29,True,Brent Mason,2025-07-29 04:36:00,True,Brent,9,False,True,Rostered 'Brent' but prestart by 'Brent Mason'.
+NCH 66,2025-07-29,True,Christopher Evans,2025-07-29 05:24:00,False,,18,False,False,
+NCH 67,2025-07-29,True,Mackenzie Naughton,2025-07-29 17:01:00,True,Maca,2,False,True,Rostered 'Maca' but prestart by 'Mackenzie Naughton'.
+NCH 70,2025-07-29,False,,2025-07-29 00:10:00,False,,11,True,False,No prestart recorded.
+NCH 71,2025-07-29,True,Jordan Lowe,2025-07-29 02:23:00,False,,32,False,False,
+NCH 28,2025-07-30,True,Wayne Daniels,2025-07-30 05:09:00,True,Wayne Daniels,4,False,False,
+NCH 31,2025-07-30,False,,2025-07-30 11:19:00,False,,2,True,False,No prestart recorded.
+NCH 35,2025-07-30,False,,2025-07-30 03:22:00,False,,7,True,False,No prestart recorded.
+NCH 37,2025-07-30,False,,2025-07-30 00:39:00,False,,15,True,False,No prestart recorded.
+NCH 38,2025-07-30,False,,2025-07-30 06:13:00,True,R&M,2,True,False,No prestart recorded.
+NCH 39,2025-07-30,True,Rangi Abbot,2025-07-30 00:11:00,True,Rangi,19,False,True,Rostered 'Rangi' but prestart by 'Rangi Abbot'.
+NCH 40,2025-07-30,True,Paul Smeaton,2025-07-30 01:08:00,True,Paul Smeaton,13,False,False,
+NCH 41,2025-07-30,False,,2025-07-30 08:49:00,False,,4,True,False,No prestart recorded.
+NCH 42,2025-07-30,True,Curtis Weeks,2025-07-30 02:19:00,True,Curtis Week,10,False,True,Rostered 'Curtis Week' but prestart by 'Curtis Weeks'.
+NCH 43,2025-07-30,True,Keith Byerley,2025-07-30 02:07:00,True,Jerzy,18,False,True,Rostered 'Jerzy' but prestart by 'Keith Byerley'.
+NCH 44,2025-07-30,False,,2025-07-30 01:11:00,True,Joseph Maddrewn,23,True,False,No prestart recorded.
+NCH 45,2025-07-30,False,,2025-07-30 06:18:00,True,Maintenance,6,True,False,No prestart recorded.
+NCH 46,2025-07-30,False,,2025-07-30 06:09:00,False,,4,True,False,No prestart recorded.
+NCH 52,2025-07-30,False,,2025-07-30 07:11:00,True,Timothy Houareau,3,True,False,No prestart recorded.
+NCH 53,2025-07-30,False,,2025-07-30 07:21:00,False,,7,True,False,No prestart recorded.
+NCH 54,2025-07-30,True,Melville Gray,2025-07-30 06:47:00,True,Melville Gray,5,False,False,
+NCH 55,2025-07-30,False,,2025-07-30 01:01:00,True,JK,14,True,False,No prestart recorded.
+NCH 56,2025-07-30,False,,2025-07-30 00:45:00,False,,18,True,False,No prestart recorded.
+NCH 61,2025-07-30,False,,2025-07-30 04:03:00,True,Craig Ashford,36,True,False,No prestart recorded.
+NCH 64,2025-07-30,True,Christopher Evans,2025-07-30 05:22:00,True,Chris,18,False,True,Rostered 'Chris' but prestart by 'Christopher Evans'.
+NCH 65,2025-07-30,False,,2025-07-30 06:59:00,True,Brent,17,True,False,No prestart recorded.
+NCH 66,2025-07-30,True,Stu Kingi,2025-07-30 04:32:00,True,Stu,16,False,True,Rostered 'Stu' but prestart by 'Stu Kingi'.
+NCH 67,2025-07-30,True,Mackenzie Naughton,2025-07-30 00:45:00,True,Maca,5,False,True,Rostered 'Maca' but prestart by 'Mackenzie Naughton'.
+NCH 70,2025-07-30,False,,2025-07-30 00:27:00,True,Sean,6,True,False,No prestart recorded.
+NCH 71,2025-07-30,False,,2025-07-30 00:39:00,False,,25,True,False,No prestart recorded.
+NCH 28,2025-07-31,False,,2025-07-31 05:55:00,True,Wayne Daniels,8,True,False,No prestart recorded.
+NCH 31,2025-07-31,False,,2025-07-31 14:08:00,False,,5,True,False,No prestart recorded.
+NCH 35,2025-07-31,True,Ian Kelly,2025-07-31 03:52:00,True,Ian Kelly,7,False,False,
+NCH 37,2025-07-31,False,,2025-07-31 00:28:00,False,,29,True,False,No prestart recorded.
+NCH 38,2025-07-31,False,,2025-07-31 06:04:00,True,R&M,3,True,False,No prestart recorded.
+NCH 39,2025-07-31,True,Rangi Abbot,2025-07-31 01:48:00,True,Rangi,23,False,True,Rostered 'Rangi' but prestart by 'Rangi Abbot'.
+NCH 40,2025-07-31,True,Paul Smeaton,2025-07-31 01:13:00,True,Paul Smeaton,11,False,False,
+NCH 41,2025-07-31,True,Philip Dolan,2025-07-31 06:09:00,False,,12,False,False,
+NCH 42,2025-07-31,True,Ross Sutton,2025-07-31 00:46:00,True,Curtis Week,29,False,True,Rostered 'Curtis Week' but prestart by 'Ross Sutton'.
+NCH 43,2025-07-31,False,,2025-07-31 01:49:00,True,Jerzy,5,True,False,No prestart recorded.
+NCH 44,2025-07-31,False,,2025-07-31 00:56:00,True,Joseph Maddrewn,26,True,False,No prestart recorded.
+NCH 45,2025-07-31,False,,2025-07-31 06:24:00,True,Maintenance,2,True,False,No prestart recorded.
+NCH 46,2025-07-31,False,,2025-07-31 06:10:00,False,,9,True,False,No prestart recorded.
+NCH 53,2025-07-31,True,Andrew Toomey,2025-07-31 00:41:00,False,,12,False,False,
+NCH 54,2025-07-31,True,Melville Gray,2025-07-31 05:37:00,True,Melville Gray,5,False,False,
+NCH 55,2025-07-31,False,,2025-07-31 00:53:00,True,JK,22,True,False,No prestart recorded.
+NCH 56,2025-07-31,True,Curtis Weeks,2025-07-31 01:43:00,False,,17,False,False,
+NCH 61,2025-07-31,False,,2025-07-31 05:02:00,True,Brent,42,True,False,No prestart recorded.
+NCH 64,2025-07-31,True,Christopher Evans,2025-07-31 04:18:00,True,Chris,8,False,True,Rostered 'Chris' but prestart by 'Christopher Evans'.
+NCH 65,2025-07-31,True,Craig Ashford,2025-07-31 03:55:00,False,,7,False,False,
+NCH 66,2025-07-31,True,Stu Kingi,2025-07-31 04:29:00,True,Eric,11,False,True,Rostered 'Eric' but prestart by 'Stu Kingi'.
+NCH 67,2025-07-31,False,,2025-07-31 21:55:00,True,Maca,2,True,False,No prestart recorded.
+NCH 69,2025-07-31,True,Lyle Cottenden,2025-07-31 05:12:00,True,Lyle,1,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-07-31,False,,2025-07-31 02:12:00,True,Sean,6,True,False,No prestart recorded.
+NCH 71,2025-07-31,False,,2025-07-31 00:32:00,False,,41,True,False,No prestart recorded.
+NCH 28,2025-08-01,True,Sean Cridland,2025-08-01 05:27:00,True,Sean Cridland,10,False,False,
+NCH 31,2025-08-01,False,,2025-08-01 06:00:00,False,,4,True,False,No prestart recorded.
+NCH 35,2025-08-01,True,Ian Kelly,2025-08-01 04:29:00,True,Ian Kelly,19,False,False,
+NCH 37,2025-08-01,True,Lawrence Quinn,2025-08-01 04:03:00,False,,21,False,False,
+NCH 38,2025-08-01,False,,2025-08-01 06:02:00,True,R&M,2,True,False,No prestart recorded.
+NCH 39,2025-08-01,True,Keith Byerley,2025-08-01 00:18:00,True,Rangi,15,False,True,Rostered 'Rangi' but prestart by 'Keith Byerley'.
+NCH 40,2025-08-01,True,Paul Smeaton,2025-08-01 01:15:00,True,Paul Smeaton,12,False,False,
+NCH 41,2025-08-01,False,,2025-08-01 11:10:00,False,,4,True,False,No prestart recorded.
+NCH 42,2025-08-01,True,Tramaine Rangi,2025-08-01 03:39:00,True,Curtis Week,19,False,True,Rostered 'Curtis Week' but prestart by 'Tramaine Rangi'.
+NCH 43,2025-08-01,False,,2025-08-01 01:57:00,True,Jerzy,13,True,False,No prestart recorded.
+NCH 44,2025-08-01,True,Joseph Maddren,2025-08-01 00:21:00,True,Joseph Maddrewn,29,False,True,Rostered 'Joseph Maddrewn' but prestart by 'Joseph Maddren'.
+NCH 45,2025-08-01,False,,2025-08-01 06:25:00,True,Maintenance,16,True,False,No prestart recorded.
+NCH 46,2025-08-01,False,,2025-08-01 06:17:00,False,,15,True,False,No prestart recorded.
+NCH 53,2025-08-01,True,Curtis Weeks,2025-08-01 03:09:00,False,,16,False,False,
+NCH 54,2025-08-01,True,Melville Gray,2025-08-01 05:37:00,True,Melville Gray,9,False,False,
+NCH 55,2025-08-01,False,,2025-08-01 02:47:00,True,JK,16,True,False,No prestart recorded.
+NCH 56,2025-08-01,False,,2025-08-01 00:00:00,False,,15,True,False,No prestart recorded.
+NCH 61,2025-08-01,False,,2025-08-01 04:27:00,True,Brent,42,True,False,No prestart recorded.
+NCH 65,2025-08-01,True,Craig Ashford,2025-08-01 03:53:00,False,,5,False,False,
+NCH 66,2025-08-01,True,Tutavake Thompson,2025-08-01 05:16:00,True,Douglas Cane,10,False,True,Rostered 'Douglas Cane' but prestart by 'Tutavake Thompson'.
+NCH 67,2025-08-01,False,,2025-08-01 00:24:00,True,Maca,3,True,False,No prestart recorded.
+NCH 69,2025-08-01,True,Lyle Cottenden,2025-08-01 05:12:00,True,Lyle,1,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-08-01,True,Wayne Daniels,2025-08-01 05:00:00,True,Wanye Daniel,11,False,True,Rostered 'Wanye Daniel' but prestart by 'Wayne Daniels'.
+NCH 71,2025-08-01,False,,2025-08-01 02:46:00,False,,12,True,False,No prestart recorded.
+NCH 28,2025-08-02,True,Sean Cridland,2025-08-02 05:20:00,True,Sean,30,False,True,Rostered 'Sean' but prestart by 'Sean Cridland'.
+NCH 31,2025-08-02,True,Daniel Van Oosten,2025-08-02 09:35:00,False,,5,False,False,
+NCH 35,2025-08-02,False,,2025-08-02 16:32:00,True,Ian Kelly,3,True,False,No prestart recorded.
+NCH 37,2025-08-02,False,,2025-08-02 04:18:00,False,,18,True,False,No prestart recorded.
+NCH 39,2025-08-02,True,Rangi Abbot,2025-08-02 00:37:00,False,,16,False,False,
+NCH 40,2025-08-02,True,Paul Smeaton,2025-08-02 01:14:00,True,Paul Smeaton,15,False,False,
+NCH 41,2025-08-02,True,Jaymi-Lee Ryder,2025-08-02 05:09:00,False,,6,False,False,
+NCH 42,2025-08-02,True,Tramaine Rangi,2025-08-02 00:30:00,False,,27,False,False,
+NCH 43,2025-08-02,False,,2025-08-02 00:40:00,False,,19,True,False,No prestart recorded.
+NCH 44,2025-08-02,False,,2025-08-02 02:26:00,False,,14,True,False,No prestart recorded.
+NCH 45,2025-08-02,False,,2025-08-02 05:57:00,True,Maintenance,15,True,False,No prestart recorded.
+NCH 46,2025-08-02,False,,2025-08-02 06:19:00,False,,18,True,False,No prestart recorded.
+NCH 52,2025-08-02,False,,2025-08-02 09:51:00,False,,5,True,False,No prestart recorded.
+NCH 53,2025-08-02,True,Curtis Weeks,2025-08-02 00:06:00,False,,15,False,False,
+NCH 54,2025-08-02,False,,2025-08-02 06:57:00,False,,13,True,False,No prestart recorded.
+NCH 55,2025-08-02,False,,2025-08-02 00:23:00,False,,32,True,False,No prestart recorded.
+NCH 56,2025-08-02,False,,2025-08-02 00:18:00,False,,19,True,False,No prestart recorded.
+NCH 61,2025-08-02,False,,2025-08-02 04:30:00,True,Brent,62,True,False,No prestart recorded.
+NCH 64,2025-08-02,False,,2025-08-02 08:48:00,False,,18,True,False,No prestart recorded.
+NCH 65,2025-08-02,True,Craig Ashford,2025-08-02 03:59:00,False,,8,False,False,
+NCH 66,2025-08-02,True,Wayne Daniels,2025-08-02 05:42:00,True,Douglas Cane,12,False,True,Rostered 'Douglas Cane' but prestart by 'Wayne Daniels'.
+NCH 67,2025-08-02,False,,2025-08-02 02:07:00,True,Maca,1,True,False,No prestart recorded.
+NCH 69,2025-08-02,True,Lyle Cottenden,2025-08-02 05:13:00,True,Lyle,1,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-08-02,True,Douglas Cane,2025-08-02 06:43:00,False,,31,False,False,
+NCH 71,2025-08-02,False,,2025-08-02 05:25:00,False,,13,True,False,No prestart recorded.
+NCH 28,2025-08-03,True,Sean Cridland,2025-08-03 01:27:00,True,Sean,34,False,True,Rostered 'Sean' but prestart by 'Sean Cridland'.
+NCH 31,2025-08-03,True,Daniel Van Oosten,2025-08-03 05:34:00,False,,9,False,False,
+NCH 35,2025-08-03,True,Ian Kelly,2025-08-03 04:32:00,True,Ian Kelly,5,False,False,
+NCH 37,2025-08-03,True,Lawrence Quinn,2025-08-03 04:18:00,False,,14,False,False,
+NCH 39,2025-08-03,False,,2025-08-03 06:39:00,False,,15,True,False,No prestart recorded.
+NCH 40,2025-08-03,False,,2025-08-03 00:22:00,True,Paul Smeaton,3,True,False,No prestart recorded.
+NCH 41,2025-08-03,True,Jaymi-Lee Ryder,2025-08-03 05:01:00,False,,12,False,False,
+NCH 42,2025-08-03,False,,2025-08-03 00:23:00,False,,14,True,False,No prestart recorded.
+NCH 43,2025-08-03,True,Curtis Weeks,2025-08-03 01:03:00,False,,25,False,False,
+NCH 44,2025-08-03,True,Tramaine Rangi,2025-08-03 01:12:00,False,,21,False,False,
+NCH 45,2025-08-03,False,,2025-08-03 06:07:00,True,Maintenance,6,True,False,No prestart recorded.
+NCH 46,2025-08-03,False,,2025-08-03 06:14:00,False,,2,True,False,No prestart recorded.
+NCH 52,2025-08-03,False,,2025-08-03 04:54:00,False,,4,True,False,No prestart recorded.
+NCH 53,2025-08-03,True,Dan Kermode,2025-08-03 00:01:00,False,,19,False,False,
+NCH 54,2025-08-03,True,Melville Gray,2025-08-03 06:59:00,False,,10,False,False,
+NCH 55,2025-08-03,False,,2025-08-03 00:13:00,False,,27,True,False,No prestart recorded.
+NCH 56,2025-08-03,False,,2025-08-03 00:34:00,False,,17,True,False,No prestart recorded.
+NCH 61,2025-08-03,False,,2025-08-03 02:09:00,True,Brent,69,True,False,No prestart recorded.
+NCH 64,2025-08-03,False,,2025-08-03 05:32:00,False,,22,True,False,No prestart recorded.
+NCH 65,2025-08-03,True,Craig Ashford,2025-08-03 04:03:00,False,,10,False,False,
+NCH 66,2025-08-03,True,Douglas Cane,2025-08-03 06:16:00,False,,9,False,False,
+NCH 69,2025-08-03,True,Lyle Cottenden,2025-08-03 05:10:00,True,Lyle,1,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-08-03,True,Wayne Daniels,2025-08-03 07:43:00,False,,11,False,False,
+NCH 71,2025-08-03,True,Maru Lucky,2025-08-03 05:02:00,False,,22,False,False,
+NCH 28,2025-08-04,True,Sean Cridland,2025-08-04 00:38:00,True,Sean,18,False,True,Rostered 'Sean' but prestart by 'Sean Cridland'.
+NCH 31,2025-08-04,True,Daniel Van Oosten,2025-08-04 05:15:00,False,,2,False,False,
+NCH 35,2025-08-04,False,,2025-08-04 04:33:00,True,Ian Kelly,7,True,False,No prestart recorded.
+NCH 36,2025-08-04,True,Jamie Parkinson,2025-08-04 08:59:00,False,,9,False,False,
+NCH 37,2025-08-04,True,Lawrence Quinn,2025-08-04 14:29:00,False,,2,False,False,
+NCH 38,2025-08-04,False,,2025-08-04 06:05:00,False,,2,True,False,No prestart recorded.
+NCH 39,2025-08-04,False,,2025-08-04 00:48:00,False,,27,True,False,No prestart recorded.
+NCH 40,2025-08-04,True,Paul Smeaton,2025-08-04 15:06:00,True,Paul Smeaton,10,False,False,
+NCH 41,2025-08-04,True,Stephen Begg,2025-08-04 04:06:00,False,,10,False,False,
+NCH 43,2025-08-04,False,,2025-08-04 02:49:00,False,,8,True,False,No prestart recorded.
+NCH 44,2025-08-04,True,Tramaine Rangi,2025-08-04 00:28:00,False,,21,False,False,
+NCH 45,2025-08-04,False,,2025-08-04 06:09:00,True,Maintenance,11,True,False,No prestart recorded.
+NCH 46,2025-08-04,False,,2025-08-04 06:26:00,False,,7,True,False,No prestart recorded.
+NCH 52,2025-08-04,True,Wayne White,2025-08-04 06:53:00,False,,16,False,False,
+NCH 53,2025-08-04,False,,2025-08-04 06:58:00,False,,12,True,False,No prestart recorded.
+NCH 54,2025-08-04,True,Melville Gray,2025-08-04 05:36:00,False,,8,False,False,
+NCH 55,2025-08-04,False,,2025-08-04 00:34:00,False,,26,True,False,No prestart recorded.
+NCH 56,2025-08-04,False,,2025-08-04 00:14:00,False,,17,True,False,No prestart recorded.
+NCH 61,2025-08-04,False,,2025-08-04 00:38:00,True,Brent,42,True,False,No prestart recorded.
+NCH 64,2025-08-04,False,,2025-08-04 08:56:00,False,,1,True,False,No prestart recorded.
+NCH 65,2025-08-04,True,Craig Ashford,2025-08-04 03:53:00,False,,16,False,False,
+NCH 66,2025-08-04,True,Douglas Cane,2025-08-04 04:19:00,False,,11,False,False,
+NCH 67,2025-08-04,False,,2025-08-04 00:37:00,True,Maca,2,True,False,No prestart recorded.
+NCH 69,2025-08-04,False,,2025-08-04 05:10:00,True,Lyle,1,True,False,No prestart recorded.
+NCH 70,2025-08-04,True,Wayne Daniels,2025-08-04 05:11:00,False,,5,False,False,
+NCH 71,2025-08-04,True,Curtis Weeks,2025-08-04 00:02:00,False,,25,False,False,
+NCH 28,2025-08-05,False,,2025-08-05 03:29:00,True,Sean,14,True,False,No prestart recorded.
+NCH 35,2025-08-05,False,,2025-08-05 04:39:00,True,Ian Kelly,8,True,False,No prestart recorded.
+NCH 36,2025-08-05,True,Jamie Parkinson,2025-08-05 06:47:00,True,Jamie P,13,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-05,True,Lawrence Quinn,2025-08-05 04:12:00,True,Lawri Quinn,15,False,True,Rostered 'Lawri Quinn' but prestart by 'Lawrence Quinn'.
+NCH 38,2025-08-05,False,,2025-08-05 06:26:00,False,,9,True,False,No prestart recorded.
+NCH 39,2025-08-05,False,,2025-08-05 00:00:00,False,,15,True,False,No prestart recorded.
+NCH 40,2025-08-05,True,Paul Smeaton,2025-08-05 00:01:00,True,Paul Smeaton,10,False,False,
+NCH 41,2025-08-05,False,,2025-08-05 16:48:00,True,Stephen Begg,1,True,False,No prestart recorded.
+NCH 43,2025-08-05,True,Jason Craig,2025-08-05 05:23:00,True,Jason Craig,5,False,False,
+NCH 44,2025-08-05,False,,2025-08-05 00:36:00,True,RHM,28,True,False,No prestart recorded.
+NCH 45,2025-08-05,False,,2025-08-05 06:13:00,False,,11,True,False,No prestart recorded.
+NCH 46,2025-08-05,False,,2025-08-05 06:06:00,False,,10,True,False,No prestart recorded.
+NCH 52,2025-08-05,False,,2025-08-05 01:06:00,True,Wayne White,18,True,False,No prestart recorded.
+NCH 53,2025-08-05,False,,2025-08-05 13:18:00,True,Jamie Lee,2,True,False,No prestart recorded.
+NCH 55,2025-08-05,False,,2025-08-05 01:18:00,True,JK,12,True,False,No prestart recorded.
+NCH 56,2025-08-05,True,Keith Byerley,2025-08-05 00:45:00,True,Keith B,16,False,True,Rostered 'Keith B' but prestart by 'Keith Byerley'.
+NCH 61,2025-08-05,True,Ian Kelly,2025-08-05 00:39:00,True,Brent,42,False,True,Rostered 'Brent' but prestart by 'Ian Kelly'.
+NCH 64,2025-08-05,False,,2025-08-05 11:52:00,False,,7,True,False,No prestart recorded.
+NCH 65,2025-08-05,True,Craig Ashford,2025-08-05 04:05:00,True,Craig Ashford,11,False,False,
+NCH 66,2025-08-05,True,Douglas Cane,2025-08-05 06:23:00,True,Douglas Cane,10,False,False,
+NCH 67,2025-08-05,True,William Frost,2025-08-05 05:46:00,True,Maca,1,False,True,Rostered 'Maca' but prestart by 'William Frost'.
+NCH 69,2025-08-05,True,Lyle Cottenden,2025-08-05 05:06:00,True,Lyle,1,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-08-05,True,Wayne Daniels,2025-08-05 05:15:00,True,Wayne Daiels,11,False,True,Rostered 'Wayne Daiels' but prestart by 'Wayne Daniels'.
+NCH 71,2025-08-05,False,,2025-08-05 05:09:00,True,Patricio Ponce,21,True,False,No prestart recorded.
+NCH 28,2025-08-06,False,,2025-08-06 02:15:00,True,Sean,31,True,False,No prestart recorded.
+NCH 31,2025-08-06,False,,2025-08-06 13:48:00,True,Dan VAN Ossten,3,True,False,No prestart recorded.
+NCH 35,2025-08-06,True,Ian Kelly,2025-08-06 04:37:00,True,Ian Kelly,9,False,False,
+NCH 36,2025-08-06,False,,2025-08-06 06:49:00,True,Jamie P,7,True,False,No prestart recorded.
+NCH 37,2025-08-06,False,,2025-08-06 04:30:00,True,Lawri Quinn,20,True,False,No prestart recorded.
+NCH 38,2025-08-06,False,,2025-08-06 07:19:00,False,,3,True,False,No prestart recorded.
+NCH 39,2025-08-06,True,Rangi Abbot,2025-08-06 06:32:00,False,,21,False,False,
+NCH 40,2025-08-06,True,Paul Smeaton,2025-08-06 03:30:00,True,Paul Smeaton,13,False,False,
+NCH 41,2025-08-06,False,,2025-08-06 00:12:00,True,Stephen Begg,7,True,False,No prestart recorded.
+NCH 43,2025-08-06,False,,2025-08-06 00:20:00,True,Jason Craig,15,True,False,No prestart recorded.
+NCH 44,2025-08-06,False,,2025-08-06 00:36:00,True,RHM,10,True,False,No prestart recorded.
+NCH 45,2025-08-06,False,,2025-08-06 06:13:00,False,,10,True,False,No prestart recorded.
+NCH 46,2025-08-06,False,,2025-08-06 06:26:00,False,,14,True,False,No prestart recorded.
+NCH 52,2025-08-06,False,,2025-08-06 00:10:00,True,Wayne White,18,True,False,No prestart recorded.
+NCH 53,2025-08-06,False,,2025-08-06 17:25:00,True,Jamie Lee,1,True,False,No prestart recorded.
+NCH 54,2025-08-06,False,,2025-08-06 06:04:00,False,,8,True,False,No prestart recorded.
+NCH 55,2025-08-06,False,,2025-08-06 00:52:00,True,JK,8,True,False,No prestart recorded.
+NCH 56,2025-08-06,False,,2025-08-06 05:41:00,True,Aiden,12,True,False,No prestart recorded.
+NCH 61,2025-08-06,False,,2025-08-06 01:09:00,True,Brent,31,True,False,No prestart recorded.
+NCH 64,2025-08-06,False,,2025-08-06 14:35:00,False,,4,True,False,No prestart recorded.
+NCH 65,2025-08-06,False,,2025-08-06 03:55:00,True,Craig Ashford,13,True,False,No prestart recorded.
+NCH 66,2025-08-06,True,Douglas Cane,2025-08-06 05:36:00,True,Douglas Cane,9,False,False,
+NCH 67,2025-08-06,True,Mackenzie Naughton,2025-08-06 06:44:00,True,Maca,8,False,True,Rostered 'Maca' but prestart by 'Mackenzie Naughton'.
+NCH 69,2025-08-06,True,Lyle Cottenden,2025-08-06 05:07:00,True,Lyle,2,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-08-06,False,,2025-08-06 06:33:00,False,,20,True,False,No prestart recorded.
+NCH 71,2025-08-06,False,,2025-08-06 06:43:00,True,Patricio Ponce,7,True,False,No prestart recorded.
+NCH 28,2025-08-07,True,Sean Cridland,2025-08-07 01:04:00,True,Sean,23,False,True,Rostered 'Sean' but prestart by 'Sean Cridland'.
+NCH 31,2025-08-07,True,Daniel Van Oosten,2025-08-07 04:45:00,True,Jerzy,4,False,True,Rostered 'Jerzy' but prestart by 'Daniel Van Oosten'.
+NCH 35,2025-08-07,True,Ian Kelly,2025-08-07 04:38:00,True,Ian Kelly,7,False,False,
+NCH 36,2025-08-07,False,,2025-08-07 07:11:00,True,Jamie P,7,True,False,No prestart recorded.
+NCH 37,2025-08-07,True,Lawrence Quinn,2025-08-07 04:18:00,True,Lawri Quinn,28,False,True,Rostered 'Lawri Quinn' but prestart by 'Lawrence Quinn'.
+NCH 38,2025-08-07,False,,2025-08-07 06:08:00,False,,2,True,False,No prestart recorded.
+NCH 39,2025-08-07,False,,2025-08-07 06:46:00,False,,14,True,False,No prestart recorded.
+NCH 40,2025-08-07,True,Paul Smeaton,2025-08-07 01:13:00,True,Paul Smeaton,10,False,False,
+NCH 41,2025-08-07,False,,2025-08-07 22:24:00,True,Stephen Begg,1,True,False,No prestart recorded.
+NCH 43,2025-08-07,False,,2025-08-07 06:21:00,True,Jason Craig,13,True,False,No prestart recorded.
+NCH 44,2025-08-07,False,,2025-08-07 03:54:00,False,,4,True,False,No prestart recorded.
+NCH 45,2025-08-07,False,,2025-08-07 05:53:00,False,,14,True,False,No prestart recorded.
+NCH 46,2025-08-07,False,,2025-08-07 06:24:00,False,,10,True,False,No prestart recorded.
+NCH 52,2025-08-07,False,,2025-08-07 00:19:00,True,Wayne White,16,True,False,No prestart recorded.
+NCH 53,2025-08-07,True,Jaymi-Lee Ryder,2025-08-07 06:07:00,True,Jamie Lee,5,False,True,Rostered 'Jamie Lee' but prestart by 'Jaymi-Lee Ryder'.
+NCH 54,2025-08-07,False,,2025-08-07 06:17:00,False,,6,True,False,No prestart recorded.
+NCH 55,2025-08-07,False,,2025-08-07 03:25:00,True,JK,8,True,False,No prestart recorded.
+NCH 56,2025-08-07,False,,2025-08-07 07:11:00,True,Repairs,3,True,False,No prestart recorded.
+NCH 61,2025-08-07,False,,2025-08-07 00:48:00,True,Brent,45,True,False,No prestart recorded.
+NCH 64,2025-08-07,False,,2025-08-07 06:28:00,False,,11,True,False,No prestart recorded.
+NCH 65,2025-08-07,False,,2025-08-07 05:57:00,False,,13,True,False,No prestart recorded.
+NCH 66,2025-08-07,True,Kristian Edwards,2025-08-07 05:27:00,True,Douglas Cane,8,False,True,Rostered 'Douglas Cane' but prestart by 'Kristian Edwards'.
+NCH 67,2025-08-07,True,Mackenzie Naughton,2025-08-07 05:00:00,True,Maca,12,False,True,Rostered 'Maca' but prestart by 'Mackenzie Naughton'.
+NCH 69,2025-08-07,False,,2025-08-07 17:17:00,True,Lyle,1,True,False,No prestart recorded.
+NCH 70,2025-08-07,False,,2025-08-07 06:08:00,False,,2,True,False,No prestart recorded.
+NCH 71,2025-08-07,False,,2025-08-07 02:02:00,True,Patricio Ponce,8,True,False,No prestart recorded.
+NCH 28,2025-08-08,False,,2025-08-08 00:22:00,True,Sean,24,True,False,No prestart recorded.
+NCH 31,2025-08-08,True,Jerzy (George) Szulgowski,2025-08-08 05:06:00,True,Jerzy,1,False,True,Rostered 'Jerzy' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 35,2025-08-08,True,Ian Kelly,2025-08-08 16:27:00,True,Ian Kelly,3,False,False,
+NCH 36,2025-08-08,False,,2025-08-08 06:54:00,True,Jamie P,16,True,False,No prestart recorded.
+NCH 37,2025-08-08,True,Lawrence Quinn,2025-08-08 04:16:00,True,Lawri Quinn,31,False,True,Rostered 'Lawri Quinn' but prestart by 'Lawrence Quinn'.
+NCH 38,2025-08-08,False,,2025-08-08 06:50:00,False,,8,True,False,No prestart recorded.
+NCH 39,2025-08-08,False,,2025-08-08 06:04:00,True,Roy/ John Eliiot,10,True,False,No prestart recorded.
+NCH 40,2025-08-08,True,Paul Smeaton,2025-08-08 01:10:00,True,Paul Smeaton,12,False,False,
+NCH 41,2025-08-08,False,,2025-08-08 00:50:00,True,Stephen Begg,3,True,False,No prestart recorded.
+NCH 43,2025-08-08,True,Shane Good,2025-08-08 05:16:00,True,Jason Craig,9,False,True,Rostered 'Jason Craig' but prestart by 'Shane Good'.
+NCH 44,2025-08-08,True,Tramaine Rangi,2025-08-08 16:19:00,False,,7,False,False,
+NCH 45,2025-08-08,False,,2025-08-08 06:21:00,False,,11,True,False,No prestart recorded.
+NCH 46,2025-08-08,False,,2025-08-08 06:23:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-08-08,False,,2025-08-08 05:24:00,True,Wayne White,12,True,False,No prestart recorded.
+NCH 53,2025-08-08,False,,2025-08-08 07:29:00,True,Jamie Lee,3,True,False,No prestart recorded.
+NCH 54,2025-08-08,True,John Elliott,2025-08-08 05:37:00,False,,10,False,False,
+NCH 55,2025-08-08,False,,2025-08-08 04:35:00,True,JK,12,True,False,No prestart recorded.
+NCH 56,2025-08-08,False,,2025-08-08 03:28:00,True,Repairs,5,True,False,No prestart recorded.
+NCH 61,2025-08-08,False,,2025-08-08 00:23:00,True,Brent,30,True,False,No prestart recorded.
+NCH 64,2025-08-08,False,,2025-08-08 07:48:00,False,,11,True,False,No prestart recorded.
+NCH 65,2025-08-08,True,Jack Austin,2025-08-08 05:19:00,False,,7,False,False,
+NCH 66,2025-08-08,True,Douglas Cane,2025-08-08 07:26:00,True,Douglas Cane,2,False,False,
+NCH 67,2025-08-08,True,Mackenzie Naughton,2025-08-08 04:57:00,True,Maca,8,False,True,Rostered 'Maca' but prestart by 'Mackenzie Naughton'.
+NCH 69,2025-08-08,True,Lyle Cottenden,2025-08-08 05:08:00,True,Lyle,1,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 70,2025-08-08,False,,2025-08-08 06:48:00,False,,6,True,False,No prestart recorded.
+NCH 71,2025-08-08,False,,2025-08-08 04:48:00,True,Patricio Ponce,5,True,False,No prestart recorded.
+NCH 28,2025-08-09,False,,2025-08-09 00:15:00,True,Sean,22,True,False,No prestart recorded.
+NCH 31,2025-08-09,False,,2025-08-09 07:45:00,True,Jerzy,8,True,False,No prestart recorded.
+NCH 35,2025-08-09,False,,2025-08-09 16:26:00,True,Ian Kelly,3,True,False,No prestart recorded.
+NCH 36,2025-08-09,False,,2025-08-09 07:32:00,True,Jamie P,9,True,False,No prestart recorded.
+NCH 37,2025-08-09,False,,2025-08-09 06:25:00,True,Lawri Quinn,5,True,False,No prestart recorded.
+NCH 38,2025-08-09,False,,2025-08-09 21:23:00,False,,2,True,False,No prestart recorded.
+NCH 39,2025-08-09,True,John Elliott,2025-08-09 05:05:00,True,John Elliot,2,False,True,Rostered 'John Elliot' but prestart by 'John Elliott'.
+NCH 40,2025-08-09,False,,2025-08-09 01:13:00,True,Paul Smeaton,4,True,False,No prestart recorded.
+NCH 41,2025-08-09,False,,2025-08-09 02:57:00,True,Stephen Begg,1,True,False,No prestart recorded.
+NCH 43,2025-08-09,True,Shane Good,2025-08-09 05:19:00,True,Jason Craig,9,False,True,Rostered 'Jason Craig' but prestart by 'Shane Good'.
+NCH 44,2025-08-09,False,,2025-08-09 02:15:00,True,3 doors ute,19,True,False,No prestart recorded.
+NCH 45,2025-08-09,False,,2025-08-09 06:22:00,False,,11,True,False,No prestart recorded.
+NCH 46,2025-08-09,False,,2025-08-09 06:28:00,False,,3,True,False,No prestart recorded.
+NCH 52,2025-08-09,True,Wayne White,2025-08-09 00:37:00,True,Wayne White,7,False,False,
+NCH 53,2025-08-09,False,,2025-08-09 05:22:00,True,Jamie Lee,8,True,False,No prestart recorded.
+NCH 54,2025-08-09,False,,2025-08-09 17:26:00,True,Roy Bevins for a day or 2,3,True,False,No prestart recorded.
+NCH 55,2025-08-09,True,Jason Craig,2025-08-09 04:12:00,True,JK,14,False,True,Rostered 'JK' but prestart by 'Jason Craig'.
+NCH 56,2025-08-09,False,,2025-08-09 03:58:00,False,,4,True,False,No prestart recorded.
+NCH 61,2025-08-09,False,,2025-08-09 00:11:00,True,Brent,33,True,False,No prestart recorded.
+NCH 65,2025-08-09,False,,2025-08-09 07:35:00,False,,13,True,False,No prestart recorded.
+NCH 66,2025-08-09,True,Douglas Cane,2025-08-09 05:33:00,True,Douglas Cane,2,False,False,
+NCH 69,2025-08-09,False,,2025-08-09 14:10:00,True,Lyle,1,True,False,No prestart recorded.
+NCH 70,2025-08-09,False,,2025-08-09 05:12:00,True,Callum S,21,True,False,No prestart recorded.
+NCH 71,2025-08-09,True,Benjamin Battaglia,2025-08-09 06:08:00,True,Patricio Ponce,8,False,True,Rostered 'Patricio Ponce' but prestart by 'Benjamin Battaglia'.
+NCH 28,2025-08-10,False,,2025-08-10 02:23:00,True,Sean,20,True,False,No prestart recorded.
+NCH 31,2025-08-10,True,Jerzy (George) Szulgowski,2025-08-10 05:06:00,True,Jerzy,15,False,True,Rostered 'Jerzy' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 35,2025-08-10,True,Ian Kelly,2025-08-10 04:35:00,True,Ian Kelly,4,False,False,
+NCH 36,2025-08-10,False,,2025-08-10 08:41:00,True,Jamie P,12,True,False,No prestart recorded.
+NCH 39,2025-08-10,True,John Elliott,2025-08-10 05:05:00,True,John Elliot,2,False,True,Rostered 'John Elliot' but prestart by 'John Elliott'.
+NCH 41,2025-08-10,False,,2025-08-10 03:37:00,True,Stephen Begg,1,True,False,No prestart recorded.
+NCH 44,2025-08-10,True,Tramaine Rangi,2025-08-10 01:48:00,True,3 doors ute,15,False,True,Rostered '3 doors ute' but prestart by 'Tramaine Rangi'.
+NCH 45,2025-08-10,False,,2025-08-10 06:24:00,False,,7,True,False,No prestart recorded.
+NCH 46,2025-08-10,False,,2025-08-10 06:30:00,False,,5,True,False,No prestart recorded.
+NCH 52,2025-08-10,False,,2025-08-10 01:51:00,True,Wayne White,8,True,False,No prestart recorded.
+NCH 53,2025-08-10,True,Jaymi-Lee Ryder,2025-08-10 09:52:00,True,Jamie Lee,2,False,True,Rostered 'Jamie Lee' but prestart by 'Jaymi-Lee Ryder'.
+NCH 54,2025-08-10,False,,2025-08-10 05:47:00,True,Roy,2,True,False,No prestart recorded.
+NCH 55,2025-08-10,True,Jason Craig,2025-08-10 04:13:00,True,JK,12,False,True,Rostered 'JK' but prestart by 'Jason Craig'.
+NCH 56,2025-08-10,False,,2025-08-10 03:55:00,False,,4,True,False,No prestart recorded.
+NCH 61,2025-08-10,False,,2025-08-10 02:30:00,True,Brent,26,True,False,No prestart recorded.
+NCH 64,2025-08-10,False,,2025-08-10 06:03:00,False,,16,True,False,No prestart recorded.
+NCH 65,2025-08-10,False,,2025-08-10 05:42:00,False,,3,True,False,No prestart recorded.
+NCH 69,2025-08-10,True,Lyle Cottenden,2025-08-10 06:02:00,False,,6,False,False,
+NCH 70,2025-08-10,True,Calum Solomon,2025-08-10 05:08:00,False,,14,False,False,
+NCH 71,2025-08-10,False,,2025-08-10 06:01:00,False,,3,True,False,No prestart recorded.
+NCH 28,2025-08-11,False,,2025-08-11 01:59:00,True,Sean,16,True,False,No prestart recorded.
+NCH 31,2025-08-11,True,Jerzy (George) Szulgowski,2025-08-11 05:06:00,True,Jerzy,13,False,True,Rostered 'Jerzy' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 35,2025-08-11,True,Ian Kelly,2025-08-11 04:36:00,True,Ian Kelly,5,False,False,
+NCH 36,2025-08-11,True,Jamie Parkinson,2025-08-11 06:46:00,True,Jamie P,15,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-11,False,,2025-08-11 15:50:00,True,Rangi,2,True,False,No prestart recorded.
+NCH 38,2025-08-11,False,,2025-08-11 07:20:00,True,Repairs Done,9,True,False,No prestart recorded.
+NCH 39,2025-08-11,True,John Elliott,2025-08-11 05:03:00,True,John Elliot,2,False,True,Rostered 'John Elliot' but prestart by 'John Elliott'.
+NCH 40,2025-08-11,False,,2025-08-11 05:18:00,False,,12,True,False,No prestart recorded.
+NCH 41,2025-08-11,False,,2025-08-11 00:41:00,True,Stephen Begg,1,True,False,No prestart recorded.
+NCH 44,2025-08-11,False,,2025-08-11 00:11:00,True,4 doors ute,13,True,False,No prestart recorded.
+NCH 45,2025-08-11,False,,2025-08-11 06:10:00,False,,5,True,False,No prestart recorded.
+NCH 46,2025-08-11,False,,2025-08-11 06:38:00,False,,11,True,False,No prestart recorded.
+NCH 52,2025-08-11,False,,2025-08-11 00:51:00,True,Wayne White,17,True,False,No prestart recorded.
+NCH 53,2025-08-11,True,Philip Dolan,2025-08-11 06:58:00,True,Jamie Lee,10,False,True,Rostered 'Jamie Lee' but prestart by 'Philip Dolan'.
+NCH 54,2025-08-11,False,,2025-08-11 02:31:00,True,MEl Gray,4,True,False,No prestart recorded.
+NCH 55,2025-08-11,False,,2025-08-11 04:22:00,True,Jason Craig,10,True,False,No prestart recorded.
+NCH 56,2025-08-11,False,,2025-08-11 06:39:00,False,,11,True,False,No prestart recorded.
+NCH 58,2025-08-11,False,,2025-08-11 09:57:00,False,,2,True,False,No prestart recorded.
+NCH 61,2025-08-11,False,,2025-08-11 02:03:00,False,,22,True,False,No prestart recorded.
+NCH 64,2025-08-11,False,,2025-08-11 16:43:00,False,,10,True,False,No prestart recorded.
+NCH 65,2025-08-11,True,Rangi Abbot,2025-08-11 09:26:00,False,,12,False,False,
+NCH 66,2025-08-11,True,Douglas Cane,2025-08-11 05:29:00,True,Douglas Cane,9,False,False,
+NCH 69,2025-08-11,True,Lyle Cottenden,2025-08-11 05:05:00,False,,11,False,False,
+NCH 70,2025-08-11,True,Calum Solomon,2025-08-11 05:14:00,False,,15,False,False,
+NCH 71,2025-08-11,False,,2025-08-11 07:46:00,True,Robbo,11,True,False,No prestart recorded.
+NCH 28,2025-08-12,False,,2025-08-12 00:34:00,True,Sean,18,True,False,No prestart recorded.
+NCH 31,2025-08-12,True,Jerzy (George) Szulgowski,2025-08-12 04:57:00,True,Jerzy,14,False,True,Rostered 'Jerzy' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 35,2025-08-12,False,,2025-08-12 04:17:00,True,Vincent,7,True,False,No prestart recorded.
+NCH 36,2025-08-12,True,Jamie Parkinson,2025-08-12 05:01:00,True,Jamie P,22,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-12,True,Daniel Halton,2025-08-12 10:11:00,True,Rangi,9,False,True,Rostered 'Rangi' but prestart by 'Daniel Halton'.
+NCH 38,2025-08-12,False,,2025-08-12 13:55:00,True,Repairs Done,5,True,False,No prestart recorded.
+NCH 39,2025-08-12,True,John Elliott,2025-08-12 04:56:00,True,John Elliot,3,False,True,Rostered 'John Elliot' but prestart by 'John Elliott'.
+NCH 40,2025-08-12,True,Paul Smeaton,2025-08-12 04:56:00,True,Phil Rock,13,False,True,Rostered 'Phil Rock' but prestart by 'Paul Smeaton'.
+NCH 41,2025-08-12,False,,2025-08-12 04:26:00,True,Stephen Begg,4,True,False,No prestart recorded.
+NCH 44,2025-08-12,False,,2025-08-12 00:13:00,True,5 doors ute,15,True,False,No prestart recorded.
+NCH 45,2025-08-12,False,,2025-08-12 06:30:00,False,,2,True,False,No prestart recorded.
+NCH 46,2025-08-12,False,,2025-08-12 05:49:00,False,,7,True,False,No prestart recorded.
+NCH 52,2025-08-12,False,,2025-08-12 00:30:00,True,Wayne White,5,True,False,No prestart recorded.
+NCH 53,2025-08-12,False,,2025-08-12 06:45:00,True,Jamie Lee,8,True,False,No prestart recorded.
+NCH 54,2025-08-12,True,Melville Gray,2025-08-12 05:48:00,True,MEl Gray,9,False,True,Rostered 'MEl Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-12,False,,2025-08-12 04:18:00,True,Jason Craig,7,True,False,No prestart recorded.
+NCH 56,2025-08-12,True,Brendan Langford,2025-08-12 05:28:00,False,,12,False,False,
+NCH 58,2025-08-12,False,,2025-08-12 09:59:00,False,,1,True,False,No prestart recorded.
+NCH 61,2025-08-12,False,,2025-08-12 01:27:00,False,,24,True,False,No prestart recorded.
+NCH 64,2025-08-12,False,,2025-08-12 00:42:00,False,,20,True,False,No prestart recorded.
+NCH 65,2025-08-12,False,,2025-08-12 02:41:00,False,,9,True,False,No prestart recorded.
+NCH 66,2025-08-12,True,Douglas Cane,2025-08-12 17:06:00,True,Douglas Cane,11,False,False,
+NCH 67,2025-08-12,False,,2025-08-12 17:14:00,False,,3,True,False,No prestart recorded.
+NCH 69,2025-08-12,False,,2025-08-12 01:26:00,False,,10,True,False,No prestart recorded.
+NCH 70,2025-08-12,False,,2025-08-12 05:25:00,False,,12,True,False,No prestart recorded.
+NCH 28,2025-08-13,False,,2025-08-13 01:45:00,True,Sean,7,True,False,No prestart recorded.
+NCH 31,2025-08-13,True,Jerzy (George) Szulgowski,2025-08-13 03:17:00,True,Jerzy,16,False,True,Rostered 'Jerzy' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 35,2025-08-13,False,,2025-08-13 04:41:00,False,,7,True,False,No prestart recorded.
+NCH 36,2025-08-13,True,Jamie Parkinson,2025-08-13 04:58:00,True,Jamie P,25,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-13,False,,2025-08-13 06:19:00,False,,9,True,False,No prestart recorded.
+NCH 39,2025-08-13,True,John Elliott,2025-08-13 06:23:00,True,John Elliot,8,False,True,Rostered 'John Elliot' but prestart by 'John Elliott'.
+NCH 40,2025-08-13,True,Paul Smeaton,2025-08-13 01:54:00,True,Phil Rock,20,False,True,Rostered 'Phil Rock' but prestart by 'Paul Smeaton'.
+NCH 41,2025-08-13,True,Stephen Begg,2025-08-13 07:13:00,True,Stephen Begg,12,False,False,
+NCH 44,2025-08-13,False,,2025-08-13 00:05:00,False,,13,True,False,No prestart recorded.
+NCH 45,2025-08-13,False,,2025-08-13 16:54:00,False,,7,True,False,No prestart recorded.
+NCH 46,2025-08-13,False,,2025-08-13 06:21:00,False,,17,True,False,No prestart recorded.
+NCH 52,2025-08-13,True,Daniel Van Oosten,2025-08-13 05:12:00,True,Wayne White,10,False,True,Rostered 'Wayne White' but prestart by 'Daniel Van Oosten'.
+NCH 53,2025-08-13,True,Jaymi-Lee Ryder,2025-08-13 05:49:00,True,Jamie Lee,7,False,True,Rostered 'Jamie Lee' but prestart by 'Jaymi-Lee Ryder'.
+NCH 54,2025-08-13,True,Melville Gray,2025-08-13 05:06:00,True,MEl Gray,11,False,True,Rostered 'MEl Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-13,True,Mark Dawson,2025-08-13 04:38:00,True,Jason Craig,4,False,True,Rostered 'Jason Craig' but prestart by 'Mark Dawson'.
+NCH 56,2025-08-13,True,Brendan Langford,2025-08-13 05:25:00,False,,5,False,False,
+NCH 58,2025-08-13,True,Laura Tyrrell,2025-08-13 14:36:00,False,,2,False,False,
+NCH 61,2025-08-13,False,,2025-08-13 01:15:00,False,,31,True,False,No prestart recorded.
+NCH 64,2025-08-13,False,,2025-08-13 00:02:00,False,,12,True,False,No prestart recorded.
+NCH 65,2025-08-13,True,Robert Mascali,2025-08-13 06:20:00,False,,14,False,False,
+NCH 66,2025-08-13,True,Douglas Cane,2025-08-13 00:29:00,True,Douglas Cane,20,False,False,
+NCH 67,2025-08-13,False,,2025-08-13 05:48:00,False,,4,True,False,No prestart recorded.
+NCH 69,2025-08-13,False,,2025-08-13 00:03:00,False,,9,True,False,No prestart recorded.
+NCH 70,2025-08-13,False,,2025-08-13 05:16:00,False,,12,True,False,No prestart recorded.
+NCH 28,2025-08-14,False,,2025-08-14 04:52:00,False,,20,True,False,No prestart recorded.
+NCH 31,2025-08-14,True,Jerzy (George) Szulgowski,2025-08-14 04:36:00,True,Max Edkart,29,False,True,Rostered 'Max Edkart' but prestart by 'Jerzy (George) Szulgowski'.
+NCH 35,2025-08-14,True,Vincent Callegari,2025-08-14 05:06:00,True,Vincent,8,False,True,Rostered 'Vincent' but prestart by 'Vincent Callegari'.
+NCH 36,2025-08-14,True,Jamie Parkinson,2025-08-14 04:56:00,True,Jamie P,19,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-14,False,,2025-08-14 11:18:00,False,,7,True,False,No prestart recorded.
+NCH 39,2025-08-14,True,John Elliott,2025-08-14 05:15:00,True,Wayne White,7,False,True,Rostered 'Wayne White' but prestart by 'John Elliott'.
+NCH 40,2025-08-14,False,,2025-08-14 04:56:00,True,Phil Rock,20,True,False,No prestart recorded.
+NCH 41,2025-08-14,True,Nadir Kadi,2025-08-14 04:37:00,True,Nadir,10,False,True,Rostered 'Nadir' but prestart by 'Nadir Kadi'.
+NCH 42,2025-08-14,True,Dean Peucker,2025-08-14 04:09:00,True,Jordan,6,False,True,Rostered 'Jordan' but prestart by 'Dean Peucker'.
+NCH 43,2025-08-14,False,,2025-08-14 09:08:00,False,,2,True,False,No prestart recorded.
+NCH 44,2025-08-14,False,,2025-08-14 06:23:00,True,3 doors ute,16,True,False,No prestart recorded.
+NCH 45,2025-08-14,False,,2025-08-14 06:36:00,False,,13,True,False,No prestart recorded.
+NCH 46,2025-08-14,False,,2025-08-14 06:29:00,False,,11,True,False,No prestart recorded.
+NCH 52,2025-08-14,True,John Elliott,2025-08-14 06:36:00,True,John Eilliot,4,False,True,Rostered 'John Eilliot' but prestart by 'John Elliott'.
+NCH 53,2025-08-14,True,Benjamin Rickard,2025-08-14 06:52:00,True,Jamie Lee,11,False,True,Rostered 'Jamie Lee' but prestart by 'Benjamin Rickard'.
+NCH 54,2025-08-14,False,,2025-08-14 05:18:00,True,MEl Gray,15,True,False,No prestart recorded.
+NCH 55,2025-08-14,False,,2025-08-14 07:55:00,False,,9,True,False,No prestart recorded.
+NCH 56,2025-08-14,True,Christopher Evans,2025-08-14 06:00:00,True,Chris Evans,16,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 58,2025-08-14,False,,2025-08-14 05:21:00,False,,2,True,False,No prestart recorded.
+NCH 61,2025-08-14,True,Brent Mason,2025-08-14 03:58:00,False,,10,False,False,
+NCH 64,2025-08-14,False,,2025-08-14 00:14:00,False,,19,True,False,No prestart recorded.
+NCH 65,2025-08-14,False,,2025-08-14 04:38:00,False,,15,True,False,No prestart recorded.
+NCH 66,2025-08-14,True,Douglas Cane,2025-08-14 00:00:00,True,Douglas Cane,19,False,False,
+NCH 67,2025-08-14,False,,2025-08-14 00:01:00,False,,5,True,False,No prestart recorded.
+NCH 69,2025-08-14,False,,2025-08-14 02:58:00,False,,6,True,False,No prestart recorded.
+NCH 70,2025-08-14,True,Calum Solomon,2025-08-14 05:20:00,False,,8,False,False,
+NCH 71,2025-08-14,False,,2025-08-14 16:13:00,False,,3,True,False,No prestart recorded.
+NGL 001,2025-08-14,True,Niall Lucas,2025-08-14 08:55:00,False,,14,False,False,
+NCH 28,2025-08-15,False,,2025-08-15 03:14:00,False,,12,True,False,No prestart recorded.
+NCH 31,2025-08-15,False,,2025-08-15 05:39:00,True,Max Edkart,5,True,False,No prestart recorded.
+NCH 35,2025-08-15,False,,2025-08-15 05:09:00,True,Vincent,5,True,False,No prestart recorded.
+NCH 36,2025-08-15,False,,2025-08-15 06:46:00,True,Jamie P,5,True,False,No prestart recorded.
+NCH 37,2025-08-15,True,David Eiao,2025-08-15 06:46:00,False,,8,False,False,
+NCH 39,2025-08-15,False,,2025-08-15 06:23:00,True,Wayne White,19,True,False,No prestart recorded.
+NCH 40,2025-08-15,True,Paul Smeaton,2025-08-15 04:21:00,True,Phil Rock,18,False,True,Rostered 'Phil Rock' but prestart by 'Paul Smeaton'.
+NCH 41,2025-08-15,True,Stu Kingi,2025-08-15 06:57:00,True,Nadir/ Stu,2,False,True,Rostered 'Nadir/ Stu' but prestart by 'Stu Kingi'.
+NCH 42,2025-08-15,False,,2025-08-15 06:26:00,False,,13,True,False,No prestart recorded.
+NCH 44,2025-08-15,False,,2025-08-15 07:25:00,True,3 doors ute,8,True,False,No prestart recorded.
+NCH 45,2025-08-15,False,,2025-08-15 06:34:00,False,,7,True,False,No prestart recorded.
+NCH 46,2025-08-15,False,,2025-08-15 06:24:00,False,,12,True,False,No prestart recorded.
+NCH 53,2025-08-15,True,Jacinta Goode,2025-08-15 06:51:00,True,Ben Richard,7,False,True,Rostered 'Ben Richard' but prestart by 'Jacinta Goode'.
+NCH 54,2025-08-15,True,Melville Gray,2025-08-15 05:12:00,True,MEl Gray,16,False,True,Rostered 'MEl Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-15,True,Peter Moss,2025-08-15 05:14:00,False,,3,False,False,
+NCH 56,2025-08-15,False,,2025-08-15 00:35:00,True,Chris Evans,27,True,False,No prestart recorded.
+NCH 58,2025-08-15,True,Laura Tyrrell,2025-08-15 06:49:00,False,,12,False,False,
+NCH 61,2025-08-15,False,,2025-08-15 05:45:00,False,,6,True,False,No prestart recorded.
+NCH 64,2025-08-15,False,,2025-08-15 01:18:00,True,James Hoey,16,True,False,No prestart recorded.
+NCH 65,2025-08-15,False,,2025-08-15 00:43:00,True,Robert Mascarli,19,True,False,No prestart recorded.
+NCH 66,2025-08-15,True,Rangi Abbot,2025-08-15 01:41:00,True,Douglas Cane,25,False,True,Rostered 'Douglas Cane' but prestart by 'Rangi Abbot'.
+NCH 67,2025-08-15,False,,2025-08-15 05:48:00,False,,2,True,False,No prestart recorded.
+NCH 69,2025-08-15,False,,2025-08-15 00:01:00,False,,17,True,False,No prestart recorded.
+NCH 70,2025-08-15,False,,2025-08-15 09:01:00,False,,19,True,False,No prestart recorded.
+NCH 71,2025-08-15,False,,2025-08-15 09:16:00,False,,10,True,False,No prestart recorded.
+NCH 28,2025-08-16,False,,2025-08-16 04:55:00,False,,8,True,False,No prestart recorded.
+NCH 31,2025-08-16,True,Brendan Langford,2025-08-16 10:37:00,True,Brendan Langford,3,False,False,
+NCH 35,2025-08-16,False,,2025-08-16 05:10:00,True,Vincent,3,True,False,No prestart recorded.
+NCH 36,2025-08-16,False,,2025-08-16 07:00:00,True,Jamie P,6,True,False,No prestart recorded.
+NCH 37,2025-08-16,True,David Eiao,2025-08-16 06:44:00,False,,13,False,False,
+NCH 39,2025-08-16,False,,2025-08-16 06:31:00,True,Wayne White,11,True,False,No prestart recorded.
+NCH 40,2025-08-16,True,Paul Smeaton,2025-08-16 04:50:00,False,,18,False,False,
+NCH 41,2025-08-16,False,,2025-08-16 16:56:00,True,Stu,4,True,False,No prestart recorded.
+NCH 42,2025-08-16,False,,2025-08-16 07:45:00,False,,8,True,False,No prestart recorded.
+NCH 43,2025-08-16,False,,2025-08-16 06:38:00,False,,5,True,False,No prestart recorded.
+NCH 45,2025-08-16,False,,2025-08-16 08:01:00,False,,15,True,False,No prestart recorded.
+NCH 46,2025-08-16,False,,2025-08-16 06:27:00,False,,5,True,False,No prestart recorded.
+NCH 52,2025-08-16,True,John Elliott,2025-08-16 09:44:00,True,John Eilliot,3,False,True,Rostered 'John Eilliot' but prestart by 'John Elliott'.
+NCH 53,2025-08-16,True,Benjamin Rickard,2025-08-16 06:51:00,True,Dan K,3,False,True,Rostered 'Dan K' but prestart by 'Benjamin Rickard'.
+NCH 54,2025-08-16,True,Melville Gray,2025-08-16 05:21:00,True,MEl Gray,6,False,True,Rostered 'MEl Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-16,False,,2025-08-16 06:30:00,False,,2,True,False,No prestart recorded.
+NCH 56,2025-08-16,False,,2025-08-16 02:10:00,False,,22,True,False,No prestart recorded.
+NCH 58,2025-08-16,True,Laura Tyrrell,2025-08-16 06:53:00,False,,16,False,False,
+NCH 61,2025-08-16,False,,2025-08-16 05:35:00,False,,8,True,False,No prestart recorded.
+NCH 64,2025-08-16,False,,2025-08-16 00:03:00,True,James Hoey,14,True,False,No prestart recorded.
+NCH 65,2025-08-16,False,,2025-08-16 00:48:00,False,,24,True,False,No prestart recorded.
+NCH 66,2025-08-16,True,Rangi Abbot,2025-08-16 02:28:00,False,,21,False,False,
+NCH 67,2025-08-16,False,,2025-08-16 05:46:00,False,,2,True,False,No prestart recorded.
+NCH 69,2025-08-16,False,,2025-08-16 01:20:00,False,,5,True,False,No prestart recorded.
+NCH 70,2025-08-16,True,John Elliott,2025-08-16 05:36:00,False,,2,False,False,
+NCH 71,2025-08-16,False,,2025-08-16 10:54:00,True,aircon repairs,7,True,False,No prestart recorded.
+NCH 28,2025-08-17,True,Thomas Ship,2025-08-17 04:47:00,False,,10,False,False,
+NCH 31,2025-08-17,False,,2025-08-17 06:02:00,True,Brendan,1,True,False,No prestart recorded.
+NCH 35,2025-08-17,False,,2025-08-17 05:15:00,True,Vincent,6,True,False,No prestart recorded.
+NCH 36,2025-08-17,True,Jamie Parkinson,2025-08-17 05:52:00,True,Jamie P,6,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-17,True,David Eiao,2025-08-17 06:31:00,False,,2,False,False,
+NCH 39,2025-08-17,False,,2025-08-17 06:29:00,True,Wayne White,8,True,False,No prestart recorded.
+NCH 40,2025-08-17,False,,2025-08-17 02:02:00,False,,9,True,False,No prestart recorded.
+NCH 41,2025-08-17,False,,2025-08-17 01:04:00,True,Stu,3,True,False,No prestart recorded.
+NCH 42,2025-08-17,True,Chevy Pateman,2025-08-17 05:16:00,False,,10,False,False,
+NCH 43,2025-08-17,True,Shane Good,2025-08-17 06:02:00,True,Shane Good,15,False,False,
+NCH 45,2025-08-17,False,,2025-08-17 06:35:00,False,,11,True,False,No prestart recorded.
+NCH 46,2025-08-17,False,,2025-08-17 06:34:00,False,,9,True,False,No prestart recorded.
+NCH 52,2025-08-17,False,,2025-08-17 06:41:00,True,Laura,3,True,False,No prestart recorded.
+NCH 53,2025-08-17,True,Benjamin Rickard,2025-08-17 06:49:00,True,Dan K,4,False,True,Rostered 'Dan K' but prestart by 'Benjamin Rickard'.
+NCH 54,2025-08-17,False,,2025-08-17 05:09:00,True,MEl Gray,6,True,False,No prestart recorded.
+NCH 55,2025-08-17,True,Peter Moss,2025-08-17 06:29:00,False,,4,False,False,
+NCH 56,2025-08-17,False,,2025-08-17 00:41:00,False,,8,True,False,No prestart recorded.
+NCH 58,2025-08-17,True,Gary Everson,2025-08-17 04:50:00,False,,8,False,False,
+NCH 61,2025-08-17,False,,2025-08-17 06:10:00,False,,4,True,False,No prestart recorded.
+NCH 64,2025-08-17,False,,2025-08-17 01:04:00,True,James Hoey,4,True,False,No prestart recorded.
+NCH 65,2025-08-17,True,Justin Vodanovich,2025-08-17 02:48:00,False,,24,False,False,
+NCH 66,2025-08-17,True,Rangi Abbot,2025-08-17 01:44:00,False,,15,False,False,
+NCH 69,2025-08-17,True,Mark Robson,2025-08-17 04:21:00,False,,10,False,False,
+NCH 70,2025-08-17,False,,2025-08-17 11:03:00,False,,5,True,False,No prestart recorded.
+NCH 71,2025-08-17,False,,2025-08-17 14:07:00,True,aircon repairs,1,True,False,No prestart recorded.
+NCH 28,2025-08-18,True,Thomas ShipThomas Ship,2025-08-18 05:03:00,True,Thomas Ship,13,False,True,Rostered 'Thomas Ship' but prestart by 'Thomas ShipThomas Ship'.
+NCH 31,2025-08-18,False,,2025-08-18 13:33:00,False,,1,True,False,No prestart recorded.
+NCH 35,2025-08-18,True,Jason CraigJason Craig,2025-08-18 04:50:00,False,,13,False,False,
+NCH 36,2025-08-18,True,Jamie ParkinsonJamie Parkinson,2025-08-18 09:37:00,True,Jamie P,14,False,True,Rostered 'Jamie P' but prestart by 'Jamie ParkinsonJamie Parkinson'.
+NCH 37,2025-08-18,False,,2025-08-18 11:15:00,False,,9,True,False,No prestart recorded.
+NCH 38,2025-08-18,False,,2025-08-18 07:05:00,False,,7,True,False,No prestart recorded.
+NCH 40,2025-08-18,True,Rangi AbbotRangi Abbot,2025-08-18 04:22:00,False,,6,False,False,
+NCH 41,2025-08-18,True,Stu KingiStu Kingi,2025-08-18 05:35:00,True,Stu,14,False,True,Rostered 'Stu' but prestart by 'Stu KingiStu Kingi'.
+NCH 42,2025-08-18,True,Chevy PatemanChevy Pateman,2025-08-18 05:37:00,True,Chevy,15,False,True,Rostered 'Chevy' but prestart by 'Chevy PatemanChevy Pateman'.
+NCH 43,2025-08-18,False,,2025-08-18 16:12:00,True,Shane Good,9,True,False,No prestart recorded.
+NCH 45,2025-08-18,False,,2025-08-18 06:51:00,False,,12,True,False,No prestart recorded.
+NCH 46,2025-08-18,False,,2025-08-18 06:31:00,False,,13,True,False,No prestart recorded.
+NCH 52,2025-08-18,False,,2025-08-18 08:25:00,True,Ross Sutton,10,True,False,No prestart recorded.
+NCH 53,2025-08-18,False,,2025-08-18 06:49:00,True,Dan K,9,True,False,No prestart recorded.
+NCH 54,2025-08-18,True,Melville GrayMelville Gray,2025-08-18 05:31:00,True,MEl Gray,10,False,True,Rostered 'MEl Gray' but prestart by 'Melville GrayMelville Gray'.
+NCH 55,2025-08-18,True,Peter MossPeter Moss,2025-08-18 05:49:00,False,,14,False,False,
+NCH 56,2025-08-18,True,Alan Tajic,2025-08-18 04:59:00,False,,10,False,False,
+NCH 58,2025-08-18,True,Gary EversonGary Everson,2025-08-18 04:48:00,False,,11,False,False,
+NCH 64,2025-08-18,False,,2025-08-18 05:16:00,False,,31,True,False,No prestart recorded.
+NCH 65,2025-08-18,False,,2025-08-18 05:59:00,False,,5,True,False,No prestart recorded.
+NCH 66,2025-08-18,True,Paul SmeatonPaul Smeaton,2025-08-18 05:40:00,False,,10,False,False,
+NCH 69,2025-08-18,True,Mark RobsonMark Robson,2025-08-18 04:25:00,False,,9,False,False,
+NCH 71,2025-08-18,False,,2025-08-18 11:53:00,True,aircon repairs,8,True,False,No prestart recorded.
+NCH 28,2025-08-19,True,Thomas Ship,2025-08-19 05:07:00,True,Thomas Ship,16,False,False,
+NCH 31,2025-08-19,False,,2025-08-19 11:53:00,False,,4,True,False,No prestart recorded.
+NCH 35,2025-08-19,True,Eric Craft,2025-08-19 04:50:00,True,Eric Craft,8,False,False,
+NCH 37,2025-08-19,True,Douglas Cane,2025-08-19 06:34:00,False,,17,False,False,
+NCH 38,2025-08-19,False,,2025-08-19 06:40:00,False,,11,True,False,No prestart recorded.
+NCH 39,2025-08-19,False,,2025-08-19 14:35:00,True,Wayne White,3,True,False,No prestart recorded.
+NCH 40,2025-08-19,False,,2025-08-19 06:12:00,False,,9,True,False,No prestart recorded.
+NCH 41,2025-08-19,True,Stu Kingi,2025-08-19 04:36:00,True,Stu,9,False,True,Rostered 'Stu' but prestart by 'Stu Kingi'.
+NCH 42,2025-08-19,True,Chevy Pateman,2025-08-19 05:25:00,True,Chevy,9,False,True,Rostered 'Chevy' but prestart by 'Chevy Pateman'.
+NCH 43,2025-08-19,False,,2025-08-19 03:23:00,True,Shane Good,10,True,False,No prestart recorded.
+NCH 44,2025-08-19,False,,2025-08-19 07:53:00,True,3 doors ute,15,True,False,No prestart recorded.
+NCH 45,2025-08-19,False,,2025-08-19 06:25:00,True,Maintenance,9,True,False,No prestart recorded.
+NCH 46,2025-08-19,False,,2025-08-19 06:48:00,False,,16,True,False,No prestart recorded.
+NCH 52,2025-08-19,False,,2025-08-19 06:30:00,True,Ross Sutton,10,True,False,No prestart recorded.
+NCH 53,2025-08-19,False,,2025-08-19 06:36:00,True,Dan K,4,True,False,No prestart recorded.
+NCH 54,2025-08-19,True,Melville Gray,2025-08-19 06:34:00,True,Mel Gray,12,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-19,True,Peter Moss,2025-08-19 06:00:00,False,,4,False,False,
+NCH 56,2025-08-19,True,Christopher Evans,2025-08-19 05:39:00,True,Chris Evans,6,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 58,2025-08-19,False,,2025-08-19 04:44:00,False,,13,True,False,No prestart recorded.
+NCH 64,2025-08-19,False,,2025-08-19 13:11:00,False,,6,True,False,No prestart recorded.
+NCH 66,2025-08-19,False,,2025-08-19 05:02:00,False,,9,True,False,No prestart recorded.
+NCH 69,2025-08-19,True,Mark Robson,2025-08-19 03:59:00,False,,9,False,False,
+NCH 70,2025-08-19,False,,2025-08-19 07:30:00,False,,14,True,False,No prestart recorded.
+NCH 71,2025-08-19,True,Robert Cook,2025-08-19 06:05:00,True,Keith Byerely,5,False,True,Rostered 'Keith Byerely' but prestart by 'Robert Cook'.
+NCH 28,2025-08-20,False,,2025-08-20 05:07:00,True,Thomas Ship,18,True,False,No prestart recorded.
+NCH 31,2025-08-20,False,,2025-08-20 05:13:00,False,,10,True,False,No prestart recorded.
+NCH 35,2025-08-20,True,Aiden Amur,2025-08-20 05:38:00,True,Eric Craft/Aiden,5,False,True,Rostered 'Eric Craft/Aiden' but prestart by 'Aiden Amur'.
+NCH 36,2025-08-20,False,,2025-08-20 13:05:00,True,Jamie P,3,True,False,No prestart recorded.
+NCH 37,2025-08-20,True,Douglas Cane,2025-08-20 06:15:00,False,,8,False,False,
+NCH 38,2025-08-20,True,Rodney Lowe,2025-08-20 06:13:00,False,,16,False,False,
+NCH 39,2025-08-20,False,,2025-08-20 06:21:00,False,,4,True,False,No prestart recorded.
+NCH 40,2025-08-20,False,,2025-08-20 08:28:00,False,,6,True,False,No prestart recorded.
+NCH 41,2025-08-20,False,,2025-08-20 05:44:00,True,Stu Ross,11,True,False,No prestart recorded.
+NCH 42,2025-08-20,False,,2025-08-20 05:23:00,True,Chevy,8,True,False,No prestart recorded.
+NCH 43,2025-08-20,False,,2025-08-20 01:46:00,True,Shane Good,5,True,False,No prestart recorded.
+NCH 44,2025-08-20,False,,2025-08-20 05:43:00,True,3 doors ute,4,True,False,No prestart recorded.
+NCH 45,2025-08-20,False,,2025-08-20 06:18:00,True,Maintenance,9,True,False,No prestart recorded.
+NCH 46,2025-08-20,False,,2025-08-20 06:17:00,False,,13,True,False,No prestart recorded.
+NCH 52,2025-08-20,True,Laura Tyrrell,2025-08-20 06:08:00,True,Ross Sutton,23,False,True,Rostered 'Ross Sutton' but prestart by 'Laura Tyrrell'.
+NCH 53,2025-08-20,False,,2025-08-20 06:57:00,True,Dan K,6,True,False,No prestart recorded.
+NCH 54,2025-08-20,True,Melville Gray,2025-08-20 06:10:00,True,Mel Gray,7,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-20,True,Stu Kingi,2025-08-20 05:53:00,True,Peter Moss,9,False,True,Rostered 'Peter Moss' but prestart by 'Stu Kingi'.
+NCH 56,2025-08-20,True,Lyle Cottenden,2025-08-20 06:41:00,True,Lyle,8,False,True,Rostered 'Lyle' but prestart by 'Lyle Cottenden'.
+NCH 58,2025-08-20,True,Denis Begg,2025-08-20 02:26:00,False,,6,False,False,
+NCH 64,2025-08-20,True,Daniel Darwell,2025-08-20 04:41:00,False,,11,False,False,
+NCH 65,2025-08-20,False,,2025-08-20 09:04:00,False,,4,True,False,No prestart recorded.
+NCH 66,2025-08-20,False,,2025-08-20 05:04:00,False,,13,True,False,No prestart recorded.
+NCH 69,2025-08-20,True,Jason Kainuku,2025-08-20 04:23:00,True,Jason K,5,False,True,Rostered 'Jason K' but prestart by 'Jason Kainuku'.
+NCH 70,2025-08-20,False,,2025-08-20 06:21:00,False,,20,True,False,No prestart recorded.
+NCH 71,2025-08-20,True,Keith Byerley,2025-08-20 07:38:00,True,Keith Byerely,8,False,True,Rostered 'Keith Byerely' but prestart by 'Keith Byerley'.
+NCH 28,2025-08-21,True,Andrew Toomey,2025-08-21 06:19:00,False,,1,False,False,
+NCH 31,2025-08-21,False,,2025-08-21 06:37:00,False,,6,True,False,No prestart recorded.
+NCH 35,2025-08-21,False,,2025-08-21 05:24:00,True,Eric Craft/Aiden,5,True,False,No prestart recorded.
+NCH 36,2025-08-21,False,,2025-08-21 15:04:00,True,Jamie P,5,True,False,No prestart recorded.
+NCH 37,2025-08-21,True,Wayne Daniels,2025-08-21 05:35:00,True,Douglas Cane,10,False,True,Rostered 'Douglas Cane' but prestart by 'Wayne Daniels'.
+NCH 38,2025-08-21,False,,2025-08-21 06:19:00,True,Rodney Lowe,5,True,False,No prestart recorded.
+NCH 39,2025-08-21,True,Peter Moss,2025-08-21 06:01:00,False,,2,False,False,
+NCH 40,2025-08-21,False,,2025-08-21 15:45:00,False,,1,True,False,No prestart recorded.
+NCH 41,2025-08-21,False,,2025-08-21 03:46:00,False,,11,True,False,No prestart recorded.
+NCH 42,2025-08-21,True,John Elliott,2025-08-21 05:16:00,True,Chevy,6,False,True,Rostered 'Chevy' but prestart by 'John Elliott'.
+NCH 43,2025-08-21,False,,2025-08-21 00:04:00,True,Shane Good,18,True,False,No prestart recorded.
+NCH 44,2025-08-21,False,,2025-08-21 16:26:00,False,,2,True,False,No prestart recorded.
+NCH 45,2025-08-21,False,,2025-08-21 06:16:00,True,Maintenance,7,True,False,No prestart recorded.
+NCH 46,2025-08-21,True,Gary Leck,2025-08-21 06:03:00,False,,15,False,False,
+NCH 52,2025-08-21,True,Ross Sutton,2025-08-21 00:50:00,True,Ross Sutton/Laura Tyreel,29,False,True,Rostered 'Ross Sutton/Laura Tyreel' but prestart by 'Ross Sutton'.
+NCH 53,2025-08-21,True,Dan Kermode,2025-08-21 07:45:00,False,,9,False,False,
+NCH 54,2025-08-21,True,Melville Gray,2025-08-21 06:40:00,True,Mel Gray,4,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-08-21,True,Mark Robson,2025-08-21 04:28:00,True,Stu Kingi,6,False,True,Rostered 'Stu Kingi' but prestart by 'Mark Robson'.
+NCH 56,2025-08-21,False,,2025-08-21 17:13:00,True,Lyle Cottenden,1,True,False,No prestart recorded.
+NCH 58,2025-08-21,False,,2025-08-21 01:06:00,True,Denis Begg,8,True,False,No prestart recorded.
+NCH 64,2025-08-21,True,Mackenzie Naughton,2025-08-21 05:15:00,True,Dan Darwell,6,False,True,Rostered 'Dan Darwell' but prestart by 'Mackenzie Naughton'.
+NCH 65,2025-08-21,False,,2025-08-21 15:50:00,False,,2,True,False,No prestart recorded.
+NCH 66,2025-08-21,False,,2025-08-21 06:26:00,False,,11,True,False,No prestart recorded.
+NCH 69,2025-08-21,False,,2025-08-21 06:02:00,True,Bradley Matyas,5,True,False,No prestart recorded.
+NCH 70,2025-08-21,False,,2025-08-21 06:22:00,False,,15,True,False,No prestart recorded.
+NCH 71,2025-08-21,True,Keith Byerley,2025-08-21 05:08:00,True,Keith Byerely,23,False,True,Rostered 'Keith Byerely' but prestart by 'Keith Byerley'.
+NCH 31,2025-08-22,False,,2025-08-22 07:00:00,False,,11,True,False,No prestart recorded.
+NCH 35,2025-08-22,False,,2025-08-22 05:31:00,True,Aiden Amur,2,True,False,No prestart recorded.
+NCH 36,2025-08-22,True,Jamie Parkinson,2025-08-22 07:22:00,True,Jamie P,7,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-22,True,Wayne Daniels,2025-08-22 06:31:00,True,Douglas Cane,14,False,True,Rostered 'Douglas Cane' but prestart by 'Wayne Daniels'.
+NCH 38,2025-08-22,False,,2025-08-22 04:54:00,True,Rodney Lowe,26,True,False,No prestart recorded.
+NCH 39,2025-08-22,True,Peter Moss,2025-08-22 06:46:00,False,,2,False,False,
+NCH 40,2025-08-22,False,,2025-08-22 03:40:00,False,,7,True,False,No prestart recorded.
+NCH 41,2025-08-22,True,Stu Kingi,2025-08-22 06:36:00,False,,11,False,False,
+NCH 42,2025-08-22,True,John Elliott,2025-08-22 05:23:00,False,,8,False,False,
+NCH 43,2025-08-22,False,,2025-08-22 00:24:00,True,Shane Good,1,True,False,No prestart recorded.
+NCH 44,2025-08-22,False,,2025-08-22 10:52:00,False,,13,True,False,No prestart recorded.
+NCH 45,2025-08-22,False,,2025-08-22 06:15:00,True,Maintenance,11,True,False,No prestart recorded.
+NCH 46,2025-08-22,False,,2025-08-22 06:09:00,False,,4,True,False,No prestart recorded.
+NCH 52,2025-08-22,True,Ross Sutton,2025-08-22 01:37:00,True,Laura  Tyreel,39,False,True,Rostered 'Laura  Tyreel' but prestart by 'Ross Sutton'.
+NCH 53,2025-08-22,False,,2025-08-22 06:52:00,False,,4,True,False,No prestart recorded.
+NCH 54,2025-08-22,False,,2025-08-22 06:42:00,True,Mel Gray,7,True,False,No prestart recorded.
+NCH 55,2025-08-22,True,Mark Robson,2025-08-22 04:07:00,True,Stu Kingi,9,False,True,Rostered 'Stu Kingi' but prestart by 'Mark Robson'.
+NCH 56,2025-08-22,False,,2025-08-22 05:47:00,True,Lyle Cottenden,3,True,False,No prestart recorded.
+NCH 58,2025-08-22,True,Brendan Langford,2025-08-22 05:58:00,True,Denis Begg,7,False,True,Rostered 'Denis Begg' but prestart by 'Brendan Langford'.
+NCH 64,2025-08-22,True,Daniel Darwell,2025-08-22 05:13:00,True,Daniel Darwell,11,False,False,
+NCH 65,2025-08-22,False,,2025-08-22 06:10:00,False,,2,True,False,No prestart recorded.
+NCH 66,2025-08-22,False,,2025-08-22 06:22:00,False,,19,True,False,No prestart recorded.
+NCH 67,2025-08-22,False,,2025-08-22 09:59:00,False,,1,True,False,No prestart recorded.
+NCH 69,2025-08-22,True,Mark Dawson,2025-08-22 05:32:00,True,Jason K,4,False,True,Rostered 'Jason K' but prestart by 'Mark Dawson'.
+NCH 70,2025-08-22,True,Thomas Ship,2025-08-22 04:53:00,False,,19,False,False,
+NCH 71,2025-08-22,True,Keith Byerley,2025-08-22 04:47:00,True,Keith Byerely,5,False,True,Rostered 'Keith Byerely' but prestart by 'Keith Byerley'.
+NCH 35,2025-08-23,False,,2025-08-23 05:29:00,True,Aiden Amur,4,True,False,No prestart recorded.
+NCH 36,2025-08-23,True,Jamie Parkinson,2025-08-23 13:12:00,True,Jamie P,1,False,True,Rostered 'Jamie P' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-08-23,False,,2025-08-23 06:10:00,True,Wayne Daniels,9,True,False,No prestart recorded.
+NCH 38,2025-08-23,False,,2025-08-23 06:23:00,False,,11,True,False,No prestart recorded.
+NCH 39,2025-08-23,True,Peter Moss,2025-08-23 05:56:00,True,Peter Moss,7,False,False,
+NCH 40,2025-08-23,False,,2025-08-23 03:46:00,False,,10,True,False,No prestart recorded.
+NCH 41,2025-08-23,True,Stu Kingi,2025-08-23 16:41:00,True,Stu Kingi,3,False,False,
+NCH 42,2025-08-23,True,John Elliott,2025-08-23 05:14:00,True,John Elliot Chevy,5,False,True,Rostered 'John Elliot Chevy' but prestart by 'John Elliott'.
+NCH 43,2025-08-23,True,Stephen Begg,2025-08-23 06:12:00,True,Beggsy,17,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 44,2025-08-23,False,,2025-08-23 18:04:00,False,,1,True,False,No prestart recorded.
+NCH 45,2025-08-23,False,,2025-08-23 06:17:00,True,Maintenance,10,True,False,No prestart recorded.
+NCH 46,2025-08-23,False,,2025-08-23 06:04:00,False,,11,True,False,No prestart recorded.
+NCH 52,2025-08-23,True,Ross Sutton,2025-08-23 00:01:00,True,Ross Sutton & Laura Tyrrell,29,False,True,Rostered 'Ross Sutton & Laura Tyrrell' but prestart by 'Ross Sutton'.
+NCH 53,2025-08-23,False,,2025-08-23 06:57:00,False,,6,True,False,No prestart recorded.
+NCH 54,2025-08-23,False,,2025-08-23 17:23:00,True,Daniel Kitchen,1,True,False,No prestart recorded.
+NCH 55,2025-08-23,True,Mark Robson,2025-08-23 03:54:00,True,Robo,7,False,True,Rostered 'Robo' but prestart by 'Mark Robson'.
+NCH 56,2025-08-23,True,Mackenzie Naughton,2025-08-23 05:11:00,True,Lyle Cottenden,6,False,True,Rostered 'Lyle Cottenden' but prestart by 'Mackenzie Naughton'.
+NCH 58,2025-08-23,False,,2025-08-23 06:19:00,True,Brendan Langford,13,True,False,No prestart recorded.
+NCH 64,2025-08-23,True,Wayne Daniels,2025-08-23 06:22:00,True,Daniel Darwell,4,False,True,Rostered 'Daniel Darwell' but prestart by 'Wayne Daniels'.
+NCH 65,2025-08-23,True,Brett Jones,2025-08-23 05:50:00,False,,4,False,False,
+NCH 66,2025-08-23,True,Shane Stubbs,2025-08-23 06:30:00,False,,16,False,False,
+NCH 67,2025-08-23,True,Chevy Pateman,2025-08-23 05:23:00,True,Chevy,5,False,True,Rostered 'Chevy' but prestart by 'Chevy Pateman'.
+NCH 69,2025-08-23,True,Mark Dawson,2025-08-23 05:48:00,True,Mark Dawson,2,False,False,
+NCH 70,2025-08-23,True,Thomas Ship,2025-08-23 05:06:00,True,Thomas Ship,12,False,False,
+NCH 71,2025-08-23,True,Keith Byerley,2025-08-23 04:53:00,True,Keith Byerely,4,False,True,Rostered 'Keith Byerely' but prestart by 'Keith Byerley'.
+NCH 35,2025-08-24,False,,2025-08-24 07:31:00,True,Aiden Amur,5,True,False,No prestart recorded.
+NCH 36,2025-08-24,True,Jamie Parkinson,2025-08-24 12:30:00,True,Jamie Parkinson,2,False,False,
+NCH 37,2025-08-24,True,Tutavake Thompson,2025-08-24 06:11:00,True,Wayne Daniels & Jadey,10,False,True,Rostered 'Wayne Daniels & Jadey' but prestart by 'Tutavake Thompson'.
+NCH 38,2025-08-24,False,,2025-08-24 06:51:00,True,Troy Fox,14,True,False,No prestart recorded.
+NCH 39,2025-08-24,True,Mackenzie Naughton,2025-08-24 05:13:00,True,Mackenzie Naughton,4,False,False,
+NCH 40,2025-08-24,True,Ross Sutton,2025-08-24 05:42:00,True,Ross Sutton,12,False,False,
+NCH 41,2025-08-24,True,Stu Kingi,2025-08-24 02:27:00,True,Stu Kingi,3,False,False,
+NCH 42,2025-08-24,True,John Elliott,2025-08-24 05:19:00,True,John Elliot,3,False,True,Rostered 'John Elliot' but prestart by 'John Elliott'.
+NCH 43,2025-08-24,True,Stephen Begg,2025-08-24 05:09:00,True,Beggsy,11,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 45,2025-08-24,False,,2025-08-24 06:04:00,False,,9,True,False,No prestart recorded.
+NCH 46,2025-08-24,False,,2025-08-24 06:11:00,False,,6,True,False,No prestart recorded.
+NCH 52,2025-08-24,False,,2025-08-24 04:59:00,True,Chris Evans,2,True,False,No prestart recorded.
+NCH 53,2025-08-24,False,,2025-08-24 07:23:00,False,,11,True,False,No prestart recorded.
+NCH 54,2025-08-24,True,Daniel Kitchen,2025-08-24 06:17:00,True,Daniel Kitchen,10,False,False,
+NCH 55,2025-08-24,True,Mark Robson,2025-08-24 04:04:00,True,Mark Robo,7,False,True,Rostered 'Mark Robo' but prestart by 'Mark Robson'.
+NCH 56,2025-08-24,False,,2025-08-24 05:47:00,True,Mackenzie Naughton,3,True,False,No prestart recorded.
+NCH 58,2025-08-24,True,Daniel Darwell,2025-08-24 05:36:00,True,Daniel Darwell,6,False,False,
+NCH 64,2025-08-24,True,Robert Mascali,2025-08-24 06:50:00,True,Daniel Darwell & Robert Mascali,5,False,True,Rostered 'Daniel Darwell & Robert Mascali' but prestart by 'Robert Mascali'.
+NCH 65,2025-08-24,True,Brett Jones,2025-08-24 05:49:00,True,Brett Jones,5,False,False,
+NCH 66,2025-08-24,False,,2025-08-24 05:44:00,False,,10,True,False,No prestart recorded.
+NCH 69,2025-08-24,False,,2025-08-24 05:48:00,True,Mark Dawson,2,True,False,No prestart recorded.
+NCH 70,2025-08-24,False,,2025-08-24 05:18:00,True,Thomas Ship,10,True,False,No prestart recorded.
+NCH 71,2025-08-24,True,Keith Byerley,2025-08-24 04:44:00,True,Keith Byerely,3,False,True,Rostered 'Keith Byerely' but prestart by 'Keith Byerley'.
+NCH 28,2025-08-25,False,,2025-08-25 08:53:00,False,,7,True,False,No prestart recorded.
+NCH 31,2025-08-25,False,,2025-08-25 06:26:00,False,,3,True,False,No prestart recorded.
+NCH 35,2025-08-25,False,,2025-08-25 05:29:00,True,Aiden Amur,3,True,False,No prestart recorded.
+NCH 36,2025-08-25,True,Jamie Parkinson,2025-08-25 08:21:00,True,Jamie Parkinson,10,False,False,
+NCH 37,2025-08-25,True,Wayne Daniels,2025-08-25 04:21:00,False,,14,False,False,
+NCH 38,2025-08-25,True,Troy Fox,2025-08-25 06:23:00,False,,9,False,False,
+NCH 39,2025-08-25,False,,2025-08-25 05:09:00,True,Mackenzie Naughton,11,True,False,No prestart recorded.
+NCH 40,2025-08-25,False,,2025-08-25 16:03:00,False,,6,True,False,No prestart recorded.
+NCH 41,2025-08-25,False,,2025-08-25 05:05:00,True,Stu Kingi,4,True,False,No prestart recorded.
+NCH 42,2025-08-25,False,,2025-08-25 05:19:00,False,,6,True,False,No prestart recorded.
+NCH 43,2025-08-25,True,Stephen Begg,2025-08-25 04:38:00,True,Beggsy,12,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 45,2025-08-25,False,,2025-08-25 06:03:00,False,,8,True,False,No prestart recorded.
+NCH 46,2025-08-25,False,,2025-08-25 06:18:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-08-25,True,Christopher Evans,2025-08-25 06:24:00,True,Chris Evans,10,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 53,2025-08-25,False,,2025-08-25 07:02:00,False,,9,True,False,No prestart recorded.
+NCH 54,2025-08-25,False,,2025-08-25 06:15:00,True,Daniel Kitchen,12,True,False,No prestart recorded.
+NCH 55,2025-08-25,True,Mark Robson,2025-08-25 03:57:00,True,Brad M,12,False,True,Rostered 'Brad M' but prestart by 'Mark Robson'.
+NCH 56,2025-08-25,True,Mackenzie Naughton,2025-08-25 05:15:00,False,,3,False,False,
+NCH 58,2025-08-25,False,,2025-08-25 05:47:00,True,Daniel Darwell,5,True,False,No prestart recorded.
+NCH 64,2025-08-25,False,,2025-08-25 05:19:00,True,Daniel Darwell & Robert Mascali,20,True,False,No prestart recorded.
+NCH 65,2025-08-25,True,Brett Jones,2025-08-25 05:51:00,False,,6,False,False,
+NCH 66,2025-08-25,False,,2025-08-25 06:43:00,False,,1,True,False,No prestart recorded.
+NCH 67,2025-08-25,True,Chevy Pateman,2025-08-25 05:32:00,False,,11,False,False,
+NCH 69,2025-08-25,True,Mark Dawson,2025-08-25 05:38:00,True,Mark Dawson,16,False,False,
+NCH 70,2025-08-25,False,,2025-08-25 05:15:00,False,,12,True,False,No prestart recorded.
+NCH 71,2025-08-25,True,Keith Byerley,2025-08-25 04:42:00,False,,4,False,False,
+NCH 28,2025-08-26,True,Sean Cridland,2025-08-26 06:12:00,False,,23,False,False,
+NCH 31,2025-08-26,False,,2025-08-26 05:50:00,False,,7,True,False,No prestart recorded.
+NCH 35,2025-08-26,False,,2025-08-26 05:32:00,True,Aiden Amur,4,True,False,No prestart recorded.
+NCH 36,2025-08-26,False,,2025-08-26 06:39:00,True,Jamie Parkinson,6,True,False,No prestart recorded.
+NCH 37,2025-08-26,True,Tutavake Thompson,2025-08-26 05:15:00,False,,15,False,False,
+NCH 38,2025-08-26,False,,2025-08-26 17:07:00,False,,1,True,False,No prestart recorded.
+NCH 39,2025-08-26,True,Mackenzie Naughton,2025-08-26 05:11:00,True,Mackenzie Naughton,8,False,False,
+NCH 40,2025-08-26,False,,2025-08-26 07:06:00,False,,4,True,False,No prestart recorded.
+NCH 41,2025-08-26,True,Stu Kingi,2025-08-26 05:17:00,True,Stu Kingi,2,False,False,
+NCH 42,2025-08-26,False,,2025-08-26 17:08:00,False,,3,True,False,No prestart recorded.
+NCH 43,2025-08-26,True,Curtis Weeks,2025-08-26 06:39:00,True,Beggsy,14,False,True,Rostered 'Beggsy' but prestart by 'Curtis Weeks'.
+NCH 45,2025-08-26,False,,2025-08-26 06:06:00,False,,6,True,False,No prestart recorded.
+NCH 46,2025-08-26,False,,2025-08-26 06:48:00,False,,1,True,False,No prestart recorded.
+NCH 52,2025-08-26,False,,2025-08-26 04:16:00,True,Chris Evans,8,True,False,No prestart recorded.
+NCH 53,2025-08-26,True,Jaymi-Lee Ryder,2025-08-26 06:54:00,False,,8,False,False,
+NCH 54,2025-08-26,False,,2025-08-26 05:28:00,True,Daniel Kitchen,6,True,False,No prestart recorded.
+NCH 55,2025-08-26,False,,2025-08-26 02:20:00,True,Brad M,21,True,False,No prestart recorded.
+NCH 56,2025-08-26,False,,2025-08-26 05:27:00,False,,3,True,False,No prestart recorded.
+NCH 58,2025-08-26,False,,2025-08-26 05:49:00,True,Daniel Darwell,6,True,False,No prestart recorded.
+NCH 61,2025-08-26,False,,2025-08-26 10:05:00,False,,4,True,False,No prestart recorded.
+NCH 64,2025-08-26,True,Philip Dolan,2025-08-26 02:35:00,True,Daniel Darwell & Robert Mascali,25,False,True,Rostered 'Daniel Darwell & Robert Mascali' but prestart by 'Philip Dolan'.
+NCH 65,2025-08-26,True,Sean Cridland,2025-08-26 09:51:00,False,,6,False,False,
+NCH 66,2025-08-26,False,,2025-08-26 10:23:00,False,,3,True,False,No prestart recorded.
+NCH 67,2025-08-26,False,,2025-08-26 04:48:00,False,,6,True,False,No prestart recorded.
+NCH 69,2025-08-26,True,Ross Sutton,2025-08-26 01:22:00,True,Mark Dawson,6,False,True,Rostered 'Mark Dawson' but prestart by 'Ross Sutton'.
+NCH 70,2025-08-26,True,Thomas Ship,2025-08-26 05:10:00,False,,9,False,False,
+NCH 71,2025-08-26,True,Keith Byerley,2025-08-26 05:41:00,False,,6,False,False,
+NGL 001,2025-08-26,True,Watene Hokianga,2025-08-26 09:51:00,False,,16,False,False,
+NCH 28,2025-08-27,True,Sean Cridland,2025-08-27 17:01:00,True,Sean Cridland,1,False,False,
+NCH 31,2025-08-27,False,,2025-08-27 16:31:00,False,,1,True,False,No prestart recorded.
+NCH 35,2025-08-27,False,,2025-08-27 05:32:00,True,Aiden Amur,13,True,False,No prestart recorded.
+NCH 36,2025-08-27,False,,2025-08-27 06:45:00,True,Jamie Parkinson,8,True,False,No prestart recorded.
+NCH 37,2025-08-27,True,Tutavake Thompson,2025-08-27 05:06:00,False,,8,False,False,
+NCH 38,2025-08-27,True,Shane Good,2025-08-27 07:26:00,False,,10,False,False,
+NCH 39,2025-08-27,True,Mackenzie Naughton,2025-08-27 05:16:00,True,Mackenzie Naughton,4,False,False,
+NCH 40,2025-08-27,True,Frank Roberts,2025-08-27 06:18:00,False,,9,False,False,
+NCH 41,2025-08-27,False,,2025-08-27 05:16:00,True,Stu Kingi,2,True,False,No prestart recorded.
+NCH 42,2025-08-27,True,Troy Fox,2025-08-27 06:18:00,False,,22,False,False,
+NCH 43,2025-08-27,True,Stephen Begg,2025-08-27 00:20:00,True,Beggsy,25,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 44,2025-08-27,False,,2025-08-27 11:10:00,False,,11,True,False,No prestart recorded.
+NCH 45,2025-08-27,False,,2025-08-27 06:11:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-08-27,False,,2025-08-27 04:20:00,True,Chris Evans,11,True,False,No prestart recorded.
+NCH 53,2025-08-27,True,Benjamin Rickard,2025-08-27 06:44:00,True,Benjamin Rickard,6,False,False,
+NCH 54,2025-08-27,False,,2025-08-27 06:51:00,True,Daniel Kitchen,6,True,False,No prestart recorded.
+NCH 55,2025-08-27,False,,2025-08-27 04:20:00,True,Brad M,20,True,False,No prestart recorded.
+NCH 56,2025-08-27,False,,2025-08-27 05:12:00,False,,2,True,False,No prestart recorded.
+NCH 64,2025-08-27,True,Philip Dolan,2025-08-27 00:12:00,True,Daniel Darwell & Robert Mascali,19,False,True,Rostered 'Daniel Darwell & Robert Mascali' but prestart by 'Philip Dolan'.
+NCH 65,2025-08-27,False,,2025-08-27 05:18:00,False,,20,True,False,No prestart recorded.
+NCH 67,2025-08-27,False,,2025-08-27 04:47:00,False,,3,True,False,No prestart recorded.
+NCH 69,2025-08-27,True,Ross Sutton,2025-08-27 00:04:00,True,Mark Dawson,11,False,True,Rostered 'Mark Dawson' but prestart by 'Ross Sutton'.
+NCH 70,2025-08-27,True,Thomas Ship,2025-08-27 05:51:00,False,,11,False,False,
+NCH 71,2025-08-27,False,,2025-08-27 14:01:00,False,,2,True,False,No prestart recorded.
+NGL 001,2025-08-27,True,Watene Hokianga,2025-08-27 05:15:00,False,,9,False,False,
+NCH 28,2025-08-28,True,Sean Cridland,2025-08-28 05:52:00,True,Sean Cridland,4,False,False,
+NCH 31,2025-08-28,False,,2025-08-28 05:50:00,False,,6,True,False,No prestart recorded.
+NCH 35,2025-08-28,False,,2025-08-28 05:30:00,True,Aiden Amur,4,True,False,No prestart recorded.
+NCH 36,2025-08-28,True,Jamie Parkinson,2025-08-28 07:03:00,True,Jamie Parkinson,5,False,False,
+NCH 37,2025-08-28,True,Tutavake Thompson,2025-08-28 05:07:00,False,,14,False,False,
+NCH 38,2025-08-28,False,,2025-08-28 07:29:00,True,Shane Good,4,True,False,No prestart recorded.
+NCH 39,2025-08-28,True,Mackenzie Naughton,2025-08-28 05:13:00,True,Mackenzie Naughton,2,False,False,
+NCH 40,2025-08-28,True,Frank Roberts,2025-08-28 06:13:00,False,,11,False,False,
+NCH 41,2025-08-28,False,,2025-08-28 04:56:00,True,Stu Kingi,4,True,False,No prestart recorded.
+NCH 42,2025-08-28,False,,2025-08-28 05:10:00,False,,15,True,False,No prestart recorded.
+NCH 43,2025-08-28,False,,2025-08-28 00:25:00,True,Beggsy,21,True,False,No prestart recorded.
+NCH 44,2025-08-28,False,,2025-08-28 13:51:00,False,,5,True,False,No prestart recorded.
+NCH 45,2025-08-28,False,,2025-08-28 06:13:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-08-28,False,,2025-08-28 05:04:00,True,Chris Evans,12,True,False,No prestart recorded.
+NCH 53,2025-08-28,True,Benjamin Rickard,2025-08-28 06:54:00,True,Benjamin Rickard,5,False,False,
+NCH 54,2025-08-28,True,Jaymi-Lee Ryder,2025-08-28 06:45:00,True,Jaymie LEE,2,False,True,Rostered 'Jaymie LEE' but prestart by 'Jaymi-Lee Ryder'.
+NCH 55,2025-08-28,True,Benjamin Van Manen,2025-08-28 04:17:00,True,Brad M,10,False,True,Rostered 'Brad M' but prestart by 'Benjamin Van Manen'.
+NCH 56,2025-08-28,True,Lyle Cottenden,2025-08-28 06:26:00,False,,9,False,False,
+NCH 58,2025-08-28,True,David Eiao,2025-08-28 05:38:00,True,Daniel Darwell,4,False,True,Rostered 'Daniel Darwell' but prestart by 'David Eiao'.
+NCH 64,2025-08-28,True,Philip Dolan,2025-08-28 02:01:00,True,Daniel Darwell & Robert Mascali,13,False,True,Rostered 'Daniel Darwell & Robert Mascali' but prestart by 'Philip Dolan'.
+NCH 65,2025-08-28,False,,2025-08-28 04:42:00,False,,9,True,False,No prestart recorded.
+NCH 66,2025-08-28,False,,2025-08-28 14:30:00,False,,6,True,False,No prestart recorded.
+NCH 67,2025-08-28,False,,2025-08-28 04:47:00,False,,6,True,False,No prestart recorded.
+NCH 69,2025-08-28,False,,2025-08-28 03:21:00,True,Mark Dawson,3,True,False,No prestart recorded.
+NCH 70,2025-08-28,False,,2025-08-28 06:31:00,False,,4,True,False,No prestart recorded.
+NCH 71,2025-08-28,False,,2025-08-28 09:08:00,False,,19,True,False,No prestart recorded.
+NCH 28,2025-08-29,True,Sean Cridland,2025-08-29 05:25:00,True,Sean Cridland,7,False,False,
+NCH 31,2025-08-29,False,,2025-08-29 05:29:00,False,,9,True,False,No prestart recorded.
+NCH 35,2025-08-29,False,,2025-08-29 05:31:00,True,Aiden Amur,5,True,False,No prestart recorded.
+NCH 36,2025-08-29,True,Jamie Parkinson,2025-08-29 06:53:00,True,Jamie Parkinson,12,False,False,
+NCH 37,2025-08-29,True,Tutavake Thompson,2025-08-29 05:49:00,True,Mark Dawson,8,False,True,Rostered 'Mark Dawson' but prestart by 'Tutavake Thompson'.
+NCH 39,2025-08-29,True,Mackenzie Naughton,2025-08-29 05:16:00,True,Mackenzie Naughton,6,False,False,
+NCH 40,2025-08-29,True,Frank Roberts,2025-08-29 06:27:00,True,Frank Roberts,13,False,False,
+NCH 41,2025-08-29,True,Stu Kingi,2025-08-29 05:25:00,True,Stu Kingi,4,False,False,
+NCH 42,2025-08-29,True,Robert Cook,2025-08-29 06:40:00,True,Troy Fox,16,False,True,Rostered 'Troy Fox' but prestart by 'Robert Cook'.
+NCH 43,2025-08-29,True,Stephen Begg,2025-08-29 01:54:00,True,Beggsy,9,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 44,2025-08-29,False,,2025-08-29 11:34:00,False,,10,True,False,No prestart recorded.
+NCH 45,2025-08-29,False,,2025-08-29 06:11:00,False,,14,True,False,No prestart recorded.
+NCH 52,2025-08-29,False,,2025-08-29 05:00:00,True,Chris Evans,10,True,False,No prestart recorded.
+NCH 53,2025-08-29,True,Benjamin Rickard,2025-08-29 06:55:00,True,Benjamin Rickard,7,False,False,
+NCH 54,2025-08-29,False,,2025-08-29 06:49:00,True,jAYMIELEE,2,True,False,No prestart recorded.
+NCH 55,2025-08-29,False,,2025-08-29 04:17:00,True,Brad M,17,True,False,No prestart recorded.
+NCH 56,2025-08-29,True,Lyle Cottenden,2025-08-29 06:33:00,True,Lyle Cottenden,6,False,False,
+NCH 64,2025-08-29,True,Philip Dolan,2025-08-29 00:12:00,True,Daniel Darwell & Robert Mascali,25,False,True,Rostered 'Daniel Darwell & Robert Mascali' but prestart by 'Philip Dolan'.
+NCH 65,2025-08-29,False,,2025-08-29 05:16:00,False,,6,True,False,No prestart recorded.
+NCH 66,2025-08-29,True,Douglas Cane,2025-08-29 06:44:00,False,,10,False,False,
+NCH 67,2025-08-29,False,,2025-08-29 04:47:00,False,,12,True,False,No prestart recorded.
+NCH 69,2025-08-29,True,Ross Sutton,2025-08-29 05:18:00,True,Ross Sutton,3,False,False,
+NCH 71,2025-08-29,True,William Frost,2025-08-29 06:18:00,False,,9,False,False,
+NCH 28,2025-08-30,False,,2025-08-30 05:50:00,False,,1,True,False,No prestart recorded.
+NCH 31,2025-08-30,False,,2025-08-30 09:49:00,False,,5,True,False,No prestart recorded.
+NCH 35,2025-08-30,False,,2025-08-30 04:53:00,True,RODNEY,10,True,False,No prestart recorded.
+NCH 36,2025-08-30,False,,2025-08-30 06:56:00,True,Jamie Parkinson,10,True,False,No prestart recorded.
+NCH 38,2025-08-30,True,Daniel Van Oosten,2025-08-30 08:16:00,False,,1,False,False,
+NCH 39,2025-08-30,True,Mackenzie Naughton,2025-08-30 05:18:00,True,Mackenzie Naughton,13,False,False,
+NCH 40,2025-08-30,True,Frank Roberts,2025-08-30 03:47:00,False,,16,False,False,
+NCH 41,2025-08-30,False,,2025-08-30 02:15:00,True,Stu Kingi,2,True,False,No prestart recorded.
+NCH 42,2025-08-30,False,,2025-08-30 05:49:00,False,,8,True,False,No prestart recorded.
+NCH 43,2025-08-30,True,Stephen Begg,2025-08-30 02:19:00,False,,9,False,False,
+NCH 45,2025-08-30,False,,2025-08-30 06:19:00,False,,6,True,False,No prestart recorded.
+NCH 52,2025-08-30,False,,2025-08-30 05:03:00,False,,9,True,False,No prestart recorded.
+NCH 53,2025-08-30,True,Benjamin Rickard,2025-08-30 06:57:00,False,,8,False,False,
+NCH 54,2025-08-30,True,Jaymi-Lee Ryder,2025-08-30 07:00:00,False,,12,False,False,
+NCH 55,2025-08-30,False,,2025-08-30 04:21:00,False,,10,True,False,No prestart recorded.
+NCH 56,2025-08-30,True,Lyle Cottenden,2025-08-30 05:25:00,False,,3,False,False,
+NCH 58,2025-08-30,True,Brendan Langford,2025-08-30 05:45:00,True,Daniel Darwell,5,False,True,Rostered 'Daniel Darwell' but prestart by 'Brendan Langford'.
+NCH 64,2025-08-30,True,Philip Dolan,2025-08-30 02:26:00,False,,13,False,False,
+NCH 65,2025-08-30,False,,2025-08-30 05:12:00,False,,4,True,False,No prestart recorded.
+NCH 66,2025-08-30,True,William Frost,2025-08-30 06:20:00,False,,12,False,False,
+NCH 67,2025-08-30,False,,2025-08-30 06:53:00,False,,5,True,False,No prestart recorded.
+NCH 69,2025-08-30,True,Ross Sutton,2025-08-30 05:19:00,False,,12,False,False,
+NCH 28,2025-08-31,True,Sean Cridland,2025-08-31 05:37:00,False,,9,False,False,
+NCH 31,2025-08-31,False,,2025-08-31 05:59:00,False,,1,True,False,No prestart recorded.
+NCH 35,2025-08-31,False,,2025-08-31 09:27:00,False,,10,True,False,No prestart recorded.
+NCH 36,2025-08-31,False,,2025-08-31 06:52:00,True,Jamie Parkinson,12,True,False,No prestart recorded.
+NCH 37,2025-08-31,False,,2025-08-31 09:12:00,False,,9,True,False,No prestart recorded.
+NCH 39,2025-08-31,True,Mackenzie Naughton,2025-08-31 06:51:00,True,Mackenzie Naughton,7,False,False,
+NCH 40,2025-08-31,True,Tutavake Thompson,2025-08-31 06:06:00,False,,7,False,False,
+NCH 41,2025-08-31,True,Eric Craft,2025-08-31 06:45:00,True,Stu Kingi,10,False,True,Rostered 'Stu Kingi' but prestart by 'Eric Craft'.
+NCH 42,2025-08-31,False,,2025-08-31 05:32:00,False,,5,True,False,No prestart recorded.
+NCH 43,2025-08-31,False,,2025-08-31 07:15:00,False,,19,True,False,No prestart recorded.
+NCH 45,2025-08-31,False,,2025-08-31 06:16:00,False,,7,True,False,No prestart recorded.
+NCH 46,2025-08-31,False,,2025-08-31 16:26:00,False,,1,True,False,No prestart recorded.
+NCH 52,2025-08-31,False,,2025-08-31 04:36:00,False,,9,True,False,No prestart recorded.
+NCH 53,2025-08-31,True,Benjamin Rickard,2025-08-31 05:50:00,False,,6,False,False,
+NCH 54,2025-08-31,True,Melville Gray,2025-08-31 06:53:00,False,,8,False,False,
+NCH 55,2025-08-31,False,,2025-08-31 04:23:00,False,,17,True,False,No prestart recorded.
+NCH 56,2025-08-31,True,Lyle Cottenden,2025-08-31 05:28:00,False,,6,False,False,
+NCH 58,2025-08-31,True,Brendan Langford,2025-08-31 07:02:00,True,Daniel Darwell,6,False,True,Rostered 'Daniel Darwell' but prestart by 'Brendan Langford'.
+NCH 61,2025-08-31,False,,2025-08-31 05:44:00,False,,1,True,False,No prestart recorded.
+NCH 64,2025-08-31,True,Philip Dolan,2025-08-31 02:18:00,False,,18,False,False,
+NCH 65,2025-08-31,False,,2025-08-31 05:23:00,False,,2,True,False,No prestart recorded.
+NCH 66,2025-08-31,False,,2025-08-31 04:49:00,False,,3,True,False,No prestart recorded.
+NCH 67,2025-08-31,False,,2025-08-31 16:55:00,False,,3,True,False,No prestart recorded.
+NCH 69,2025-08-31,True,Ross Sutton,2025-08-31 05:17:00,False,,5,False,False,
+NCH 28,2025-09-01,True,Sean Cridland,2025-09-01 04:13:00,True,Sean Cridland,13,False,False,
+NCH 31,2025-09-01,False,,2025-09-01 14:58:00,False,,5,True,False,No prestart recorded.
+NCH 36,2025-09-01,True,Jamie Parkinson,2025-09-01 05:44:00,True,JamieParkisn,9,False,True,Rostered 'JamieParkisn' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-09-01,True,Douglas Cane,2025-09-01 05:23:00,True,Douglas Cane,15,False,False,
+NCH 39,2025-09-01,True,Mackenzie Naughton,2025-09-01 16:51:00,True,pHIL dOLAN,11,False,True,Rostered 'pHIL dOLAN' but prestart by 'Mackenzie Naughton'.
+NCH 40,2025-09-01,True,Tutavake Thompson,2025-09-01 04:35:00,True,Jadey,4,False,True,Rostered 'Jadey' but prestart by 'Tutavake Thompson'.
+NCH 41,2025-09-01,True,Frank Roberts,2025-09-01 05:38:00,True,Frank Roberts,21,False,False,
+NCH 42,2025-09-01,False,,2025-09-01 11:58:00,True,Troy Fox,4,True,False,No prestart recorded.
+NCH 43,2025-09-01,True,Stephen Begg,2025-09-01 06:07:00,True,Beggsy,10,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 45,2025-09-01,False,,2025-09-01 05:59:00,False,,7,True,False,No prestart recorded.
+NCH 46,2025-09-01,False,,2025-09-01 13:14:00,False,,2,True,False,No prestart recorded.
+NCH 52,2025-09-01,False,,2025-09-01 04:37:00,False,,8,True,False,No prestart recorded.
+NCH 53,2025-09-01,False,,2025-09-01 06:54:00,False,,12,True,False,No prestart recorded.
+NCH 54,2025-09-01,True,Melville Gray,2025-09-01 06:36:00,True,Mel Gray,9,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-09-01,False,,2025-09-01 04:19:00,False,,10,True,False,No prestart recorded.
+NCH 56,2025-09-01,True,Lyle Cottenden,2025-09-01 05:20:00,True,lyle Cottendne,2,False,True,Rostered 'lyle Cottendne' but prestart by 'Lyle Cottenden'.
+NCH 58,2025-09-01,False,,2025-09-01 14:52:00,False,,3,True,False,No prestart recorded.
+NCH 64,2025-09-01,False,,2025-09-01 01:25:00,True,mACKA,11,True,False,No prestart recorded.
+NCH 65,2025-09-01,True,Lucas Sheen,2025-09-01 08:30:00,True,Luke sheen,8,False,True,Rostered 'Luke sheen' but prestart by 'Lucas Sheen'.
+NCH 66,2025-09-01,False,,2025-09-01 04:47:00,True,Frosty,3,True,False,No prestart recorded.
+NCH 69,2025-09-01,False,,2025-09-01 00:14:00,True,Ross Sutton,11,True,False,No prestart recorded.
+NCH 71,2025-09-01,False,,2025-09-01 09:22:00,False,,10,True,False,No prestart recorded.
+NCH 28,2025-09-02,True,Sean Cridland,2025-09-02 04:41:00,False,,11,False,False,
+NCH 31,2025-09-02,False,,2025-09-02 07:06:00,False,,11,True,False,No prestart recorded.
+NCH 35,2025-09-02,False,,2025-09-02 14:32:00,False,,6,True,False,No prestart recorded.
+NCH 36,2025-09-02,True,Jamie Parkinson,2025-09-02 06:36:00,True,JamieParkisn,16,False,True,Rostered 'JamieParkisn' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-09-02,True,Douglas Cane,2025-09-02 05:22:00,True,Douglas Cane,8,False,False,
+NCH 38,2025-09-02,True,Aiden Amur,2025-09-02 06:47:00,True,Aiden Amur,8,False,False,
+NCH 39,2025-09-02,True,Philip Dolan,2025-09-02 04:09:00,True,pHIL dOLAN,16,False,True,Rostered 'pHIL dOLAN' but prestart by 'Philip Dolan'.
+NCH 40,2025-09-02,True,Tutavake Thompson,2025-09-02 06:01:00,False,,9,False,False,
+NCH 41,2025-09-02,True,Frank Roberts,2025-09-02 04:28:00,True,Frank Roberts,13,False,False,
+NCH 42,2025-09-02,False,,2025-09-02 05:32:00,True,Troy Fox,7,True,False,No prestart recorded.
+NCH 43,2025-09-02,True,Stephen Begg,2025-09-02 09:00:00,True,Beggsy,10,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 44,2025-09-02,False,,2025-09-02 07:07:00,False,,8,True,False,No prestart recorded.
+NCH 46,2025-09-02,False,,2025-09-02 09:09:00,False,,10,True,False,No prestart recorded.
+NCH 52,2025-09-02,False,,2025-09-02 04:25:00,False,,6,True,False,No prestart recorded.
+NCH 53,2025-09-02,True,Peter Moss,2025-09-02 06:27:00,False,,2,False,False,
+NCH 54,2025-09-02,False,,2025-09-02 06:52:00,True,Mel Gray,5,True,False,No prestart recorded.
+NCH 55,2025-09-02,False,,2025-09-02 04:25:00,False,,12,True,False,No prestart recorded.
+NCH 56,2025-09-02,True,Lyle Cottenden,2025-09-02 05:24:00,False,,9,False,False,
+NCH 58,2025-09-02,False,,2025-09-02 06:40:00,True,Daniel Darwell,4,True,False,No prestart recorded.
+NCH 64,2025-09-02,False,,2025-09-02 05:18:00,True,Mackenzie,16,True,False,No prestart recorded.
+NCH 65,2025-09-02,True,Lucas Sheen,2025-09-02 05:27:00,True,Luke sheen,8,False,True,Rostered 'Luke sheen' but prestart by 'Lucas Sheen'.
+NCH 66,2025-09-02,True,William Frost,2025-09-02 05:58:00,False,,13,False,False,
+NCH 67,2025-09-02,True,Christopher Hinman,2025-09-02 04:46:00,True,Chris HInman,4,False,True,Rostered 'Chris HInman' but prestart by 'Christopher Hinman'.
+NCH 69,2025-09-02,True,Ross Sutton,2025-09-02 02:09:00,False,,7,False,False,
+NCH 70,2025-09-02,False,,2025-09-02 05:15:00,False,,16,True,False,No prestart recorded.
+NCH 71,2025-09-02,False,,2025-09-02 07:03:00,False,,8,True,False,No prestart recorded.
+NCH 28,2025-09-03,True,Sean Cridland,2025-09-03 04:56:00,False,,12,False,False,
+NCH 31,2025-09-03,False,,2025-09-03 06:58:00,False,,7,True,False,No prestart recorded.
+NCH 35,2025-09-03,True,Keith Byerley,2025-09-03 05:39:00,True,Keith Byerley,8,False,False,
+NCH 36,2025-09-03,True,Jamie Parkinson,2025-09-03 06:54:00,True,JamieParkisn,10,False,True,Rostered 'JamieParkisn' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-09-03,False,,2025-09-03 05:13:00,True,Douglas Cane,10,True,False,No prestart recorded.
+NCH 38,2025-09-03,True,Aiden Amur,2025-09-03 06:34:00,False,,13,False,False,
+NCH 39,2025-09-03,True,Philip Dolan,2025-09-03 05:43:00,True,pHIL dOLAN,5,False,True,Rostered 'pHIL dOLAN' but prestart by 'Philip Dolan'.
+NCH 40,2025-09-03,False,,2025-09-03 05:20:00,False,,5,True,False,No prestart recorded.
+NCH 41,2025-09-03,True,Frank Roberts,2025-09-03 06:06:00,True,Frank Roberts,8,False,False,
+NCH 42,2025-09-03,True,Robert Cook,2025-09-03 06:15:00,True,Troy Fox,6,False,True,Rostered 'Troy Fox' but prestart by 'Robert Cook'.
+NCH 43,2025-09-03,True,Stephen Begg,2025-09-03 16:19:00,True,Beggsy,5,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 44,2025-09-03,False,,2025-09-03 07:18:00,False,,8,True,False,No prestart recorded.
+NCH 46,2025-09-03,False,,2025-09-03 06:14:00,False,,5,True,False,No prestart recorded.
+NCH 52,2025-09-03,False,,2025-09-03 04:29:00,False,,7,True,False,No prestart recorded.
+NCH 53,2025-09-03,False,,2025-09-03 07:47:00,False,,2,True,False,No prestart recorded.
+NCH 54,2025-09-03,True,Melville Gray,2025-09-03 06:54:00,True,Mel Gray,11,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-09-03,False,,2025-09-03 04:18:00,False,,18,True,False,No prestart recorded.
+NCH 56,2025-09-03,True,Lyle Cottenden,2025-09-03 05:50:00,False,,4,False,False,
+NCH 58,2025-09-03,True,Daniel Darwell,2025-09-03 05:33:00,True,Daniel Darwell,11,False,False,
+NCH 64,2025-09-03,False,,2025-09-03 04:31:00,True,Mackenzie,22,True,False,No prestart recorded.
+NCH 65,2025-09-03,False,,2025-09-03 05:21:00,True,Luke sheen,4,True,False,No prestart recorded.
+NCH 66,2025-09-03,False,,2025-09-03 05:23:00,False,,17,True,False,No prestart recorded.
+NCH 67,2025-09-03,True,Samuel Eden,2025-09-03 06:06:00,True,sAMUEL EDEN,5,False,False,
+NCH 69,2025-09-03,False,,2025-09-03 02:58:00,False,,7,True,False,No prestart recorded.
+NCH 70,2025-09-03,False,,2025-09-03 05:21:00,False,,23,True,False,No prestart recorded.
+NCH 71,2025-09-03,False,,2025-09-03 05:47:00,False,,8,True,False,No prestart recorded.
+NCH 28,2025-09-04,True,Sean Cridland,2025-09-04 04:47:00,True,Sean Cridland,9,False,False,
+NCH 31,2025-09-04,False,,2025-09-04 07:14:00,False,,12,True,False,No prestart recorded.
+NCH 35,2025-09-04,False,,2025-09-04 14:15:00,True,Keith Byerley,2,True,False,No prestart recorded.
+NCH 36,2025-09-04,True,Jamie Parkinson,2025-09-04 06:57:00,True,JamieParkisn,10,False,True,Rostered 'JamieParkisn' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-09-04,True,Douglas Cane,2025-09-04 05:13:00,True,Douglas Cane,15,False,False,
+NCH 38,2025-09-04,True,Wayne Daniels,2025-09-04 06:25:00,False,,14,False,False,
+NCH 39,2025-09-04,True,Philip Dolan,2025-09-04 06:34:00,True,Phil Dolan,8,False,True,Rostered 'Phil Dolan' but prestart by 'Philip Dolan'.
+NCH 40,2025-09-04,True,Frank Roberts,2025-09-04 06:05:00,False,,8,False,False,
+NCH 41,2025-09-04,True,Robert Cook,2025-09-04 15:49:00,False,,4,False,False,
+NCH 42,2025-09-04,False,,2025-09-04 12:43:00,True,Troy Fox,4,True,False,No prestart recorded.
+NCH 43,2025-09-04,False,,2025-09-04 02:25:00,True,Beggsy,4,True,False,No prestart recorded.
+NCH 44,2025-09-04,False,,2025-09-04 07:25:00,False,,12,True,False,No prestart recorded.
+NCH 46,2025-09-04,False,,2025-09-04 06:22:00,False,,9,True,False,No prestart recorded.
+NCH 52,2025-09-04,False,,2025-09-04 04:18:00,True,Jason Craig,14,True,False,No prestart recorded.
+NCH 53,2025-09-04,True,Peter Moss,2025-09-04 06:37:00,True,Daniel Kermode,6,False,True,Rostered 'Daniel Kermode' but prestart by 'Peter Moss'.
+NCH 54,2025-09-04,True,Melville Gray,2025-09-04 06:43:00,True,Mel Gray,9,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-09-04,True,Travis Lee-Gowland,2025-09-04 05:25:00,True,Trav,8,False,True,Rostered 'Trav' but prestart by 'Travis Lee-Gowland'.
+NCH 56,2025-09-04,True,Lyle Cottenden,2025-09-04 05:20:00,True,lyle Cottendne,7,False,True,Rostered 'lyle Cottendne' but prestart by 'Lyle Cottenden'.
+NCH 58,2025-09-04,True,Daniel Darwell,2025-09-04 05:24:00,True,Daniel Darwell,13,False,False,
+NCH 61,2025-09-04,False,,2025-09-04 08:33:00,False,,23,True,False,No prestart recorded.
+NCH 64,2025-09-04,True,Peter Moss,2025-09-04 05:46:00,True,Mackenzie,3,False,True,Rostered 'Mackenzie' but prestart by 'Peter Moss'.
+NCH 65,2025-09-04,False,,2025-09-04 05:06:00,True,Luke Sheen,2,True,False,No prestart recorded.
+NCH 66,2025-09-04,True,Daniel Kitchen,2025-09-04 07:07:00,True,Daniel Kithcen,5,False,True,Rostered 'Daniel Kithcen' but prestart by 'Daniel Kitchen'.
+NCH 67,2025-09-04,False,,2025-09-04 06:32:00,False,,8,True,False,No prestart recorded.
+NCH 69,2025-09-04,False,,2025-09-04 00:26:00,True,Tramaine,9,True,False,No prestart recorded.
+NCH 70,2025-09-04,False,,2025-09-04 05:25:00,False,,10,True,False,No prestart recorded.
+NCH 28,2025-09-05,True,Sean Cridland,2025-09-05 04:34:00,True,Sean Cridland,8,False,False,
+NCH 31,2025-09-05,False,,2025-09-05 07:02:00,False,,7,True,False,No prestart recorded.
+NCH 35,2025-09-05,False,,2025-09-05 05:37:00,True,Keith Byerley,8,True,False,No prestart recorded.
+NCH 36,2025-09-05,True,Jamie Parkinson,2025-09-05 06:49:00,True,JamieParkisn,6,False,True,Rostered 'JamieParkisn' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-09-05,True,Douglas Cane,2025-09-05 05:15:00,True,Douglas Cane,10,False,False,
+NCH 38,2025-09-05,True,Wayne Daniels,2025-09-05 06:05:00,False,,4,False,False,
+NCH 39,2025-09-05,False,,2025-09-05 07:47:00,False,,2,True,False,No prestart recorded.
+NCH 40,2025-09-05,True,Shane Good,2025-09-05 05:48:00,False,,9,False,False,
+NCH 41,2025-09-05,False,,2025-09-05 00:34:00,False,,12,True,False,No prestart recorded.
+NCH 42,2025-09-05,False,,2025-09-05 05:56:00,True,Troy Fox,12,True,False,No prestart recorded.
+NCH 43,2025-09-05,False,,2025-09-05 05:04:00,True,Beggsy,6,True,False,No prestart recorded.
+NCH 44,2025-09-05,False,,2025-09-05 07:17:00,False,,11,True,False,No prestart recorded.
+NCH 46,2025-09-05,False,,2025-09-05 06:20:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-09-05,False,,2025-09-05 04:28:00,True,Jason Craig,14,True,False,No prestart recorded.
+NCH 53,2025-09-05,False,,2025-09-05 06:16:00,True,Daniel Kermode,4,True,False,No prestart recorded.
+NCH 54,2025-09-05,True,Melville Gray,2025-09-05 05:50:00,True,Mel Gray,8,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-09-05,True,Travis Lee-Gowland,2025-09-05 05:27:00,True,Trav,7,False,True,Rostered 'Trav' but prestart by 'Travis Lee-Gowland'.
+NCH 56,2025-09-05,True,Lyle Cottenden,2025-09-05 05:24:00,False,,1,False,False,
+NCH 58,2025-09-05,True,Daniel Darwell,2025-09-05 05:29:00,True,Daniel Darwell,16,False,False,
+NCH 61,2025-09-05,False,,2025-09-05 06:07:00,False,,9,True,False,No prestart recorded.
+NCH 64,2025-09-05,True,Peter Moss,2025-09-05 10:40:00,False,,4,False,False,
+NCH 65,2025-09-05,False,,2025-09-05 05:06:00,True,Luke Sheen,2,True,False,No prestart recorded.
+NCH 66,2025-09-05,True,Daniel Kitchen,2025-09-05 16:58:00,True,Daniel Kitchen,6,False,False,
+NCH 67,2025-09-05,False,,2025-09-05 05:56:00,False,,9,True,False,No prestart recorded.
+NCH 69,2025-09-05,True,Christopher Tipene,2025-09-05 04:10:00,False,,15,False,False,
+NCH 70,2025-09-05,False,,2025-09-05 05:31:00,False,,7,True,False,No prestart recorded.
+NCH 71,2025-09-05,False,,2025-09-05 05:24:00,False,,7,True,False,No prestart recorded.
+NCH 28,2025-09-06,True,Sean Cridland,2025-09-06 04:50:00,True,Sean Cridland,25,False,False,
+NCH 31,2025-09-06,False,,2025-09-06 05:32:00,False,,2,True,False,No prestart recorded.
+NCH 35,2025-09-06,False,,2025-09-06 04:34:00,True,Keith Byerley,12,True,False,No prestart recorded.
+NCH 36,2025-09-06,True,Jamie Parkinson,2025-09-06 07:01:00,True,JamieParkisn,7,False,True,Rostered 'JamieParkisn' but prestart by 'Jamie Parkinson'.
+NCH 37,2025-09-06,True,Douglas Cane,2025-09-06 05:12:00,True,Douglas Cane,9,False,False,
+NCH 38,2025-09-06,True,Jerzy (George) Szulgowski,2025-09-06 04:25:00,False,,11,False,False,
+NCH 40,2025-09-06,False,,2025-09-06 00:56:00,False,,7,True,False,No prestart recorded.
+NCH 41,2025-09-06,True,Shane Good,2025-09-06 05:03:00,False,,14,False,False,
+NCH 42,2025-09-06,False,,2025-09-06 06:37:00,False,,2,True,False,No prestart recorded.
+NCH 43,2025-09-06,False,,2025-09-06 05:11:00,True,Beggsy,4,True,False,No prestart recorded.
+NCH 46,2025-09-06,True,Gary Leck,2025-09-06 06:24:00,False,,6,False,False,
+NCH 52,2025-09-06,False,,2025-09-06 16:10:00,True,Jason Craig,7,True,False,No prestart recorded.
+NCH 53,2025-09-06,False,,2025-09-06 03:40:00,True,Daniel Kermode,7,True,False,No prestart recorded.
+NCH 54,2025-09-06,False,,2025-09-06 06:50:00,True,Mel Gray,6,True,False,No prestart recorded.
+NCH 55,2025-09-06,True,Tramaine Rangi,2025-09-06 04:43:00,True,Trav,4,False,True,Rostered 'Trav' but prestart by 'Tramaine Rangi'.
+NCH 56,2025-09-06,True,Dean Peucker,2025-09-06 05:30:00,False,,10,False,False,
+NCH 58,2025-09-06,True,Daniel Darwell,2025-09-06 05:29:00,True,Daniel Darwell,13,False,False,
+NCH 61,2025-09-06,False,,2025-09-06 12:06:00,False,,2,True,False,No prestart recorded.
+NCH 64,2025-09-06,True,Wayne Daniels,2025-09-06 06:08:00,False,,3,False,False,
+NCH 65,2025-09-06,False,,2025-09-06 05:07:00,True,Luke Sheen,2,True,False,No prestart recorded.
+NCH 66,2025-09-06,True,Daniel Kitchen,2025-09-06 05:01:00,True,Daniel Kitchen,8,False,False,
+NCH 67,2025-09-06,True,Samuel Eden,2025-09-06 07:18:00,False,,11,False,False,
+NCH 69,2025-09-06,True,Christopher Tipene,2025-09-06 04:07:00,False,,16,False,False,
+NCH 70,2025-09-06,False,,2025-09-06 05:30:00,False,,10,True,False,No prestart recorded.
+NCH 71,2025-09-06,False,,2025-09-06 12:42:00,False,,1,True,False,No prestart recorded.
+NCH 28,2025-09-07,True,Sean Cridland,2025-09-07 04:48:00,True,Sean Cridland,9,False,False,
+NCH 35,2025-09-07,False,,2025-09-07 04:16:00,True,Keith Byerley,11,True,False,No prestart recorded.
+NCH 36,2025-09-07,True,Jamie Parkinson,2025-09-07 06:02:00,True,Jamie Parkinson,7,False,False,
+NCH 37,2025-09-07,True,Douglas Cane,2025-09-07 05:10:00,True,Douglas Cane,11,False,False,
+NCH 38,2025-09-07,True,Jerzy (George) Szulgowski,2025-09-07 04:56:00,False,,7,False,False,
+NCH 40,2025-09-07,False,,2025-09-07 09:30:00,False,,6,True,False,No prestart recorded.
+NCH 41,2025-09-07,True,Shane Good,2025-09-07 04:53:00,True,Shane Good,15,False,False,
+NCH 42,2025-09-07,False,,2025-09-07 14:31:00,False,,2,True,False,No prestart recorded.
+NCH 43,2025-09-07,True,Stephen Begg,2025-09-07 05:15:00,True,Beggsy,9,False,True,Rostered 'Beggsy' but prestart by 'Stephen Begg'.
+NCH 46,2025-09-07,False,,2025-09-07 06:29:00,False,,6,True,False,No prestart recorded.
+NCH 52,2025-09-07,False,,2025-09-07 15:51:00,True,Jason Craig,5,True,False,No prestart recorded.
+NCH 53,2025-09-07,False,,2025-09-07 05:54:00,True,Daniel Kermode,11,True,False,No prestart recorded.
+NCH 54,2025-09-07,True,Melville Gray,2025-09-07 05:51:00,True,Mel Gray,12,False,True,Rostered 'Mel Gray' but prestart by 'Melville Gray'.
+NCH 55,2025-09-07,False,,2025-09-07 05:08:00,False,,4,True,False,No prestart recorded.
+NCH 56,2025-09-07,True,Lyle Cottenden,2025-09-07 06:26:00,False,,12,False,False,
+NCH 58,2025-09-07,True,Daniel Darwell,2025-09-07 05:32:00,True,Daniel Darwell,12,False,False,
+NCH 61,2025-09-07,False,,2025-09-07 11:43:00,False,,6,True,False,No prestart recorded.
+NCH 64,2025-09-07,False,,2025-09-07 06:34:00,False,,11,True,False,No prestart recorded.
+NCH 65,2025-09-07,False,,2025-09-07 05:06:00,True,Luke Sheen,2,True,False,No prestart recorded.
+NCH 66,2025-09-07,True,Daniel Kitchen,2025-09-07 01:44:00,True,Daniel Kitchen,8,False,False,
+NCH 67,2025-09-07,False,,2025-09-07 17:24:00,True,Mark Dawson,1,True,False,No prestart recorded.
+NCH 69,2025-09-07,True,Christopher Tipene,2025-09-07 04:07:00,True,Christopher Tipene,15,False,False,
+NCH 70,2025-09-07,False,,2025-09-07 05:36:00,False,,19,True,False,No prestart recorded.
+NCH 71,2025-09-07,False,,2025-09-07 12:37:00,False,,1,True,False,No prestart recorded.
+NCH 28,2025-09-08,True,Sean Cridland,2025-09-08 04:50:00,True,Sean Cridland,16,False,False,
+NCH 31,2025-09-08,False,,2025-09-08 16:25:00,True,??,2,True,False,No prestart recorded.
+NCH 35,2025-09-08,False,,2025-09-08 04:11:00,True,Keith Byerley,6,True,False,No prestart recorded.
+NCH 36,2025-09-08,False,,2025-09-08 10:43:00,True,Jamie Parkinson,3,True,False,No prestart recorded.
+NCH 37,2025-09-08,True,Douglas Cane,2025-09-08 05:35:00,True,Douglas Cane,13,False,False,
+NCH 38,2025-09-08,False,,2025-09-08 05:22:00,True,Royzzie,18,True,False,No prestart recorded.
+NCH 39,2025-09-08,False,,2025-09-08 09:18:00,True,Jerzy,8,True,False,No prestart recorded.
+NCH 40,2025-09-08,False,,2025-09-08 06:35:00,False,,20,True,False,No prestart recorded.
+NCH 41,2025-09-08,True,Shane Good,2025-09-08 04:53:00,True,Shane Good,14,False,False,
+NCH 42,2025-09-08,False,,2025-09-08 06:21:00,False,,4,True,False,No prestart recorded.
+NCH 43,2025-09-08,True,Alan Tajic,2025-09-08 05:21:00,True,Alan TAjic,10,False,False,
+NCH 44,2025-09-08,False,,2025-09-08 06:19:00,False,,6,True,False,No prestart recorded.
+NCH 46,2025-09-08,False,,2025-09-08 06:10:00,False,,12,True,False,No prestart recorded.
+NCH 52,2025-09-08,False,,2025-09-08 07:16:00,True,Jason Craig,8,True,False,No prestart recorded.
+NCH 53,2025-09-08,False,,2025-09-08 08:54:00,True,Daniel Kermode,8,True,False,No prestart recorded.
+NCH 54,2025-09-08,False,,2025-09-08 06:41:00,True,Mel Gray,16,True,False,No prestart recorded.
+NCH 55,2025-09-08,False,,2025-09-08 03:40:00,False,,14,True,False,No prestart recorded.
+NCH 56,2025-09-08,True,Peter Moss,2025-09-08 06:27:00,True,Peter Moss,2,False,False,
+NCH 58,2025-09-08,True,Daniel Darwell,2025-09-08 05:33:00,True,Daniel Darwell,12,False,False,
+NCH 61,2025-09-08,False,,2025-09-08 06:47:00,False,,10,True,False,No prestart recorded.
+NCH 64,2025-09-08,False,,2025-09-08 04:40:00,False,,12,True,False,No prestart recorded.
+NCH 65,2025-09-08,False,,2025-09-08 05:04:00,True,Luke Sheen,2,True,False,No prestart recorded.
+NCH 66,2025-09-08,True,Daniel Kitchen,2025-09-08 04:09:00,True,Daniel Kitchen,9,False,False,
+NCH 67,2025-09-08,True,Mark Dawson,2025-09-08 06:20:00,True,Mark Dawson,10,False,False,
+NCH 69,2025-09-08,True,Christopher Tipene,2025-09-08 04:10:00,True,Christopher Tipene,15,False,False,
+NCH 70,2025-09-08,False,,2025-09-08 05:32:00,False,,11,True,False,No prestart recorded.
+NCH 71,2025-09-08,False,,2025-09-08 11:12:00,False,,4,True,False,No prestart recorded.
+NCH 28,2025-09-09,True,Sean Cridland,2025-09-09 05:15:00,True,Sean Cridland,9,False,False,
+NCH 31,2025-09-09,False,,2025-09-09 09:34:00,True,unallocated Hedland,7,True,False,No prestart recorded.
+NCH 35,2025-09-09,False,,2025-09-09 09:24:00,True,Allocated to RHM,11,True,False,No prestart recorded.
+NCH 36,2025-09-09,True,Jamie Parkinson,2025-09-09 10:57:00,False,,14,False,False,
+NCH 37,2025-09-09,True,Douglas Cane,2025-09-09 05:42:00,False,,12,False,False,
+NCH 38,2025-09-09,False,,2025-09-09 04:37:00,True,Allocated to Yandi,16,True,False,No prestart recorded.
+NCH 39,2025-09-09,False,,2025-09-09 04:53:00,True,Allocated to Yandi,6,True,False,No prestart recorded.
+NCH 40,2025-09-09,True,Brendan Langford,2025-09-09 05:38:00,False,,12,False,False,
+NCH 41,2025-09-09,True,Shane Good,2025-09-09 06:14:00,False,,12,False,False,
+NCH 42,2025-09-09,False,,2025-09-09 05:57:00,True,unallocated,4,True,False,No prestart recorded.
+NCH 43,2025-09-09,True,Eric Craft,2025-09-09 03:19:00,False,,7,False,False,
+NCH 46,2025-09-09,False,,2025-09-09 06:14:00,False,,6,True,False,No prestart recorded.
+NCH 52,2025-09-09,True,Jason Craig,2025-09-09 07:59:00,False,,4,False,False,
+NCH 53,2025-09-09,True,Jaymi-Lee Ryder,2025-09-09 06:50:00,False,,8,False,False,
+NCH 54,2025-09-09,True,Melville Gray,2025-09-09 07:04:00,False,,9,False,False,
+NCH 55,2025-09-09,False,,2025-09-09 04:11:00,True,Brent Mason,13,True,False,No prestart recorded.
+NCH 56,2025-09-09,True,Peter Moss,2025-09-09 06:37:00,False,,9,False,False,
+NCH 58,2025-09-09,True,Daniel Darwell,2025-09-09 05:32:00,False,,11,False,False,
+NCH 61,2025-09-09,False,,2025-09-09 05:34:00,True,Craig Ashford,16,True,False,No prestart recorded.
+NCH 64,2025-09-09,True,Christopher Evans,2025-09-09 05:08:00,False,,7,False,False,
+NCH 65,2025-09-09,False,,2025-09-09 17:00:00,True,Luke Sheen,8,True,False,No prestart recorded.
+NCH 66,2025-09-09,True,Daniel Kitchen,2025-09-09 00:22:00,False,,9,False,False,
+NCH 67,2025-09-09,True,Mark Dawson,2025-09-09 06:12:00,False,,5,False,False,
+NCH 69,2025-09-09,True,John Elliott,2025-09-09 06:05:00,False,,6,False,False,
+NCH 70,2025-09-09,False,,2025-09-09 05:34:00,True,Allocated to RHP,9,True,False,No prestart recorded.
+NCH 71,2025-09-09,True,Paul Smeaton,2025-09-09 14:37:00,False,,5,False,False,
+NCH 28,2025-09-10,True,Sean Cridland,2025-09-10 17:03:00,True,Sean Cridland,5,False,False,
+NCH 31,2025-09-10,True,Ross Sutton,2025-09-10 16:40:00,True,Ross Sutton,12,False,False,
+NCH 35,2025-09-10,False,,2025-09-10 04:26:00,True,Jason Craig,17,True,False,No prestart recorded.
+NCH 36,2025-09-10,True,Jamie Parkinson,2025-09-10 07:42:00,False,,7,False,False,
+NCH 37,2025-09-10,True,Vincent Callegari,2025-09-10 07:48:00,True,Vincent Callagari,7,False,True,Rostered 'Vincent Callagari' but prestart by 'Vincent Callegari'.
+NCH 38,2025-09-10,True,Keith Byerley,2025-09-10 05:21:00,True,Keith Byerley,9,False,False,
+NCH 39,2025-09-10,False,,2025-09-10 04:58:00,True,Royzie,6,True,False,No prestart recorded.
+NCH 40,2025-09-10,True,Curtis Weeks,2025-09-10 16:04:00,True,Curtis Weeks,9,False,False,
+NCH 41,2025-09-10,True,Shane Good,2025-09-10 03:59:00,True,Shane Good,7,False,False,
+NCH 42,2025-09-10,True,Clint Ford,2025-09-10 07:59:00,True,Clint Ford,7,False,False,
+NCH 43,2025-09-10,False,,2025-09-10 05:47:00,True,Eric Craf,13,True,False,No prestart recorded.
+NCH 44,2025-09-10,False,,2025-09-10 07:51:00,True,Maintenance,3,True,False,No prestart recorded.
+NCH 46,2025-09-10,False,,2025-09-10 06:18:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-09-10,False,,2025-09-10 04:21:00,True,Jason Craig,10,True,False,No prestart recorded.
+NCH 53,2025-09-10,False,,2025-09-10 06:49:00,False,,9,True,False,No prestart recorded.
+NCH 54,2025-09-10,True,Melville Gray,2025-09-10 07:10:00,True,Melville Gray,8,False,False,
+NCH 55,2025-09-10,False,,2025-09-10 04:10:00,False,,13,True,False,No prestart recorded.
+NCH 56,2025-09-10,False,,2025-09-10 06:38:00,False,,14,True,False,No prestart recorded.
+NCH 58,2025-09-10,False,,2025-09-10 06:27:00,True,Unallocated ZNE,7,True,False,No prestart recorded.
+NCH 61,2025-09-10,True,Craig Ashford,2025-09-10 05:28:00,True,Craig Ashford,20,False,False,
+NCH 64,2025-09-10,True,Christopher Evans,2025-09-10 05:33:00,True,Chris Evans,10,False,True,Rostered 'Chris Evans' but prestart by 'Christopher Evans'.
+NCH 65,2025-09-10,False,,2025-09-10 05:01:00,True,Luke Sheen,5,True,False,No prestart recorded.
+NCH 66,2025-09-10,True,Daniel Kitchen,2025-09-10 02:20:00,False,,9,False,False,
+NCH 67,2025-09-10,False,,2025-09-10 19:50:00,True,Ben Rackich & Beggsy,1,True,False,No prestart recorded.
+NCH 69,2025-09-10,True,Mark Dawson,2025-09-10 06:32:00,True,Thomas shIP,3,False,True,Rostered 'Thomas shIP' but prestart by 'Mark Dawson'.
+NCH 70,2025-09-10,False,,2025-09-10 05:33:00,True,Allocated to RHP,14,True,False,No prestart recorded.
+NCH 71,2025-09-10,True,Paul Smeaton,2025-09-10 00:14:00,False,,11,False,False,
+NCH 28,2025-09-11,True,Antonio Coelho,2025-09-11 02:10:00,False,,10,False,False,
+NCH 31,2025-09-11,True,Ross Sutton,2025-09-11 00:07:00,False,,23,False,False,
+NCH 35,2025-09-11,False,,2025-09-11 04:02:00,False,,15,True,False,No prestart recorded.
+NCH 36,2025-09-11,True,Jamie Parkinson,2025-09-11 08:34:00,False,,15,False,False,
+NCH 37,2025-09-11,True,Vincent Callegari,2025-09-11 05:07:00,True,Vincent Callagari,3,False,True,Rostered 'Vincent Callagari' but prestart by 'Vincent Callegari'.
+NCH 38,2025-09-11,True,Keith Byerley,2025-09-11 05:16:00,False,,12,False,False,
+NCH 39,2025-09-11,False,,2025-09-11 05:00:00,False,,9,True,False,No prestart recorded.
+NCH 40,2025-09-11,True,Curtis Weeks,2025-09-11 00:03:00,False,,24,False,False,
+NCH 41,2025-09-11,True,Shane Good,2025-09-11 00:13:00,False,,5,False,False,
+NCH 42,2025-09-11,True,Clint Ford,2025-09-11 16:59:00,False,,7,False,False,
+NCH 43,2025-09-11,True,Eric Craft,2025-09-11 05:34:00,False,,14,False,False,
+NCH 46,2025-09-11,False,,2025-09-11 06:20:00,False,,8,True,False,No prestart recorded.
+NCH 52,2025-09-11,False,,2025-09-11 05:11:00,False,,5,True,False,No prestart recorded.
+NCH 53,2025-09-11,True,Benjamin Rickard,2025-09-11 06:41:00,False,,7,False,False,
+NCH 54,2025-09-11,True,Melville Gray,2025-09-11 05:20:00,False,,10,False,False,
+NCH 55,2025-09-11,False,,2025-09-11 04:38:00,False,,7,True,False,No prestart recorded.
+NCH 56,2025-09-11,True,Peter Moss,2025-09-11 04:57:00,False,,8,False,False,
+NCH 58,2025-09-11,True,Douglas Cane,2025-09-11 05:14:00,False,,14,False,False,
+NCH 61,2025-09-11,True,Craig Ashford,2025-09-11 05:31:00,False,,26,False,False,
+NCH 64,2025-09-11,True,Christopher Evans,2025-09-11 05:31:00,False,,11,False,False,
+NCH 65,2025-09-11,False,,2025-09-11 05:31:00,False,,4,True,False,No prestart recorded.
+NCH 66,2025-09-11,True,Daniel Kitchen,2025-09-11 02:39:00,False,,6,False,False,
+NCH 67,2025-09-11,True,Stephen Begg,2025-09-11 05:46:00,False,,12,False,False,
+NCH 69,2025-09-11,True,Wayne Daniels,2025-09-11 04:57:00,False,,1,False,False,
+NCH 70,2025-09-11,False,,2025-09-11 05:35:00,False,,17,True,False,No prestart recorded.
+NCH 71,2025-09-11,True,Paul Smeaton,2025-09-11 01:45:00,False,,11,False,False,
+NCH 28,2025-09-12,True,Douglas Cane,2025-09-12 04:49:00,False,,8,False,False,
+NCH 31,2025-09-12,True,Ross Sutton,2025-09-12 02:38:00,False,,30,False,False,
+NCH 35,2025-09-12,False,,2025-09-12 04:24:00,False,,5,True,False,No prestart recorded.
+NCH 36,2025-09-12,False,,2025-09-12 10:09:00,False,,4,True,False,No prestart recorded.
+NCH 37,2025-09-12,True,Vincent Callegari,2025-09-12 07:00:00,True,Vincent Callagari,17,False,True,Rostered 'Vincent Callagari' but prestart by 'Vincent Callegari'.
+NCH 38,2025-09-12,True,Keith Byerley,2025-09-12 05:23:00,False,,14,False,False,
+NCH 39,2025-09-12,False,,2025-09-12 05:07:00,False,,9,True,False,No prestart recorded.
+NCH 40,2025-09-12,True,Curtis Weeks,2025-09-12 00:16:00,False,,11,False,False,
+NCH 41,2025-09-12,True,Shane Good,2025-09-12 03:39:00,False,,9,False,False,
+NCH 42,2025-09-12,True,Lewis Patrick,2025-09-12 01:55:00,False,,11,False,False,
+NCH 43,2025-09-12,False,,2025-09-12 03:12:00,False,,11,True,False,No prestart recorded.
+NCH 44,2025-09-12,False,,2025-09-12 08:30:00,False,,4,True,False,No prestart recorded.
+NCH 46,2025-09-12,False,,2025-09-12 06:19:00,False,,9,True,False,No prestart recorded.
+NCH 52,2025-09-12,True,Brent Mason,2025-09-12 05:54:00,False,,9,False,False,
+NCH 53,2025-09-12,True,Benjamin Rickard,2025-09-12 06:45:00,False,,3,False,False,
+NCH 54,2025-09-12,True,Melville Gray,2025-09-12 05:19:00,False,,16,False,False,
+NCH 55,2025-09-12,True,Mark Robson,2025-09-12 04:07:00,False,,8,False,False,
+NCH 56,2025-09-12,True,Peter Moss,2025-09-12 04:55:00,False,,9,False,False,
+NCH 58,2025-09-12,True,Jordan Lowe,2025-09-12 05:18:00,False,,15,False,False,
+NCH 61,2025-09-12,False,,2025-09-12 05:09:00,False,,10,True,False,No prestart recorded.
+NCH 64,2025-09-12,False,,2025-09-12 08:04:00,False,,7,True,False,No prestart recorded.
+NCH 65,2025-09-12,False,,2025-09-12 05:19:00,False,,10,True,False,No prestart recorded.
+NCH 66,2025-09-12,True,Daniel Kitchen,2025-09-12 00:27:00,False,,7,False,False,
+NCH 67,2025-09-12,True,Christopher Evans,2025-09-12 05:29:00,False,,13,False,False,
+NCH 70,2025-09-12,False,,2025-09-12 05:22:00,False,,8,True,False,No prestart recorded.
+NCH 71,2025-09-12,True,Paul Smeaton,2025-09-12 00:05:00,False,,10,False,False,
+NCH 28,2025-09-13,True,Jay Carter,2025-09-13 05:00:00,False,,13,False,False,
+NCH 31,2025-09-13,False,,2025-09-13 00:30:00,False,,22,True,False,No prestart recorded.
+NCH 35,2025-09-13,False,,2025-09-13 06:06:00,False,,7,True,False,No prestart recorded.
+NCH 37,2025-09-13,False,,2025-09-13 00:18:00,False,,5,True,False,No prestart recorded.
+NCH 38,2025-09-13,True,Keith Byerley,2025-09-13 05:25:00,False,,11,False,False,
+NCH 39,2025-09-13,False,,2025-09-13 06:44:00,False,,9,True,False,No prestart recorded.
+NCH 40,2025-09-13,True,Curtis Weeks,2025-09-13 00:09:00,False,,14,False,False,
+NCH 41,2025-09-13,True,Douglas Cane,2025-09-13 01:56:00,False,,26,False,False,
+NCH 42,2025-09-13,True,Lewis Patrick,2025-09-13 01:51:00,False,,13,False,False,
+NCH 43,2025-09-13,False,,2025-09-13 02:09:00,False,,11,True,False,No prestart recorded.
+NCH 46,2025-09-13,True,Gary Leck,2025-09-13 06:25:00,False,,8,False,False,
+NCH 52,2025-09-13,True,Usama Riaz,2025-09-13 06:32:00,False,,6,False,False,
+NCH 53,2025-09-13,True,Benjamin Rickard,2025-09-13 06:50:00,False,,4,False,False,
+NCH 54,2025-09-13,True,Christopher Tipene,2025-09-13 04:47:00,False,,4,False,False,
+NCH 55,2025-09-13,True,Mark Robson,2025-09-13 04:12:00,False,,9,False,False,
+NCH 56,2025-09-13,True,Peter Moss,2025-09-13 05:06:00,False,,8,False,False,
+NCH 58,2025-09-13,True,Jordan Lowe,2025-09-13 05:09:00,False,,14,False,False,
+NCH 61,2025-09-13,True,Craig Ashford,2025-09-13 06:07:00,False,,7,False,False,
+NCH 64,2025-09-13,True,Gregory Milner,2025-09-13 05:10:00,False,,32,False,False,
+NCH 65,2025-09-13,False,,2025-09-13 00:30:00,False,,8,True,False,No prestart recorded.
+NCH 66,2025-09-13,True,Daniel Kitchen,2025-09-13 02:58:00,False,,13,False,False,
+NCH 67,2025-09-13,True,Christopher Evans,2025-09-13 05:23:00,False,,14,False,False,
+NCH 69,2025-09-13,True,Wayne Daniels,2025-09-13 14:29:00,False,,1,False,False,
+NCH 70,2025-09-13,False,,2025-09-13 05:26:00,False,,7,True,False,No prestart recorded.
+NCH 71,2025-09-13,False,,2025-09-13 03:02:00,False,,1,True,False,No prestart recorded.
+NCH 28,2025-09-14,False,,2025-09-14 01:54:00,False,,10,True,False,No prestart recorded.
+NCH 31,2025-09-14,False,,2025-09-14 00:08:00,False,,9,True,False,No prestart recorded.
+NCH 35,2025-09-14,False,,2025-09-14 06:47:00,False,,6,True,False,No prestart recorded.
+NCH 37,2025-09-14,False,,2025-09-14 06:31:00,False,,2,True,False,No prestart recorded.
+NCH 38,2025-09-14,False,,2025-09-14 05:24:00,False,,4,True,False,No prestart recorded.
+NCH 39,2025-09-14,False,,2025-09-14 08:22:00,False,,6,True,False,No prestart recorded.
+NCH 40,2025-09-14,False,,2025-09-14 05:19:00,False,,4,True,False,No prestart recorded.
+NCH 41,2025-09-14,False,,2025-09-14 02:42:00,False,,14,True,False,No prestart recorded.
+NCH 42,2025-09-14,False,,2025-09-14 02:01:00,False,,6,True,False,No prestart recorded.
+NCH 43,2025-09-14,False,,2025-09-14 01:59:00,False,,5,True,False,No prestart recorded.
+NCH 46,2025-09-14,False,,2025-09-14 06:09:00,False,,4,True,False,No prestart recorded.
+NCH 52,2025-09-14,False,,2025-09-14 06:36:00,False,,2,True,False,No prestart recorded.
+NCH 53,2025-09-14,False,,2025-09-14 07:04:00,False,,9,True,False,No prestart recorded.
+NCH 54,2025-09-14,False,,2025-09-14 04:50:00,False,,14,True,False,No prestart recorded.
+NCH 55,2025-09-14,False,,2025-09-14 04:09:00,False,,3,True,False,No prestart recorded.
+NCH 56,2025-09-14,False,,2025-09-14 05:02:00,False,,4,True,False,No prestart recorded.
+NCH 58,2025-09-14,False,,2025-09-14 05:24:00,False,,5,True,False,No prestart recorded.
+NCH 61,2025-09-14,False,,2025-09-14 06:51:00,False,,3,True,False,No prestart recorded.
+NCH 64,2025-09-14,False,,2025-09-14 04:04:00,False,,2,True,False,No prestart recorded.
+NCH 66,2025-09-14,False,,2025-09-14 00:26:00,False,,2,True,False,No prestart recorded.
+NCH 67,2025-09-14,False,,2025-09-14 05:11:00,False,,5,True,False,No prestart recorded.
+NCH 70,2025-09-14,False,,2025-09-14 05:28:00,False,,12,True,False,No prestart recorded.
+NCH 71,2025-09-14,False,,2025-09-14 05:22:00,False,,3,True,False,No prestart recorded.
